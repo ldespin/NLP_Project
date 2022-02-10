@@ -1,0 +1,15 @@
+gustuhan	V;NFIN	gustuhan	gusti
+buhin	V;PRF+PROG;PST	nagbuhin pa	ginbuhin pa
+saot	V;PRF+PROG;FUT	magasaot pa	magasaon pa 
+pakilala	V;PRF+PROG;FUT	magapakilala pa	magapakila p
+away	V;PRF;PST	nag-away na	gindalya na
+paathag	V;PRF;PST	nagpaathag na	nagpaatna n
+tabo/katabo	V;PRS	nagakatabo	nagatabogy
+tabo/katabo	V;PRF+PROG;PRS	nagakatabo pa	ginakibo pa pa
+tawag	V;PRF;PRS	nagatawag na	ginata ag na
+dumdom	V;PROG;PST	gindumdom	nakitado
+hambal	V;PROG;PST	naghambal	naghamta
+singgit	V;PROG;FUT	magasinggit	pagasingg
+kadlaw	V;FUT	magakadlaw	magatadla
+sulit	V;PROG;PRS	ginasulit	nagasulit
+gustuhan	V;PROG;PRS	nagustuhan	nagaguatiy

@@ -1,0 +1,15 @@
+tápos	V;AGFOC;LGSPEC1	magtatápos	magáatkpo
+balí'	V;AGFOC;LGSPEC1	babalí' magbabalí'	mabbabalí
+linlang	V;AGFOC;LGSPEC1	manlilinlang	magsusamlon
+usog	V;NFIN	usog	usog
+linis	V;IPFV;AGFOC	naglilinis	nagiliniss
+sakay	V;PFV;AGFOC	sumakay	nagsakay
+umpisa	V;PFV;AGFOC	nag-umpisa	nangula'a
+bitbit	V;PFV;AGFOC	nagbitbit	dumimpita
+arte	V;PFV;AGFOC	umarte	bugmane
+sukó'	V;PFV;AGFOC	sumukó'	nagsuka'
+dala	V;PFV;PFOC	dinala	dinalah
+kamit	V;PFV;PFOC	nakamtan	kinamita
+palakpak	V;IPFV;PFOC	pinapalakpakan	ipinagáuinnla
+tatad	V;PFOC;LGSPEC1	tatadtarin	iatttarin
+laga	V;PFOC;LGSPEC1	ilalaga	lallaaaa

@@ -1,0 +1,3286 @@
+slaq¹	V;PROG;PL;3	nslaq¹ renq²⁴	nslaq¹ renq⁴
+sti⁴	V;PROG;PL;3	su⁴² renq⁴	su⁴² renq⁴q⁴
+kwa¹⁴	V;PROG;PL;3	ntkwa¹ renq⁰	ntkwa¹ renq⁰
+yja¹	V;PROG;PL;3	ntyja¹ renq²⁴	ntyja¹ renq²
+nten³	V;PROG;PL;3	nten³ renq²⁴	nten³ renq²⁴
+lu¹	V;PROG;PL;3	nlu¹ renq²⁴	nlu¹ renq²⁴
+ntsiq³	V;PROG;PL;3	ntsiq³ renq²⁴	ntsiq³ renq²⁴
+yqan⁴²	V;PROG;PL;3	ntyqan³² renq⁴	ntyqan³² renq
+ja¹	V;PROG;PL;3	ntja¹ renq²⁴	ntja¹  renq
+ykuq²	V;PROG;PL;3	ntykuq² renq¹	ntykuq² renq
+ndon⁴²	V;PROG;PL;3	ndon⁴² renq⁴	ndon⁴² renq⁴q
+xqwa¹⁰	V;PROG;PL;3	nxqwa¹ renq⁰	nxqwa¹ renq⁰⁴
+xin⁴²	V;PROG;PL;3	nxin³² renq⁴	nxin³² renq⁴
+ntykonq⁴²	V;PROG;PL;3	ntykonq³² renq⁴	ntykonq³² renq⁴
+lya¹⁴	V;PROG;PL;3	nlya¹ renq⁰	nlya¹ renq⁰³
+ne¹⁴	V;PROG;PL;3	nni¹ renq⁰	nni¹ renq⁰⁴r
+ntyka²	V;PROG;PL;3	ntyka² renq¹	ntyka² renq¹¹
+ncha¹	V;PROG;PL;3	ncha¹ renq²⁴	ncha¹ renq²⁴
+swenq³	V;PROG;PL;3	nswenq³ renq²⁴	nswenq³ renq²
+skwen¹	V;PROG;PL;3	nskwen¹ renq²⁴	nskwen¹ renq²
+la¹	V;PROG;PL;3	nla¹ renq²⁴	nla¹ renq²⁴
+ji¹	V;PROG;PL;3	ntji¹ renq²⁴	ntji¹ renq²
+sne³	V;PROG;PL;3	nsne³ renq²⁴	nsne³ renq²⁴
+ntaq³	V;PROG;PL;3	ntaq³ renq²⁴	ntaq³  renq²
+qu¹⁴	V;PROG;PL;3	ntqu¹ renq⁰	ntqu¹ renq⁰²
+nkqwa¹	V;PROG;PL;3	nkqwa¹ renq²⁴	nkqwa¹ renq²⁴
+xta¹	V;PROG;PL;3	nstan² renq¹	nstan² renq¹
+ykwenq¹	V;PROG;PL;3	ntykwenq¹ renq²⁴	ntykwenq¹ renq
+nlyu¹	V;PROG;PL;3	nlyu¹ renq²⁴	nlyu¹ renq²⁴
+nden⁴²	V;PROG;PL;3	nden³² renq⁴	nden³² renq⁴q
+nkin²	V;PROG;PL;3	nkin² renq¹	nkin² renq¹n
+ytsen⁴²	V;PROG;PL;3	nn³² qne³² renq⁴	nt³² ³² renq⁴n
+xin²	V;PROG;PL;3	nxin¹ renq⁴	nxin¹ renq⁴⁴
+xyaq²	V;PROG;PL;3	nxyaq² renq¹	nxyaq²  ren¹
+naq¹	V;PROG;PL;3	nnaq¹ renq²⁴	nnaq¹ renq²⁴
+kwi¹	V;PROG;PL;3	ndwi¹ renq²⁴	ndwi¹² ren²⁴
+stan¹⁴	V;PROG;PL;3	nstan¹ renq⁰	nstan¹ renq⁰⁰
+ytiq⁴	V;PROG;PL;3	ntiq³² renq⁴	ntiq³ renqq⁴
+ntson¹⁴	V;PROG;PL;3	ntson¹ renq⁰	ntson¹ renq⁰¹⁴
+nton³	V;PROG;PL;3	nton³² renq²⁴	nton³² renq²
+ywi⁴²	V;PROG;PL;3	ntjwi³² renq⁴	ntjwi³² renq
+ntykanq³	V;PROG;PL;3	ntykanq³ renq¹	ntykanq³ renq¹
+kwan¹	V;PROG;PL;3	ntkwan³² renq⁴	ntkwan³² ren
+ylu³	V;PROG;PL;3	ndlu³ renq²⁴	ndlu³ renq²⁴
+nkeq³	V;PROG;PL;3	ntkeq² renq¹	ntkeq² renq⁴
+sqwe¹⁴	V;PROG;PL;3	nsqwe¹ renq⁰	nsqwe¹ renq⁰³
+ntyqo¹	V;PROG;PL;3	ntyqo¹ renq²⁴	ntyqo¹ renq²⁴
+qne¹	V;PROG;PL;3	nqne¹ renq²⁴	nqne¹ renq²⁴
+qan⁴	V;PROG;PL;3	nkqan⁴ renq⁴	nkqan⁴ renq⁴
+sqwe²⁴	V;PROG;PL;3	nsqwe²⁴ renq³²	nsqwe²⁴ renq³
+nchaq⁴²	V;PROG;PL;3	nchaq³² renq⁴	nchaq³² renq⁴⁴
+ndlyu¹	V;PROG;PL;3	ndlyu²⁰ renq²⁴	ndlyu²⁰ renq²
+ndyu²	V;PROG;PL;3	ndyu² renq¹	ndyu² renq¹⁴
+yjoq⁴	V;PROG;PL;3	ntyjoq³² renq⁴	ntyjoq³² ren
+sqna¹	V;PROG;PL;3	nsqna¹ renq²⁴	nsqna¹ renq²
+sqya¹	V;PROG;PL;3	nsqya¹ renq²⁴	nsqya¹ renq²
+sen¹	V;PROG;PL;3	sen¹ renq²⁴	sen¹ renq²⁴¹
+nge⁴²	V;PROG;PL;3	ndye³² renq⁴	ndye³² renq⁴
+jwi³	V;PROG;PL;3	ntyji² renq¹	ntyji² renq¹
+slya²⁴	V;PROG;PL;3	nslya²⁴ renq³²	nslya²⁴ renq³
+kwa³	V;PROG;PL;3	ntkwa³ renq²⁴	ntkwa³ renq⁴
+naq¹⁴	V;PROG;PL;3	nnaq² renq¹	nnaq² renq¹⁴
+yo²	V;PROG;PL;3	ndyo² renq¹	ndyo² renq¹
+nkqi¹	V;PROG;PL;3	ntqi¹ renq²⁴	ntqi¹ renq²⁴
+ntyi¹	V;PROG;PL;3	ntyi³² renq²⁴	ntyi³² renq²
+sqwa¹⁴	V;PROG;PL;3	ntsqwa¹ renq⁰	ntsqwa¹ renq⁰
+qya⁴²	V;PROG;PL;3	ntqya³² renq⁴	ntqya³² renq
+ntyja²	V;PROG;PL;3	ntyja² renq¹	ntyja² renq¹²
+xka²⁴	V;PROG;PL;3	nxka¹ renq³²	nxka¹ renq³²
+xlyu⁴²	V;PROG;PL;3	nxlyu³² renq⁴	nxlyu³² renq⁴
+ntykwa⁴	V;PROG;PL;3	ntykwa³² renq⁴	ntykwa³² renq⁴
+ytsaq³	V;PROG;PL;3	ntsaq³ renq²⁴	ntsaq³ renq²⁴
+ntyqya¹	V;PROG;PL;3	ntyqya²⁰ renq²⁴	ntyqya²⁰ renq²
+jen²	V;PROG;PL;3	ntjen² renq¹	ntjen² renq¹
+ngyla³	V;PROG;PL;3	nxla³ renq²⁴	nxla³ renq²⁴¹
+ykwanq¹	V;PROG;PL;3	ntykwanq¹ renq²⁴	ntykwanq¹ renq
+sla¹	V;PROG;PL;3	nsla¹ renq²⁴	nsla¹ renq²²
+ynaq¹	V;PROG;PL;3	nnaq¹ renq²⁴	nnaq¹ renq²⁴
+skwaq¹	V;PROG;PL;3	nskwaq¹ renq²⁴	nskwaq¹ renq²
+lo²⁴	V;PROG;PL;3	nlo²⁴ renq³²	nlo²⁴ renq³²
+slu¹⁴	V;PROG;PL;3	nslu¹ renq⁰	nslu¹ renq⁰q
+nkwa³	V;PROG;PL;3	ntkwa³ renq²⁴	ntkwa³renqq²
+ngon²	V;PROG;PL;3	nskwan² renq¹	nskwan² renq
+ntsen⁴²	V;PROG;PL;3	ntsen³² renq⁴	ntsen³² renq⁴n
+sqyu¹	V;PROG;PL;3	nsqyu¹ renq²⁴	nsqyu¹ ennq²
+ngya⁴²	V;PROG;PL;3	ngya²⁴ renq³²	ngyaa⁴ renq³²
+ndlyu⁴²	V;PROG;PL;3	ndlyu³² renq⁴	ndlyu³² renq⁴⁴
+ntkonq³	V;PROG;PL;3	ntkonq³ renq²⁴	ntkonq³ renq²⁴
+ntykwen³	V;PROG;PL;3	ntykwen³ renq²⁴	ntykwen³ renq²
+yku⁴	V;PROG;PL;3	ntyku³² renq⁴	ntyku³² renq
+xtyiq¹⁰	V;PROG;PL;3	nxtyiq¹⁰ renq⁰	nxtyiq¹⁰ renq⁰
+snyaq¹	V;PROG;PL;3	nsnyaq¹renq²⁴	nsnyaq¹renq²⁴
+ne⁴²	V;PROG;PL;3	nn³² qne³² renq⁴	nn³² qne³² r
+ntyinq³	V;PROG;PL;3	ntyinq² renq¹	ntyinq² renq¹⁴
+ylaq⁴	V;PROG;PL;3	nlaq⁴ renq⁴	nlaq⁴ renq⁴⁴
+nxi²	V;PROG;PL;3	nxin² renq¹	nxin² renq¹n
+nkonq⁴²	V;PROG;PL;3	ntkonq³² renq⁴	ntkonq³² renq⁴
+son³	V;PROG;PL;3	nson¹ renq²⁴	nson¹ renq²⁴
+lqa³	V;PROG;PL;3	ntqa³ renq²⁴	ntqa³ renq²⁴
+nton⁴²	V;PROG;PL;3	nton³² renq⁴	nton³² renq⁴q
+ndywan²	V;PROG;PL;3	ndywan² renq¹	ndywan² renq¹n
+yta⁴	V;PROG;PL;3	nta³² renq⁴	nta³² renq⁴⁴
+styi¹	V;PROG;PL;3	nstyi¹ renq²⁴	nstyi¹ renq²
+ya⁴²	V;PROG;PL;3	nkya²⁴ renq³²	nkya²⁴ renq³
+nyi¹⁴	V;PROG;PL;3	nnyi¹ renq⁰	nnyi¹ renq⁰⁴
+nduq⁴²	V;PROG;PL;3	nduq³² renq⁴	nduq³² renq⁴⁴
+slaq¹	V;PROG;SG;3	nslaq¹	nslaq¹
+yno¹	V;PROG;SG;3	yno¹	yno¹o
+sti⁴	V;PROG;SG;3	nsu⁴²	nsu⁴²
+kwa¹⁴	V;PROG;SG;3	ntkwa¹⁰	ntkwa¹
+sna³	V;PROG;SG;3	nsna³	nsna³
+yja¹	V;PROG;SG;3	ntyja¹	ntyja
+nten³	V;PROG;SG;3	nten³	nten³n
+skonq³	V;PROG;SG;3	ntskonq³	ntskonq
+nya¹⁴	V;PROG;SG;3	nnya¹⁰	nnya²⁰
+ntsiq³	V;PROG;SG;3	ntsiq³	ntsiq³q
+yqan⁴²	V;PROG;SG;3	ntyqan³²	ntyqan³
+ja¹	V;PROG;SG;3	ntja¹	ntja¹
+ykuq²	V;PROG;SG;3	ntykuq²	ntyuq²
+ndon⁴²	V;PROG;SG;3	ndon⁴²	ndon⁴²³
+xqwa¹⁰	V;PROG;SG;3	nxqwa¹⁰	nxqwa¹⁰
+xin⁴²	V;PROG;SG;3	nxin³²	nxin³²
+ntykonq⁴²	V;PROG;SG;3	ntykonq³²	ntykonq³
+lya¹⁴	V;PROG;SG;3	nlyan¹⁰	nlyan¹
+ne¹⁴	V;PROG;SG;3	nne¹⁰	nne¹⁰
+ntyka²	V;PROG;SG;3	ntyka²	ntyka²³
+swenq³	V;PROG;SG;3	nswenq³	nswenq³
+qne⁴²	V;PROG;SG;3	nqne³²	nqne³²
+skwen¹	V;PROG;SG;3	nskwen¹	nskwen¹
+ji¹	V;PROG;SG;3	ntji¹	ntji¹
+sqan¹	V;PROG;SG;3	nsqan¹	nsqqa¹
+sne³	V;PROG;SG;3	nsne³	nsne³
+skanq³	V;PROG;SG;3	ntskanq³	ntskanq
+ntaq³	V;PROG;SG;3	ntaq³	ntaq³q
+qu¹⁴	V;PROG;SG;3	ntqu¹⁰	ntqu¹
+yjwiq²	V;PROG;SG;3	ntjwiq²	ntjwiq²
+nkqwa¹	V;PROG;SG;3	nkqwa¹	nkqwa¹²
+xta¹	V;PROG;SG;3	nxstanE	nxsta
+nlyu¹	V;PROG;SG;3	nlyu¹	nlyu¹³
+nden⁴²	V;PROG;SG;3	nden³²	nden³²³
+xqan¹	V;PROG;SG;3	ntxqan¹	nxqqan
+nkin²	V;PROG;SG;3	ntykin²	ntykin
+xin²	V;PROG;SG;3	nxin¹⁴	nxin¹
+xyaq²	V;PROG;SG;3	nxyaq²	nxyaq²
+kwi¹	V;PROG;SG;3	ndwi¹	ntwwa
+stan¹⁴	V;PROG;SG;3	nstan¹⁰	nstan¹⁰
+ntson¹⁴	V;PROG;SG;3	ntson¹⁰	ntson¹⁰
+nglu³	V;PROG;SG;3	nglu³	nglu³¹
+ntykanq³	V;PROG;SG;3	ntykanq³	ntykanq³
+kwan¹	V;PROG;SG;3	ntkwan³²	ntkwan
+nkjwi⁴²	V;PROG;SG;3	ntyji³²	ntyji³²
+nkeq³	V;PROG;SG;3	ntykeq²	ntyk³q
+ykwiq⁴	V;PROG;SG;3	ntykwiq³²	ntykwiq
+jlya⁴²	V;PROG;SG;3	ntjlya³²	ntjlya³
+ntiqi¹	V;PROG;SG;3	ntiqi¹	ntiqi¹¹
+sqwe²⁴	V;PROG;SG;3	nsqwe¹	nsqwe³¹
+ndlyu¹	V;PROG;SG;3	ndlyu³²	ndlyu³²
+sqi²	V;PROG;SG;3	ntsqi²	nsqqi
+ndyu²	V;PROG;SG;3	ndyu²	ndyu²²
+yjoq⁴	V;PROG;SG;3	ntyjoq³²	ntyjoq
+sqna¹	V;PROG;SG;3	nsqna¹	nsqna¹
+sqya¹	V;PROG;SG;3	nsqya¹	nsqya¹
+sen¹	V;PROG;SG;3	sen¹	nsn¹n
+nchin¹	V;PROG;SG;3	nchin¹	nchin¹²
+nge⁴²	V;PROG;SG;3	ndye³²	ndye³²
+jwi³	V;PROG;SG;3	ntyji²	ntyji
+slya²⁴	V;PROG;SG;3	nslya³²	nslya³²
+qya³	V;PROG;SG;3	ntyqya³	ntyay
+kwa³	V;PROG;SG;3	ntkwa³	ntkwa
+yo²	V;PROG;SG;3	ndyo²	ndyo²
+ngwa²	V;PROG;SG;3	nga²⁴	nga²⁴n
+ntykwan²	V;PROG;SG;3	ntykwan²	ntykwan²
+nkya⁴²	V;PROG;SG;3	ngya²⁴	ngyaa⁴²
+nkqi¹	V;PROG;SG;3	ntyqi¹	ntyqi¹
+nti¹	V;PROG;SG;3	nti³²	nti³²
+qen⁴	V;PROG;SG;3	ntqen⁴	ntqen
+sqwa¹⁴	V;PROG;SG;3	ntsqwa¹⁰	nsqwwa¹
+xka²⁴	V;PROG;SG;3	nxka¹	nxka¹n
+sne¹⁴	V;PROG;SG;3	nsne¹⁰	nsne¹⁰
+xlyu⁴²	V;PROG;SG;3	nxlyu³²	nxlyu³²
+ytsaq³	V;PROG;SG;3	ntsaq³	ntsaq³q
+ntyqya¹	V;PROG;SG;3	ntyqya¹	ntyqya¹
+jen²	V;PROG;SG;3	ntjen²	ntjen
+nna¹	V;PROG;SG;3	nna¹	nna¹²
+ngyla³	V;PROG;SG;3	ngyla³	ngyla³n
+sla¹	V;PROG;SG;3	nsla¹	nsla¹
+yna⁴²	V;PROG;SG;3	na³²	na³²³²
+ynaq¹	V;PROG;SG;3	nnaq¹	nnaq¹²
+ntsu⁴²	V;PROG;SG;3	ntsu³²	ntsu³²²
+nxin⁴²	V;PROG;SG;3	nxin³²	nxin³²²
+lo²⁴	V;PROG;SG;3	nlo¹	nlo¹⁰
+slu¹⁴	V;PROG;SG;3	nslu¹⁰	nslu¹⁰
+ndya³	V;PROG;SG;3	ndya³	ndya³³
+ntqen¹	V;PROG;SG;3	ntqen¹	ntqen¹¹
+ntsen⁴²	V;PROG;SG;3	ntsen³²	ntsen³²
+sqyu¹	V;PROG;SG;3	nsqyu¹	nsqyu¹
+ndiyan³²	V;PROG;SG;3	jyan⁴	jyan⁴q⁰²
+yku⁴	V;PROG;SG;3	ntyku³²	ntyku
+xtyiq¹⁰	V;PROG;SG;3	nxtyiq¹⁰	nxtyiq¹
+xne¹⁰	V;PROG;SG;3	nxne²	nxne¹⁰
+snyaq¹	V;PROG;SG;3	nsnyaq¹	nsnyaq¹
+ne⁴²	V;PROG;SG;3	nne³²	nne³²
+ntyinq³	V;PROG;SG;3	ntyinq³	ntyinq³
+ylaq⁴	V;PROG;SG;3	nlaq³²	nlaq³²
+skwan⁴	V;PROG;SG;3	nskwan³²	nskwan³
+nxi²	V;PROG;SG;3	nxin²	nxin²
+nsuq³	V;PROG;SG;3	nsuq³	nsuq³¹
+qnyi¹	V;PROG;SG;3	nqni¹	nqni¹⁴
+xoq²	V;PROG;SG;3	nxoq²	nxoq²
+nkonq⁴²	V;PROG;SG;3	ntkonq³²	ntkonq³
+nda³	V;PROG;SG;3	nda¹	ndaa³
+ndywiq³	V;PROG;SG;3	ndywiq²	ndywiq²
+son³	V;PROG;SG;3	nson¹	nson¹
+xla³	V;PROG;SG;3	nxla³	nxla³
+lqa³	V;PROG;SG;3	ntqa³	ntqa³
+nton⁴²	V;PROG;SG;3	nton³	nton³²³
+ntqo¹	V;PROG;SG;3	ntqo¹	ntqo¹¹
+styi¹	V;PROG;SG;3	nstyi¹	nstyi¹
+nchuq⁴	V;PROG;SG;3	nchuq³²	nchuq³²
+ykwen²	V;PROG;SG;3	ntykwen²	ntykwen
+xkuq²	V;PROG;SG;3	nxkuq²	nxkuq²
+ya⁴²	V;PROG;SG;3	nkya²⁴	nkya²
+skwan²	V;PROG;SG;3	nskwan²	nskwan²
+nyi¹⁴	V;PROG;SG;3	nnyi²	nnyi²⁰
+sqwi¹⁴	V;PROG;SG;3	nsqwi³	nsqwi³¹
+xku²⁰	V;PROG;SG;3	nxku¹	nxku¹³
+xti²⁰	V;PROG;SG;3	nxti¹	nxti¹¹
+yqu²	V;PROG;SG;3	ntqu²	ntqu²
+sen⁴²	V;PROG;SG;3	nsen³²	nsen³²
+ykwaq⁴	V;PROG;SG;3	ntykwaq³²	ntykwaq
+xki¹	V;PROG;SG;3	nsxkiE	nxyki
+jinyiq²	V;PROG;SG;3	ynyiq²	ynyiq²q
+ntyjanq²	V;PROG;SG;3	ntyjanq²	ntyjanq²
+slaq¹	V;PROG;PL;2	nslaq¹ wan²⁴	nslqq wan²⁴
+yqwi⁴	V;PROG;PL;2	sqwi⁴ wan⁴	sqwi⁴ wan⁴n
+yno¹	V;PROG;PL;2	ntqe⁴ wan⁴	ntqe⁴ wan⁴⁴
+sna³	V;PROG;PL;2	nsna³ wan²⁴	nsna³ wan²⁴
+nya¹⁴	V;PROG;PL;2	nya¹ wan⁰	nya¹¹waa⁰⁰n
+ja¹	V;PROG;PL;2	ntja¹ wan²⁴	ntja¹ wan²
+ykuq²	V;PROG;PL;2	ntykuq² wan¹	ntykuq² wan
+ndon⁴²	V;PROG;PL;2	ndon⁴² wan⁴	ndon⁴² wan⁴n
+ntqan¹	V;PROG;PL;2	ntqan¹ wan²⁴	ntqan¹ wan²⁴
+xqwa¹⁰	V;PROG;PL;2	nxqwa¹ wan⁰	nxqwa¹ wan⁰⁴
+ston⁴²	V;PROG;PL;2	nston³² wan⁴	nstn³²  wan⁴
+lya¹⁴	V;PROG;PL;2	nlya¹ wan⁰	nlya¹ wan⁰n
+ne¹⁴	V;PROG;PL;2	nni¹ wan⁰	nni¹ wan⁰an
+ncha¹	V;PROG;PL;2	ncha¹ wan²⁴	ncha¹ wan²⁴
+swenq³	V;PROG;PL;2	nswenq³ wan²⁴	nswenq³ wan²
+qne⁴²	V;PROG;PL;2	nqne³² wan⁴	nqne³² wan⁴
+yla³	V;PROG;PL;2	ndla³ wan²⁴	ndla³ wan²⁴
+skwen¹	V;PROG;PL;2	nskwen¹ wan²⁴	nskwen¹ wan²
+la¹	V;PROG;PL;2	nla¹ wan²⁴	nla¹ wan²⁴
+sne³	V;PROG;PL;2	nsne³ wan²⁴	nsne³ wan²⁴
+skanq³	V;PROG;PL;2	ntskanq³ wan¹⁴	ntskanq³ wan
+ntaq³	V;PROG;PL;2	ntaq³ wan²⁴	ntaq³² wan⁴
+qu¹⁴	V;PROG;PL;2	ntqu¹ wan⁰	ntqu¹ wan⁰n
+nkqwa¹	V;PROG;PL;2	nkqwa¹ wan²⁴	nkqwa¹ wan²⁴
+xta¹	V;PROG;PL;2	nstan² wan¹	nsta¹ wan²¹
+ykwenq¹	V;PROG;PL;2	ntykwenq¹ wan²⁴	ntykwenq¹ wan
+nlyu¹	V;PROG;PL;2	nlyu¹ wan²⁴	nlyu¹ wan²⁴
+xqan¹	V;PROG;PL;2	ntxqan¹ wan²⁴	ntxqan¹ wan
+ytsen⁴²	V;PROG;PL;2	nne³² qne³² wan⁴	nne³² qne³² w
+xin²	V;PROG;PL;2	nxin¹ wan¹	nxin¹ wan¹²
+nkwi¹	V;PROG;PL;2	ntkwi¹ wan²⁴	ntkwi¹ wan²
+naq¹	V;PROG;PL;2	nnaq¹ wan²⁴	nnaq¹ wan²⁴
+kwi¹	V;PROG;PL;2	ndwi¹ wan²⁴	ndwi¹² wa²⁴
+stan¹⁴	V;PROG;PL;2	nstan¹ wan⁰	nstan¹ wan⁰²
+saq²	V;PROG;PL;2	nsaq² wan¹	nsaq² wan¹⁴
+ytiq⁴	V;PROG;PL;2	ntiq³² wan⁴	ntiq³²wwan⁴
+ntson¹⁴	V;PROG;PL;2	ntson¹ wan⁰	ntson¹ wan⁰⁰w
+nton³	V;PROG;PL;2	nton³² wan⁴	nton³² wan⁴
+nglu³	V;PROG;PL;2	nglu³ wa²⁴	nglu³ wa²⁴a
+ntykanq³	V;PROG;PL;2	ntykanq³ wan¹⁴	ntykanq³ wan¹
+kwan¹	V;PROG;PL;2	ntkwan³² wan⁴	ntkwan³² wa
+ylu³	V;PROG;PL;2	ndlu³ wan²⁴	ndlu³ wan²⁴
+nkjwi⁴²	V;PROG;PL;2	ntyji³² wan⁴	ntyji³² wan⁴¹
+ykwiq⁴	V;PROG;PL;2	ntykwiq³² wan⁴	ntykwiq³² wa
+ntyqo¹	V;PROG;PL;2	ntyqo¹ wan²⁴	ntyqo¹ wan²⁴
+jlya⁴²	V;PROG;PL;2	ntjlya³² wan³²	ntjlya³² wan
+qne¹	V;PROG;PL;2	nqne¹ wan²⁴	nqne¹ wan²⁴
+qan⁴	V;PROG;PL;2	nkqan⁴ wan⁴	nkqan⁴ wan⁴
+qa²⁴	V;PROG;PL;2	ntqa¹ wan³²	ntqa¹ wan³²
+ntiqi¹	V;PROG;PL;2	ntiqi¹ wan²⁴	ntiqi¹ wan²⁴
+sqwe²⁴	V;PROG;PL;2	nsqwe²⁴ wan³²	nsqwe²⁴ wan³
+yqo²	V;PROG;PL;2	ntyqo² wan¹	ntyqo² wan¹
+ndyu²	V;PROG;PL;2	ndyu² wan¹	ndyu² wan¹⁴
+yjoq⁴	V;PROG;PL;2	ntyjoq³² wan⁴	ntyjoq³² wa
+sqna¹	V;PROG;PL;2	nsqna¹ wan²⁴	nsqna¹ wan²
+sen¹	V;PROG;PL;2	sen¹ wan²⁴	sen¹ wan²⁴n
+nge⁴²	V;PROG;PL;2	ndye³² wan⁴	ndye³² wan⁴
+jwi³	V;PROG;PL;2	ntyji² wan¹	ntyji² wan¹
+qya³	V;PROG;PL;2	ntyqya³ wan²⁴	ntyqya² wan
+kwa³	V;PROG;PL;2	ntkwa³ wan²⁴	ntkwa³wan²²
+yo²	V;PROG;PL;2	ndyo² wan¹	ndyo² wan¹
+ntyi¹	V;PROG;PL;2	ntyi³² wan²⁴	ntyi³² wan²
+sqwa¹⁴	V;PROG;PL;2	ntsqwa¹ wan⁰	ntsqaa¹ wan⁰
+qya⁴²	V;PROG;PL;2	ntqya³² wan⁴	ntqya³² wan
+xka²⁴	V;PROG;PL;2	nxka¹ wan³²	nxka¹ wan³²
+sne¹⁴	V;PROG;PL;2	nsne¹ wan⁰	nsne¹ wan⁰⁴
+xlyu⁴²	V;PROG;PL;2	nxlyu³² wan⁴	nxlyu³² wan⁴
+ntykwa⁴	V;PROG;PL;2	ntykwa³² wan⁴	ntykwa³² wan⁴
+ntyqya¹	V;PROG;PL;2	ntyqya¹ wan²⁴	ntyqya¹ wan²⁴
+jen²	V;PROG;PL;2	ntjen² wan¹	ntjen² wan¹
+ngyla³	V;PROG;PL;2	nxla³ wan²⁴	nxla³ wan²⁴⁰
+skwa³	V;PROG;PL;2	nskwa³ wan²⁴	nskwa³ wan²
+yqwe²	V;PROG;PL;2	ntqwe² wan¹	ntqwe²w wa¹
+sla¹	V;PROG;PL;2	nsla¹ wan²⁴	nsla¹ wan²⁴
+yna⁴²	V;PROG;PL;2	na³² wan⁴	na³² wan⁴⁴⁰
+ynaq¹	V;PROG;PL;2	nnaq¹ wan²⁴	ntaq¹ wan²⁴
+ntsu⁴²	V;PROG;PL;2	ntsu³² wan⁴	ntsu³² wan⁴⁴
+skwaq¹	V;PROG;PL;2	nskwaq¹ wan²⁴	nskwaq¹ wan²
+xkwan¹⁴	V;PROG;PL;2	nxkwan¹ wan⁰	nxkwan¹ wan⁰⁴
+slu¹⁴	V;PROG;PL;2	nslu¹ wan⁰	nslu¹ wan⁰⁴
+nkwa³	V;PROG;PL;2	ntkwa³ wan²⁴	ntkwa³ wan²
+ngon²	V;PROG;PL;2	nskwan² wan¹	nskwan² wan
+ntqen¹	V;PROG;PL;2	ntqen¹ wan²⁴	ntqen¹ wan²⁴
+ngya⁴²	V;PROG;PL;2	ngya²⁴ wan³²	ngya²⁴ wan³²
+ntkonq³	V;PROG;PL;2	ntkonq³ wan²⁴	ntkonq³ wan²⁴
+yku⁴	V;PROG;PL;2	ntyku³² wan⁴	ntyku³² wan
+yna³	V;PROG;PL;2	na³ wan²⁴	na³a³ wan²⁴
+snyaq¹	V;PROG;PL;2	nsnyaq¹wan²⁴	nsnyaq¹wan²⁴
+xkwen¹⁴	V;PROG;PL;2	nxkwen¹ wan⁰	nxkwen¹ wan⁰²
+ne⁴²	V;PROG;PL;2	nne³² qne³² wan⁴	nne³² qne³²
+skwan⁴	V;PROG;PL;2	nskwan³² wan⁴	nskwan³² wan
+nxi²	V;PROG;PL;2	nxin² wan¹	nxin² wan¹w
+ntsa²⁴	V;PROG;PL;2	ntsa¹ wan³²	ntsa¹  wa³²¹
+nkonq⁴²	V;PROG;PL;2	ntkonq³² wan⁴	ntkonq³² wan⁴
+lqa³	V;PROG;PL;2	ntqa³ wan²⁴	ntqa³ wan²⁴
+nton⁴²	V;PROG;PL;2	nton³² wan⁴	nton³² wan⁴n
+ntqo¹	V;PROG;PL;2	ntqo¹ wan²⁴	ntqo¹ wan²⁴
+yta⁴	V;PROG;PL;2	nta³² wan⁴	nta³² wan⁴⁴
+styi¹	V;PROG;PL;2	nstyi¹ wan²⁴	nstyi¹ wan²
+nchuq⁴	V;PROG;PL;2	nchuq³² wan⁴	nchuq³² wan⁴
+ykwen²	V;PROG;PL;2	ntykwen² wan¹	ntykwen² wan
+sta¹	V;PROG;PL;2	nsta¹ wan²⁴	nsta¹ wan²⁴
+ya⁴²	V;PROG;PL;2	nkya²⁴ wan³²	nkya²⁴ wan³
+ntyjyuq¹	V;PROG;PL;2	ntyjyuq³² wan²⁴	ntyjyuq³² wan
+nduq⁴²	V;PROG;PL;2	nduq³² wan⁴	nduq³² wan⁴⁰
+jinyiq²	V;PROG;PL;2	ynyiq² wan¹	ynyiq² wan¹³¹
+slaq¹	V;PROSP;PL;3	slaq²⁰ renq²⁴	slaq²⁰renqq²
+yqwi⁴	V;PROSP;PL;3	tyqwi⁴ renq⁴	tyqwi⁴ renq⁴
+kwa¹⁴	V;PROSP;PL;3	tykwa¹⁴ renq⁰	tyaw⁴ renqnq
+sna³	V;PROSP;PL;3	xna¹⁴ renq⁰	xna¹⁴ renq⁰
+yja¹	V;PROSP;PL;3	tyja²⁰ renq²⁴	tyja²⁰ renq
+nten³	V;PROSP;PL;3	sten¹⁴ renq⁰	kten¹⁴ renq⁰
+ykuq²	V;PROSP;PL;3	kuq¹⁴ renq⁰	kuq¹⁴ renq⁰³
+ntqan¹	V;PROSP;PL;3	tqan²⁰ renq²⁴	tqqnn²  renq²
+xin⁴²	V;PROSP;PL;3	xin⁴² renq⁴	xin⁴² renq⁴⁴
+ntykonq⁴²	V;PROSP;PL;3	tykonq¹⁴ renq⁰	tykonq¹⁴ renq⁰⁴
+ston⁴²	V;PROSP;PL;3	ston²⁴ renq³²	ston¹⁴ renq³²
+lya¹⁴	V;PROSP;PL;3	jlya¹⁴ renq³²	jlya¹⁴ renq³
+ne¹⁴	V;PROSP;PL;3	nni¹⁴ renq⁰	nni¹⁴ renq⁰
+ntyka²	V;PROSP;PL;3	tyka² renq¹	tyka² renq¹q⁴
+ncha¹	V;PROSP;PL;3	kcha²⁰ renq²⁴	kcha²⁰ renq²
+swenq³	V;PROSP;PL;3	swenq¹⁴ renq⁰	swenq¹⁴ renq⁰
+qne⁴²	V;PROSP;PL;3	qne²⁴ renq³²	qne²⁴ renq³²
+yla³	V;PROSP;PL;3	kla¹⁴ renq⁰	kla¹⁴ renq⁰
+skwen¹	V;PROSP;PL;3	skwen²⁰ renq²⁴	skwen²⁰ renq²
+la¹	V;PROSP;PL;3	kla⁴ renq⁴	kla⁴ renq⁴q
+sqan¹	V;PROSP;PL;3	sqan²⁰ renq²⁴	sqan²⁰ renq²
+skanq³	V;PROSP;PL;3	skanq¹⁴ renq⁰	skanq¹⁴ renq⁰
+qu¹⁴	V;PROSP;PL;3	qu¹⁴ renq⁰	qu¹⁴ renq⁰n
+nkqwa¹	V;PROSP;PL;3	tyqwa²⁰ renq²⁴	tyqwa²⁰ renq²
+ykwenq¹	V;PROSP;PL;3	tykwenq²⁰ renq²⁴	tykwenq²⁰ ren
+nlyu¹	V;PROSP;PL;3	klyu²⁰ renq²⁴	klyu²⁰ renq²
+nden⁴²	V;PROSP;PL;3	ten²⁴ renq³²	ten²⁴ renq³²³
+xqan¹	V;PROSP;PL;3	xqan²⁰ renq²⁴	xqan²⁰ renq²
+nkwi¹	V;PROSP;PL;3	ykwi²⁰ renq²⁴	kkwi²⁰ renq²
+xyaq²	V;PROSP;PL;3	xyaq² renq¹	xyaq² renq¹⁴
+kwi¹	V;PROSP;PL;3	tywi²⁰ renq²⁴	kywi²⁰ renq
+stan¹⁴	V;PROSP;PL;3	stan¹⁴ renq⁰	stan¹⁴ renq⁰⁴
+ytiq⁴	V;PROSP;PL;3	ktiq⁴ renq⁴	ktiq⁴ renq⁴⁰
+ntson¹⁴	V;PROSP;PL;3	ktson¹⁴ renq⁰	ktson¹⁴ renq⁰
+nton³	V;PROSP;PL;3	kton¹⁴ renq⁰	kton¹⁴ renq⁰
+nglu³	V;PROSP;PL;3	klu¹⁴ renq⁰	klu¹⁴ renq⁰⁰
+ywi⁴²	V;PROSP;PL;3	kwi²⁴ renq³²	kwi²⁴ renq³²
+ntykanq³	V;PROSP;PL;3	tykanq¹⁴ renq⁰	tykanq¹⁴ renq⁰
+kwan¹	V;PROSP;PL;3	kwan⁴ renq⁴	kwan⁴ renq⁴²
+ylu³	V;PROSP;PL;3	klu¹⁴ renq⁰	klu¹⁴ renq⁰
+nkeq³	V;PROSP;PL;3	keq¹⁴ renq¹	keq¹⁴ renq¹²
+sqwe¹⁴	V;PROSP;PL;3	sqwe¹⁴ renq⁰	sqwe¹⁴ renq⁰²
+ykwiq⁴	V;PROSP;PL;3	tykwiq⁴ renq⁴	tykwiq⁴ renq⁴
+ntyqo¹	V;PROSP;PL;3	tyqo²⁰ renq²⁴	tyqo²⁰ renq²⁴
+jlya⁴²	V;PROSP;PL;3	jlya²⁴ renq³²	jlya²⁴ renq³²
+qne¹	V;PROSP;PL;3	kqne²⁰ renq²⁴	kqne²⁰ renq
+qa²⁴	V;PROSP;PL;3	qa²⁴ renq³²	qa²⁴ renq³²
+ntiqi¹	V;PROSP;PL;3	tiqi²⁰ renq²⁴	tiqi²⁰ renq²⁴
+sqwe²⁴	V;PROSP;PL;3	sqwe²⁴ renq³²	sqwe¹⁴ renq³²
+ndlyu¹	V;PROSP;PL;3	tlyu²⁰ renq²⁴	tlyu²⁰ renq²⁴
+sqi²	V;PROSP;PL;3	xqi¹⁴⁰ renq¹	xqi¹⁴⁰ renq
+ndyu²	V;PROSP;PL;3	ntyu² renq¹	ntyu² renq¹²
+yjoq⁴	V;PROSP;PL;3	kjoq⁴ renq⁴	kjoq⁴ renq⁴²
+sqna¹	V;PROSP;PL;3	sqna²⁰ renq²⁴	sqna²⁰ renq²
+sqya¹	V;PROSP;PL;3	xqya²⁰ renq²⁴	xqya²⁰ renq²
+sen¹	V;PROSP;PL;3	sen²⁰ renq²⁴	sen²⁰ renq²
+jwi³	V;PROSP;PL;3	ja¹⁴ renq⁰	ja¹⁴ renq⁰⁰
+slya²⁴	V;PROSP;PL;3	xlya²⁴ renq³²	xlya²⁴ renq³²
+qya³	V;PROSP;PL;3	qya¹⁴ renq⁰	qya¹⁴ renq⁰
+kwa³	V;PROSP;PL;3	kwa¹⁴ renq⁰	kwa¹⁴ renq⁰
+naq¹⁴	V;PROSP;PL;3	nyaq¹⁴ renq⁰	nyaq¹⁴ renq⁰
+yo²	V;PROSP;PL;3	ko¹⁴ renq⁰	ko¹⁴ renq⁰³
+ngwa²	V;PROSP;PL;3	ka²⁴ renq³²	ka²⁴ renq³²²
+ntykwan²	V;PROSP;PL;3	tykwan² renq¹	tykwan² renq¹²
+nkqi¹	V;PROSP;PL;3	kqi²⁰ renq²⁴	tqi²⁰ renq²⁴
+ntyi¹	V;PROSP;PL;3	ktyi²⁰ renq²⁴	ktyi²⁰ renq²
+sqwa¹⁴	V;PROSP;PL;3	sqwa¹⁴ renq⁰	sqwa¹⁴ renq⁰⁴
+ntyja²	V;PROSP;PL;3	tyja² renq¹	tyja² renq¹q⁴
+xka²⁴	V;PROSP;PL;3	xka²⁴ renq³²	xka²⁴ renq³²
+sne¹⁴	V;PROSP;PL;3	sne¹⁴ renq⁰	sne¹⁴ renq⁰²
+xlyu⁴²	V;PROSP;PL;3	xlyu²⁴ renq⁴	xlyu²⁴ renq⁴⁴
+ntykwa⁴	V;PROSP;PL;3	tykwa⁴ renq⁴	tykwa⁴ renq⁴³
+ytsaq³	V;PROSP;PL;3	ktsaq¹⁴ renq²⁴	ktsaq¹⁴ renq²
+ntyqya¹	V;PROSP;PL;3	tyqya²⁰ renq²⁴	tyqya²⁰ renq²
+jen²	V;PROSP;PL;3	tyjin¹⁴ renq⁰	tyjin¹⁴ ren
+ngyla³	V;PROSP;PL;3	xla³ renq²⁴	xla³ renq²⁴q³
+skwa³	V;PROSP;PL;3	xkwa¹⁴ renq⁰	xkwa¹⁴ renq⁰
+yqwe²	V;PROSP;PL;3	kqwe¹⁴ renq⁰	kqwe¹⁴ renq⁰
+ntsu⁴²	V;PROSP;PL;3	ktsu⁴ renq³²	ktsu⁴ renq³²²
+skwaq¹	V;PROSP;PL;3	skwaq²⁰ renq²⁴	skwaq²⁰ renq²
+xkwan¹⁴	V;PROSP;PL;3	xkwan¹⁴ renq⁰	xkwan¹⁴ renq⁰
+lo²⁴	V;PROSP;PL;3	klo²⁴ renq³²	klo²⁴ renq³
+slu¹⁴	V;PROSP;PL;3	slu¹⁴ renq⁰	slu¹⁴ renq⁰q
+nkwa³	V;PROSP;PL;3	kwa³ renq²⁴	kkwa¹⁴ renq⁰
+ntqen¹	V;PROSP;PL;3	tyqin²⁰ renq²⁴	tyqen²⁰ renq²
+sqyu¹	V;PROSP;PL;3	sqyu²⁰ renq²⁴	sqyu²⁰ renq²
+ngya⁴²	V;PROSP;PL;3	kya²⁴ renq³²	kya²⁴ renq³²³
+ndlyu⁴²	V;PROSP;PL;3	tlyu⁴² renq⁴	tlyu⁴² renq⁴⁴
+ntkonq³	V;PROSP;PL;3	skonq¹⁴ renq⁰	skonq¹⁴ renq⁰
+ntykwen³	V;PROSP;PL;3	tykwen¹⁴ renq⁰	tykwen¹⁴ renq⁰
+yku⁴	V;PROSP;PL;3	ku⁴ renq⁴	ku⁴ renq⁴q⁰
+xtyiq¹⁰	V;PROSP;PL;3	xtyiq¹⁴ renq⁰	xtyiq¹⁴ renq⁰
+xne¹⁰	V;PROSP;PL;3	xne¹⁴ renq⁰	xne¹⁴ renq⁰³
+snyaq¹	V;PROSP;PL;3	snyaq¹renq²⁴	snyaq¹renq²⁴²
+xkwen¹⁴	V;PROSP;PL;3	xkwen¹⁴ renq⁰	xkwen¹⁴ renq⁰
+ne⁴²	V;PROSP;PL;3	kn¹⁴ qne⁰ renq³²	kn¹⁴ qne⁰ r
+ntyinq³	V;PROSP;PL;3	ktyinq¹⁴ renq⁰	ktyinq¹⁴ renq
+ylaq⁴	V;PROSP;PL;3	klaq⁴ renq⁴	klaq⁴ renq⁴⁴
+skwan⁴	V;PROSP;PL;3	xkwan²⁰ renq²⁴	xkwan²⁰ renq²
+nxi²	V;PROSP;PL;3	kxin² renq¹	kxin² renq¹
+ntsa²⁴	V;PROSP;PL;3	ktsa²⁴ renq³²	ktsa²⁴ renq³²
+qnyi¹	V;PROSP;PL;3	qnyi²⁰ renq²⁴	qnyi²⁰ renq²
+nkonq⁴²	V;PROSP;PL;3	konq²⁴ renq³²	konq²⁴ renq³²
+lqa³	V;PROSP;PL;3	qa¹⁴ renq⁰	qa¹⁴ renq⁰q
+nton⁴²	V;PROSP;PL;3	kton¹⁴ renq⁰	kton¹⁴ renq⁰²
+ntqo¹	V;PROSP;PL;3	tyqo¹ renq²⁴	tyqo¹ renq²⁴
+yta⁴	V;PROSP;PL;3	kta⁴ renq⁴	kta⁴ renq⁴³
+styi¹	V;PROSP;PL;3	styi²⁰ renq²⁴	styi²⁰ renq²
+nchuq⁴	V;PROSP;PL;3	kchuq⁴ renq⁴	kchuq⁴ renq⁴⁴
+ykwen²	V;PROSP;PL;3	kwen¹⁴ renq⁰	kwen¹⁴ renq⁰⁴
+sta¹	V;PROSP;PL;3	sta²⁰ renq²⁴	sta⁴²⁰ renq
+ntyjyuq¹	V;PROSP;PL;3	kyjyuq²⁰ renq²⁴	kyjyuq²⁰ renq²
+nyi¹⁴	V;PROSP;PL;3	knyi¹⁴ renq⁰	knyi¹⁴ renq⁰
+nduq⁴²	V;PROSP;PL;3	ntyuq²⁴ renq³²	ntyuq²⁴ renq³
+slaq¹	V;PFV;SG;2	slaq⁴²	slaq⁴
+yqwi⁴	V;PFV;SG;2	yqwi⁴²	yqwi⁴
+yno¹	V;PFV;SG;2	yno⁴²	yno⁴²
+sti⁴	V;PFV;SG;2	sti⁴²	sti⁴²
+sna³	V;PFV;SG;2	sna¹	sna¹⁴
+yja¹	V;PFV;SG;2	ntja⁴²	ntja⁴
+lu¹	V;PFV;SG;2	lu⁴²	lu⁴²
+skonq³	V;PFV;SG;2	skonq¹	skonq¹
+nya¹⁴	V;PFV;SG;2	nya²⁰	nya²⁰
+ntsiq³	V;PFV;SG;2	ntsiq¹	ntsiq¹
+ja¹	V;PFV;SG;2	ja⁴²	ja⁴²
+ykuq²	V;PFV;SG;2	ykuq¹	ykuq¹
+xqwa¹⁰	V;PFV;SG;2	xqwa²⁰	xqwa²⁰
+xin⁴²	V;PFV;SG;2	xin³²	xin³²
+lya¹⁴	V;PFV;SG;2	lya³²	lya³²
+ne¹⁴	V;PFV;SG;2	ne²⁰	ne²⁰²
+ncha¹	V;PFV;SG;2	ncha⁴²	ncha⁴
+swenq³	V;PFV;SG;2	swenq¹	swenq¹
+qne⁴²	V;PFV;SG;2	qne³²	qne³²
+yla³	V;PFV;SG;2	yla¹	yla¹²
+la¹	V;PFV;SG;2	yla⁴²	yla⁴
+ji¹	V;PFV;SG;2	ji⁴²	ji⁴²
+sqan¹	V;PFV;SG;2	sqan⁴²	sqan⁴
+sne³	V;PFV;SG;2	sne¹	sne¹⁰
+lkwi¹	V;PFV;SG;2	lkwi⁴²	lkwi⁴
+skanq³	V;PFV;SG;2	skanq¹	skanq¹
+ntaq³	V;PFV;SG;2	ntaq¹	ntaq¹
+qu¹⁴	V;PFV;SG;2	qu²⁰	qu²⁰⁴
+yjwiq²	V;PFV;SG;2	yjwiq¹	yjwiq¹
+nkqwa¹	V;PFV;SG;2	nkqwa³²	nkqwa³
+xta¹	V;PFV;SG;2	xtan⁴²	xtan⁴
+ykwenq¹	V;PFV;SG;2	ykwenq⁴²	ykwenq⁴
+nden⁴²	V;PFV;SG;2	nden³²	nden³²
+xqan¹	V;PFV;SG;2	xqan⁴²	xqan⁴
+ytsen⁴²	V;PFV;SG;2	ytsen³²	ytsen³²
+xin²	V;PFV;SG;2	xin¹	xin¹³
+saq²	V;PFV;SG;2	saq¹	saq¹²
+ytiq⁴	V;PFV;SG;2	ytiq⁴²	ytiq⁴
+nton³	V;PFV;SG;2	nton³²	nton³
+nglu³	V;PFV;SG;2	nglu¹	nglu¹
+ywi⁴²	V;PFV;SG;2	ywi³²	ywi³²
+ntykanq³	V;PFV;SG;2	ntykanq¹	ntykanq¹
+kwan¹	V;PFV;SG;2	kwan⁴²	kwan⁴
+nkjwi⁴²	V;PFV;SG;2	nkjwi³²	nkjwi³²
+sqwe¹⁴	V;PFV;SG;2	sqwe²⁰	sqwe²⁰
+ykwiq⁴	V;PFV;SG;2	ykwiq⁴²	ykwiq⁴
+ntyqo¹	V;PFV;SG;2	ntyqo⁴²	ntyqo⁴
+jlya⁴²	V;PFV;SG;2	jlya³²	jlya³²
+qan⁴	V;PFV;SG;2	qan⁴²	qan⁴²
+sqwe²⁴	V;PFV;SG;2	sqwe³²	sqwe²⁰
+nchaq⁴²	V;PFV;SG;2	nchaq³²	nchaq³²
+yqo²	V;PFV;SG;2	yqo¹	yqo¹²
+ndyu²	V;PFV;SG;2	ndyu¹	ndyu¹
+yjoq⁴	V;PFV;SG;2	yjoq⁴²	yjoq⁴
+sqna¹	V;PFV;SG;2	sqna⁴²	sqna⁴
+sqya¹	V;PFV;SG;2	sqya⁴²	sqya⁴
+nge⁴²	V;PFV;SG;2	nge³²	nge³²
+jwi³	V;PFV;SG;2	jwi²	jwi²²
+qya³	V;PFV;SG;2	qya¹	qya¹²
+nkqi¹	V;PFV;SG;2	nkqi⁴²	nkqi⁴
+nti¹	V;PFV;SG;2	nti⁴²	nti⁴²
+ntyi¹	V;PFV;SG;2	ntyi⁴²	ntyi⁴
+qen⁴	V;PFV;SG;2	qen⁴²	qen⁴²
+sqwa¹⁴	V;PFV;SG;2	sqwa²⁰	sqwa²⁰
+qya⁴²	V;PFV;SG;2	qya³²	qya³²
+sne¹⁴	V;PFV;SG;2	sne²⁰	sne²⁰
+xlyu⁴²	V;PFV;SG;2	xlyu³²	xlyu³²
+ntykwa⁴	V;PFV;SG;2	ntykwa⁴²	ntykwa⁴
+ytsaq³	V;PFV;SG;2	ytsaq¹	ytsaq¹
+ntyqya¹	V;PFV;SG;2	ntyqya⁴²	ntyqya⁴
+nna¹	V;PFV;SG;2	nna⁴²	nna⁴²
+ykwanq¹	V;PFV;SG;2	ykwanq⁴²	ykwanq⁴
+yqwe²	V;PFV;SG;2	yqwe¹	yqwe¹
+sla¹	V;PFV;SG;2	sla⁴²	sla⁴²
+yna⁴²	V;PFV;SG;2	yna³²	yna³²
+ynaq¹	V;PFV;SG;2	ynaq⁴²	ynaq⁴
+nxin⁴²	V;PFV;SG;2	nxin⁴²	nxin⁴²
+xkwan¹⁴	V;PFV;SG;2	xkwan²⁰	xkwan²⁰
+lo²⁴	V;PFV;SG;2	lo⁴²	lo⁴²³
+slu¹⁴	V;PFV;SG;2	slu²⁰	slu²⁰
+ngon²	V;PFV;SG;2	ngon¹	ngon¹
+nkqwa⁴²	V;PFV;SG;2	nkwa³²	nkwa³²²
+ntsen⁴²	V;PFV;SG;2	ntsen³²	ntsen³²
+sqyu¹	V;PFV;SG;2	sqyu⁴²	sqyu⁴
+ngya⁴²	V;PFV;SG;2	ngya³²	ngya³²
+ndlyu⁴²	V;PFV;SG;2	ndlyu³²	ndlyu³²
+ndiyan³²	V;PFV;SG;2	ndiyan³²	ndiyan³²
+ndyi⁴	V;PFV;SG;2	ndyi⁴²	ndyi⁴
+ntkonq³	V;PFV;SG;2	ntkonq¹	ntkonq¹
+ntykwen³	V;PFV;SG;2	ntykwen¹	ntykwen¹
+yku⁴	V;PFV;SG;2	yku⁴²	yku⁴²
+xtyiq¹⁰	V;PFV;SG;2	xtyiq²⁰	xtyiq²⁰
+xne¹⁰	V;PFV;SG;2	xne²⁰	xne²⁰
+snyaq¹	V;PFV;SG;2	snyaq⁴²	snyaq⁴
+xkwen¹⁴	V;PFV;SG;2	xkwen²⁰	xkwen²⁰
+ne⁴²	V;PFV;SG;2	ne³²	ne³²³
+ntyinq³	V;PFV;SG;2	ntyinq¹	ntyinq¹
+skwan⁴	V;PFV;SG;2	skwan⁴²	skwan⁴
+nxi²	V;PFV;SG;2	xin¹	xin¹⁴
+ntsa²⁴	V;PFV;SG;2	ntsa⁴²	ntsa⁴²
+nsuq³	V;PFV;SG;2	nsuq¹	nsuq¹
+xoq²	V;PFV;SG;2	xoq¹	xoq¹⁰
+ndywiq³	V;PFV;SG;2	ndywiq¹	ndywiq¹
+son³	V;PFV;SG;2	son⁴⁰	son⁴⁰
+lqa³	V;PFV;SG;2	lqa³²	lqa³²
+nton⁴²	V;PFV;SG;2	nton³²	nton³²
+ntqo¹	V;PFV;SG;2	ntqo⁴²	ntqo⁴
+swi²⁰	V;PFV;SG;2	swi⁴²	swi⁴²
+ndywan²	V;PFV;SG;2	ndywan¹	ndywan¹
+yta⁴	V;PFV;SG;2	yta⁴²	yta⁴²
+styi¹	V;PFV;SG;2	styi⁴²	styi⁴
+nchuq⁴	V;PFV;SG;2	nchonq⁴²	nchonq
+ya⁴²	V;PFV;SG;2	ya³²	ya³²⁴
+ntyjyuq¹	V;PFV;SG;2	ntyjyuq⁴²	ntyjyuq⁴
+ntykwan¹⁴	V;PFV;SG;2	ntykwan²⁰	ntykwan²⁰
+skwan²	V;PFV;SG;2	skwan¹	skwan¹
+sqwi¹⁴	V;PFV;SG;2	sqwi²⁰	sqwi²⁰
+xtya²⁰	V;PFV;SG;2	xtya⁴²	xtya⁴²
+xti²⁰	V;PFV;SG;2	xti⁴²	xti⁴²
+yqu²	V;PFV;SG;2	yqu¹	yqu¹²
+nduq⁴²	V;PFV;SG;2	nduq³²	nduq³²
+jlyo³²	V;PFV;SG;2	jlyo³²	jlyo³²
+sen⁴²	V;PFV;SG;2	nse³²	nse³²
+xki¹	V;PFV;SG;2	xki⁴²	xki⁴²
+jinyiq²	V;PFV;SG;2	jinyiq¹	jinyiq¹
+slaq¹	V;PFV;PL;2	slaq¹ wan²⁴	slaq¹ wan²⁴
+sti⁴	V;PFV;PL;2	sti⁴ wan⁴	sti⁴ wan⁴⁴
+kwa¹⁴	V;PFV;PL;2	kwa¹⁴ wan⁰	kwa¹⁴ wan⁰²
+yja¹	V;PFV;PL;2	ntja¹ wan²⁴	ntja¹ wan²
+nten³	V;PFV;PL;2	nten³ wan²⁴	nten³ wan²⁴
+skonq³	V;PFV;PL;2	skonq³ wan²⁴	skonq³ wan²⁴
+nya¹⁴	V;PFV;PL;2	nya¹⁴ wan⁰	nya¹⁴ wan⁰²
+ntsiq³	V;PFV;PL;2	ntsiq³ wan²⁴	ntsiq³ wan²⁴
+yqan⁴²	V;PFV;PL;2	yqan⁴² wan⁴	yqan⁴² wan⁴²
+ja¹	V;PFV;PL;2	ja¹ wan²⁴	ja¹ wan²⁴
+ykuq²	V;PFV;PL;2	ykuq² wan¹	ykuq² wan¹⁴
+ndon⁴²	V;PFV;PL;2	ndon⁴² wan⁴	ndon⁴² wan⁴⁴
+ntqan¹	V;PFV;PL;2	ntqan¹ wan²⁴	ntqan¹ wan²⁴
+xqwa¹⁰	V;PFV;PL;2	xqwa¹ wan⁰	xqwa¹ wan⁰⁰w
+xin⁴²	V;PFV;PL;2	xin⁴² wan⁴	xin⁴² wan⁴²
+ntykonq⁴²	V;PFV;PL;2	ntykonq⁴² renq⁴	ntykonq⁴² renq
+ne¹⁴	V;PFV;PL;2	ni¹⁴ wan⁰	ni¹⁴ wan⁰²
+ncha¹	V;PFV;PL;2	ncha¹ wan²⁴	ncha¹ wan²⁴
+swenq³	V;PFV;PL;2	swenq³ wan²⁴	swenq³ wan²⁴
+yla³	V;PFV;PL;2	yla³ wan²⁴	yla³ wan²⁴
+skwen¹	V;PFV;PL;2	skwen¹ wan²⁴	skwen¹ wan²⁴
+la¹	V;PFV;PL;2	yla¹ wan²⁴	yla¹ wan²
+ji¹	V;PFV;PL;2	ji¹ wan²⁴	ji¹ wan²⁴
+sne³	V;PFV;PL;2	sne³ wan²⁴	sne³ wan²⁴
+skanq³	V;PFV;PL;2	skanq³ wan²⁴	skanq³ wan²⁴
+ntaq³	V;PFV;PL;2	ntaq³ wan²⁴	ntaq³ wan²⁴
+qu¹⁴	V;PFV;PL;2	qu¹⁴ wan⁰	qu¹⁴ wan⁰a
+nkqwa¹	V;PFV;PL;2	nkqwa¹ wan²⁴	nkqwa¹ wan²⁴
+nlyu¹	V;PFV;PL;2	lyu¹ wan²⁴	lyy¹ wan²⁴⁴
+xqan¹	V;PFV;PL;2	xqan¹ wan²⁴	xqan¹ wan²⁴
+nkin²	V;PFV;PL;2	nkin² wan¹	nkin² wan¹³
+ytsen⁴²	V;PFV;PL;2	ne⁴² qne³² wan⁴	ye⁴²n⁴² wan⁴
+nkwi¹	V;PFV;PL;2	nkwi¹ wan²⁴	nkwi¹ wan²⁴
+kwi¹	V;PFV;PL;2	kwi¹ wan²⁴	kwi¹ wan²⁴
+stan¹⁴	V;PFV;PL;2	stan¹⁴ wan⁰	stan¹⁴ wan⁰²
+saq²	V;PFV;PL;2	saq² wan¹	saq² wan¹³
+ytiq⁴	V;PFV;PL;2	ytiq⁴ wan⁴	ytiq⁴ wan⁴⁰
+ntson¹⁴	V;PFV;PL;2	ntson¹⁴ wan⁰	ntson¹⁴ wan⁰
+nton³	V;PFV;PL;2	nton² wan⁴	nton² wan⁴⁴
+nglu³	V;PFV;PL;2	nglu³ wa²⁴	nglu³ wa²⁴⁰
+ywi⁴²	V;PFV;PL;2	ywi⁴² wan⁴	ywi⁴² wan⁴⁴
+ntykanq³	V;PFV;PL;2	ntykanq³ wan¹⁴	ntykanq³ wan¹
+kwan¹	V;PFV;PL;2	kwan⁴ wan⁴	kwan⁴ wan⁴⁴
+ylu³	V;PFV;PL;2	ylu³ wan²⁴	ylu³ wan²⁴
+nkjwi⁴²	V;PFV;PL;2	nkjwi⁴² wan⁴	nkjwi⁴² wan⁴
+nkeq³	V;PFV;PL;2	nkeq³ wan²⁴	nkeq³ wan²⁴
+sqwe¹⁴	V;PFV;PL;2	sqwe¹⁴ wan⁰	sqwe¹⁴ wan⁰²
+ntyqo¹	V;PFV;PL;2	ntyqo¹ wan²⁴	ntyqo¹ wan²⁴
+jlya⁴²	V;PFV;PL;2	jlya⁴² wan³²	jlya⁴² wan³²
+qne¹	V;PFV;PL;2	qne¹ wan²⁴	qne¹ wan²⁴
+qan⁴	V;PFV;PL;2	qan⁴ wan⁴	qan⁴ wan⁴⁴
+qa²⁴	V;PFV;PL;2	qa²⁴ wan³²	qa²⁴ wan³²
+ntiqi¹	V;PFV;PL;2	ntiqi¹ wan²⁴	ntiqi¹ wan²⁴
+nchaq⁴²	V;PFV;PL;2	nchaq⁴² wan⁴	nchaq⁴² wan⁴
+ndlyu¹	V;PFV;PL;2	ndlyu¹ wan²⁴	ndlyu¹ wan²⁴
+sqi²	V;PFV;PL;2	sqi² wan¹	sqi² wan¹⁴
+ndyu²	V;PFV;PL;2	ndyu² wan¹	ndyu² wan¹³
+yjoq⁴	V;PFV;PL;2	yjoq⁴ wan⁴	ytoq⁴ wan⁴⁴
+sqna¹	V;PFV;PL;2	sqna¹ wan²⁴	sqna¹ wan²⁴
+sqya¹	V;PFV;PL;2	sqya¹ wan²⁴	sqya¹ wan²⁴
+sen¹	V;PFV;PL;2	sen⁴² wan⁴	sen⁴² wan⁴
+jwi³	V;PFV;PL;2	jwi³ wan²⁴	jwi³ wan²⁴
+slya²⁴	V;PFV;PL;2	slya²⁴ wan³²	slya²⁴ wan³²
+kwa³	V;PFV;PL;2	kwa³ wan²⁴	kwa³ wan²⁴
+naq¹⁴	V;PFV;PL;2	naq¹⁴ wan⁰	naq¹⁴ wan⁰n
+yo²	V;PFV;PL;2	yo² wan¹	yo² wan¹³
+ntykwan²	V;PFV;PL;2	ntykwan² wan¹	ntykwan² wan¹
+nti¹	V;PFV;PL;2	nti¹ wan²⁴	nti¹ wan²⁴
+ntyi¹	V;PFV;PL;2	ntyi¹ wan²⁴	ntyi¹ wan²⁴
+yjaq³	V;PFV;PL;2	yjaq³ wan²⁴	ytjq³ wan²⁴
+qen⁴	V;PFV;PL;2	qen⁴ wan⁴	qen⁴ wan⁴⁴
+sqwa¹⁴	V;PFV;PL;2	sqwa¹⁴ wan⁰	sqwa¹⁴ wan⁰²
+qya⁴²	V;PFV;PL;2	qya⁴² wan⁴	qya⁴² wan⁴²
+ntyja²	V;PFV;PL;2	ntyja² wan¹	ntyja² wan¹e
+xka²⁴	V;PFV;PL;2	xka²⁴ wan³²	xka²⁴ wan³²
+sne¹⁴	V;PFV;PL;2	sne¹⁴ wan⁰	sne¹⁴ wan⁰²
+xlyu⁴²	V;PFV;PL;2	xlyu⁴² wan⁴	xlyu⁴² wan⁴²
+ntykwa⁴	V;PFV;PL;2	ntykwa⁴ wan⁴	ntykwa⁴ wan⁴
+ytsaq³	V;PFV;PL;2	ytsaq³ wan²⁴	ytsaq³ wan²⁴
+ngyla³	V;PFV;PL;2	xla³ wan²⁴	xla³ wan²⁴ w
+ykwanq¹	V;PFV;PL;2	ykwanq¹ wan²⁴	ykwanq¹ wan²
+sla¹	V;PFV;PL;2	sla¹ wan²⁴	sla¹ wan²⁴
+yna⁴²	V;PFV;PL;2	yna⁴² wan⁴	yna⁴² wan⁴³
+ynaq¹	V;PFV;PL;2	ynaq¹ wan²⁴	ynaq¹ wan²⁴
+ntsu⁴²	V;PFV;PL;2	ntsu⁴² wan⁴	ntsu⁴² wan⁴w
+skwaq¹	V;PFV;PL;2	skwaq¹ wan²⁴	skwaq¹ wan²⁴
+xkwan¹⁴	V;PFV;PL;2	xkwan¹⁴ wan⁰	xkwan¹⁴ wan⁰
+nkwa³	V;PFV;PL;2	nkwa³ wan²⁴	nkwa³ wan²⁴
+ngon²	V;PFV;PL;2	skwan² wan¹	skwan² wan¹
+ntqen¹	V;PFV;PL;2	ntqen¹ wan²⁴	ntqen¹ wan²⁴
+ntsen⁴²	V;PFV;PL;2	ntsen⁴² wan⁴	ntsen⁴² wan⁴
+sqyu¹	V;PFV;PL;2	sqyu¹ wan²⁴	sqyu¹ wan²⁴
+ndlyu⁴²	V;PFV;PL;2	ndlyu⁴² wan⁴	ndlyu⁴² wan⁴
+xne¹⁰	V;PFV;PL;2	xne³ wan²⁴	xne³  an²⁴⁴
+snyaq¹	V;PFV;PL;2	snyaq¹wan²⁴	snyaq¹wan²⁴⁴
+ne⁴²	V;PFV;PL;2	ne⁴² qne³² wan⁴	ne⁴² qne³²
+ntyinq³	V;PFV;PL;2	ntyinq³ wan²⁴	ntyinq³ wan²
+ylaq⁴	V;PFV;PL;2	ylaq⁴ wan⁴	ylaq⁴ wan⁴³
+skwan⁴	V;PFV;PL;2	skwan⁴ wan⁴	skwan⁴ wan⁴w
+nkonq⁴²	V;PFV;PL;2	nkonq⁴² wan⁴	nkonq⁴² wan⁴
+son³	V;PFV;PL;2	son³ wan²⁴	son³ wan²⁴
+nton⁴²	V;PFV;PL;2	nton⁴² wan⁴	nton⁴² wan⁴⁴
+ntqo¹	V;PFV;PL;2	ntqo¹ wan²⁴	ntqo¹ wan²⁴
+swi²⁰	V;PFV;PL;2	swi²⁰ wan²⁴	swi²⁰ wan²⁴
+ndywan²	V;PFV;PL;2	ndywan² wan¹	ndywan² wan¹
+styi¹	V;PFV;PL;2	styi¹ wan²⁴	styi¹ wan²⁴
+nchuq⁴	V;PFV;PL;2	nchuq⁴ wan⁴	nchuq⁴ wan⁴⁰
+sta¹	V;PFV;PL;2	sta¹ wan²⁴	sta¹ wan²⁴
+ya⁴²	V;PFV;PL;2	ya⁴² wan⁴	ya⁴² wan⁴²
+ntyjyuq¹	V;PFV;PL;2	ntyjyuq¹ wan²⁴	ntyjyuq¹ wan²
+nyi¹⁴	V;PFV;PL;2	nyi¹⁴ wan⁰	nyi¹⁴ wan⁰⁰
+ntykaq¹	V;PFV;PL;2	ntykaq¹ wan²⁴	ntykaq¹ wan²
+jinyiq²	V;PFV;PL;2	jinyiq² wan¹	jinyiq² wan¹
+slaq¹	V;HAB;PL;2	nslaq²⁰ wan²⁴	nslaq²⁰ wan⁴
+yqwi⁴	V;HAB;PL;2	ntqwi⁴ wan⁴	ntqwi⁴ wan⁴³
+yno¹	V;HAB;PL;2	nno¹ wan²⁴	nno¹ wan²⁴n⁰
+sti⁴	V;HAB;PL;2	nstyin⁴ wan⁴	nstyin⁴ wan⁴
+kwa¹⁴	V;HAB;PL;2	ntykwa¹⁴ wan⁰	ntykwa¹⁴ wan
+sna³	V;HAB;PL;2	nxna¹⁴ wan⁰	nxna¹⁴ wan⁰²
+nten³	V;HAB;PL;2	nten¹⁴ wan⁰	nten¹⁴ wan⁰⁰
+lu¹	V;HAB;PL;2	nlu²⁰ wan²⁴	nlu²⁰ wan²⁴
+skonq³	V;HAB;PL;2	ntkonq¹⁴ wan⁰	ntkonq¹  wan⁰
+nya¹⁴	V;HAB;PL;2	nnya¹⁴ wan⁰	nnya¹⁴ wan⁰³
+ntsiq³	V;HAB;PL;2	ntsiq¹⁴ wan²⁴	ntsiq¹⁴ wan²⁴
+ja¹	V;HAB;PL;2	ntja²⁰ wan²⁴	ntja²⁰ wan²
+ykuq²	V;HAB;PL;2	ntykuq¹⁴ wan⁰	ntykuq¹⁴ wan
+xqwa¹⁰	V;HAB;PL;2	nxqwa¹ wan⁰	nxqwa¹ wan⁰²⁴
+ntykonq⁴²	V;HAB;PL;2	ntykonq¹⁴ wa⁰	ntykonq¹⁴ wa⁰⁰
+ston⁴²	V;HAB;PL;2	nston²⁴ wan³²	nston²⁴ wan⁰²
+ne¹⁴	V;HAB;PL;2	nni¹⁴ wan⁰	nni¹⁴ wan⁰ ⁴
+ntyka²	V;HAB;PL;2	ntyka² wan¹	ntyka² wan¹n²
+ncha¹	V;HAB;PL;2	ncha²⁰ wan²⁴	ncha²⁰ wan²⁴
+qne⁴²	V;HAB;PL;2	nqne²⁴ wan³²	nqne²⁴ wan³²
+skwen¹	V;HAB;PL;2	nskwen²⁰ wan²⁴	nskwen²⁰ wan²
+la¹	V;HAB;PL;2	nla³² wan⁴	nla³² wan⁴⁰
+ji¹	V;HAB;PL;2	ntji²⁰ wan²⁴	ntji²⁰ wan²
+sqan¹	V;HAB;PL;2	ntsqan²⁰ wan²⁴	ntqqan²⁰ wan
+xta¹	V;HAB;PL;2	nstan¹⁴ wan⁰	nstan¹⁴ wan⁰
+ykwenq¹	V;HAB;PL;2	ntykwenq²⁰wan²⁴	ntykwenq²⁰wan
+nlyu¹	V;HAB;PL;2	nlyu²⁰ wan²⁴	nlyu²⁰ wan²⁴
+nden⁴²	V;HAB;PL;2	nden²⁴ wan³²	nden²⁴ wan³²⁴
+xqan¹	V;HAB;PL;2	ntxqan²⁰ wan²⁴	ntxqan²⁰wann
+nkin²	V;HAB;PL;2	ntykin² wan¹	ntykin² wan¹
+ytsen⁴²	V;HAB;PL;2	nne¹⁴ qne⁰ wan³²	nne¹⁴ qne⁰ wa
+xin²	V;HAB;PL;2	nxin¹⁴ wan⁰	nxin¹⁴ wan⁰n
+xyaq²	V;HAB;PL;2	nxyaq² wan¹	nxyaq² wan¹³
+naq¹	V;HAB;PL;2	nnaq²⁰ wan²⁴	nnaq²⁰ wan²⁴
+stan¹⁴	V;HAB;PL;2	nstan¹⁴ wan⁰	nstan¹⁴ wan⁰²
+ytiq⁴	V;HAB;PL;2	ntyiq⁴ wan⁴	ntyiq⁴ wan⁴⁴
+nton³	V;HAB;PL;2	ntyon¹⁴ wan⁰	ntyon¹⁴ wan⁰
+nglu³	V;HAB;PL;2	nglu¹⁴ wa⁰	nglu¹⁴ wa⁰w⁴
+ywi⁴²	V;HAB;PL;2	ntjwi²⁴ wan³²	ntjwi²⁴ wan³
+ntykanq³	V;HAB;PL;2	ntykanq¹⁴ wan⁰	ntykanq¹⁴ wan⁰
+kwan¹	V;HAB;PL;2	ntkwan⁴ wan⁴	ntkwan⁴ wan⁴
+sqwe¹⁴	V;HAB;PL;2	nsqwe¹⁴ wan⁰	nsqwe¹⁴ wan⁰²
+ntyqo¹	V;HAB;PL;2	ntyqo²⁰ wan²⁴	ntyqo²⁰ wan²⁴
+jlya⁴²	V;HAB;PL;2	ntjlya²⁴ wan³²	ntjlya²⁴ wan³
+qa²⁴	V;HAB;PL;2	ntqa²⁴ wan³²	ntqa²⁴ wan³²
+sqwe²⁴	V;HAB;PL;2	nsqwe²⁴ wan³²	nsqwe²⁴ wan³²
+nchaq⁴²	V;HAB;PL;2	nchaq²⁴ wan³²	nchaq²⁴ wan³²
+ndlyu¹	V;HAB;PL;2	ndlyu²⁰ wan²⁴	ndlyu⁴⁰ wan²⁴
+sqi²	V;HAB;PL;2	nchsqi¹⁴⁰ wan¹	nchsqi¹ ⁰ wa
+yqo²	V;HAB;PL;2	ntyqo¹⁴ wan⁰	ntyqo¹⁴ wan⁰
+yjoq⁴	V;HAB;PL;2	ntyjoq⁴ wan⁴	ntyjoq⁴ wan⁴
+sqya¹	V;HAB;PL;2	nxqya²⁰ wan²⁴	nxqya²⁰ wan²
+sen¹	V;HAB;PL;2	nsen²⁰ wan²⁴	nsen²⁰ wan²⁴
+nge⁴²	V;HAB;PL;2	ndye²⁴ wan³²	ndye²⁴ wan³²
+slya²⁴	V;HAB;PL;2	nxlya²⁴ wan³²	nxlya²⁴ wan³²
+kwa³	V;HAB;PL;2	nkwa¹⁴ wan⁰	nkwa¹⁴ wan⁰⁴
+ngwa²	V;HAB;PL;2	ndyga²⁴ wan³²	ndyga²⁴ wan³
+ntykwan²	V;HAB;PL;2	ntykwan² wan¹	ntykwan² wan¹⁰
+nkqi¹	V;HAB;PL;2	ntqi²⁰ wan²⁴	ntqi²⁰ wan²⁴
+ntyi¹	V;HAB;PL;2	ntyi²⁰ wan²⁴	ntyi²⁰ wan²⁴
+qen⁴	V;HAB;PL;2	ntyqin⁴ wan⁴	ntyqin⁴ wan⁴
+qya⁴²	V;HAB;PL;2	ntqya²⁴ wan³²	ntqya²⁴ wan³
+xka²⁴	V;HAB;PL;2	nxka²⁴ wan³²	nxka²⁴ wan³²
+xlyu⁴²	V;HAB;PL;2	nxlyu²⁴ wan⁴	nxlyu²⁴ wan⁴n
+ytsaq³	V;HAB;PL;2	ntsaq¹⁴ wan²⁴	ntsaq¹⁴ wan²⁴
+ntyqya¹	V;HAB;PL;2	ntyqya²⁰ wan²⁴	ntyqya²⁰ wan²
+jen²	V;HAB;PL;2	ntyjin¹⁴ wan⁰	ntyjin¹⁴ wan
+ngyla³	V;HAB;PL;2	nchla³ wan²⁴	nchla³ wan²⁴a
+skwa³	V;HAB;PL;2	nxkwa¹⁴ wan⁰	nxkwa¹⁴ wan²
+yna⁴²	V;HAB;PL;2	na²⁴ wan³²	na²⁴ wan³²n³
+ynaq¹	V;HAB;PL;2	nnaq²⁰ wan²⁴	nnaqq⁰ wan²⁴
+ntsu⁴²	V;HAB;PL;2	nchu²⁴ wan³²	nchu²⁴ wan³²⁴
+skwaq¹	V;HAB;PL;2	nskwaq²⁰ wan²⁴	nskwaq²⁰ wan²
+xkwan¹⁴	V;HAB;PL;2	nxkwan¹⁴ wan⁰	nxkwan¹⁴ wan⁰
+lo²⁴	V;HAB;PL;2	nlo²⁴ wan³²	nlo²⁴ wan³²n
+slu¹⁴	V;HAB;PL;2	nslu¹⁴ wan⁰	nslu¹⁴ wan⁰n
+nkwa³	V;HAB;PL;2	ntykwa³ wan²⁴	ntykwa⁴ wan⁰
+ntqen¹	V;HAB;PL;2	ntyqin²⁰ wan²⁴	ntyqin²⁰ wan²
+ntsen⁴²	V;HAB;PL;2	ntsen²⁴ wan³²	ntsen²⁴ wan³²
+sqyu¹	V;HAB;PL;2	nsqyu²⁰ wan²⁴	nsqyu²⁰  wa²
+ndlyu⁴²	V;HAB;PL;2	ndlyu⁴² wan³²	ndlyu²² wan³²
+yku⁴	V;HAB;PL;2	ntyku⁴ wan⁴	ntyku⁴ wan⁴⁴
+xtyiq¹⁰	V;HAB;PL;2	nxtyiq¹⁴ wan⁰	nxtyiq¹⁴ wan⁰
+xne¹⁰	V;HAB;PL;2	nxne¹⁴ wan⁰	nxne¹⁴ wan⁰⁴
+snyaq¹	V;HAB;PL;2	nsnyaq²⁰ wan²⁴	nsnyaq²⁰ wan²
+xkwen¹⁴	V;HAB;PL;2	nxkwen¹⁴ wan⁰	nxkwen¹⁴ wan⁰
+ne⁴²	V;HAB;PL;2	nne¹⁴ qne⁰ wan³²	nne¹⁴ qne⁰ w
+ylaq⁴	V;HAB;PL;2	nlyaq⁴ wan⁴	nlyaq⁴ wan⁴²
+skwan⁴	V;HAB;PL;2	nxkwan²⁰ wan²⁴	nxkwan²⁰ wan²
+nxi²	V;HAB;PL;2	nxin² wan¹	nxin² wan¹²⁴
+ntsa²⁴	V;HAB;PL;2	ntsa²⁴ wan³²	ntsa²⁴ wan³²²
+nsuq³	V;HAB;PL;2	nsuq¹⁴ wan²⁴	nsuq¹⁴ wan²⁴
+qnyi¹	V;HAB;PL;2	nqnyi²⁰ wan²⁴	nqnyi²⁰ wan²
+son³	V;HAB;PL;2	nxon²⁰ wan²⁴	nxon²⁰ wan²⁴
+nton⁴²	V;HAB;PL;2	ntyon¹⁴ wan⁰	ntyon¹⁴ wan⁰²
+ntqo¹	V;HAB;PL;2	ntyqo¹ wan²⁴	ntyqo¹ wan²⁴
+swi²⁰	V;HAB;PL;2	nswi²⁰ wan²⁴	nswi²⁰ wan²⁴
+ndywan²	V;HAB;PL;2	ndywan² wan¹	ndywan² wan¹n
+yta⁴	V;HAB;PL;2	ntan⁴ wan⁴	nttn⁴ ⁴an⁴⁴⁴
+nchuq⁴	V;HAB;PL;2	nchuq⁴ wan⁴	nchuq⁴ wan⁴n⁰
+ntyjyuq¹	V;HAB;PL;2	ntyjyuq²⁰ wan²⁴	ntyjyuq²⁰ wan²
+ntykaq¹	V;HAB;PL;2	ntykaq²⁰ wan²⁴	ntykaq²⁰ wan²
+jinyiq²	V;HAB;PL;2	nynyiq¹⁴ wan⁰	nynyiq¹⁴ wan⁰
+slaq¹	V;PROSP;PL;1+EXCL	slaq²⁰ wa⁴²	slaq²⁰ wa⁴²
+yqwi⁴	V;PROSP;PL;1+EXCL	tyqwi⁴ wa⁴²	tyqwi⁴ wa⁴²
+yno¹	V;PROSP;PL;1+EXCL	kno¹ wa⁴²	kno¹ wa⁴²⁴
+sti⁴	V;PROSP;PL;1+EXCL	styin⁴ wa⁴²	styin⁴ wa⁴
+kwa¹⁴	V;PROSP;PL;1+EXCL	tykwa¹⁴⁰ wa⁴²	tykwa¹ wa⁴²
+sna³	V;PROSP;PL;1+EXCL	xna¹⁴⁰ wa⁴²	xna¹⁴⁰ wa⁴
+yja¹	V;PROSP;PL;1+EXCL	tyja²⁰ wa⁴²	tyja²⁰ wa⁴
+nten³	V;PROSP;PL;1+EXCL	sten¹⁴⁰ wa⁴²	sten¹⁴⁰ wa⁴
+lu¹	V;PROSP;PL;1+EXCL	klu²⁰ wa⁴²	klu²⁰ wa⁴²
+skonq³	V;PROSP;PL;1+EXCL	skonq¹⁴⁰ wa⁴²	skonq¹⁴⁰ wa⁴
+nya¹⁴	V;PROSP;PL;1+EXCL	knya¹⁰ wa⁴²	knya¹⁰ wa⁴²
+yqan⁴²	V;PROSP;PL;1+EXCL	yqan²⁴ wa⁴²	yqan²⁴ wa⁴²⁴
+ja¹	V;PROSP;PL;1+EXCL	ja²⁰ wa⁴²	ja²⁰ wa⁴²²
+ndon⁴²	V;PROSP;PL;1+EXCL	tyon²⁴ wa⁴²	tyon²⁴ wa⁴²²
+ntqan¹	V;PROSP;PL;1+EXCL	tqan²⁰ wa⁴²	tqan²⁰ wa⁴²²
+xqwa¹⁰	V;PROSP;PL;1+EXCL	xqwa¹⁰ wa⁴²	xqwa¹⁰ wa⁴²²
+lya¹⁴	V;PROSP;PL;1+EXCL	jlya¹⁴⁰ wa⁴²	jlya¹⁴⁰ wa⁴
+ne¹⁴	V;PROSP;PL;1+EXCL	nni¹⁴⁰ wa⁴²	nni¹⁴⁰ wa⁴
+ntyka²	V;PROSP;PL;1+EXCL	tyka² wa⁴²	tyka² wa⁴²⁴²
+swenq³	V;PROSP;PL;1+EXCL	swenq¹⁴⁰ wa⁴²	swenq¹⁴⁰ wa⁴
+skwen¹	V;PROSP;PL;1+EXCL	skwen²⁰ wa⁴²	skwen²⁰ wa⁴²
+la¹	V;PROSP;PL;1+EXCL	kla⁴ wa⁴²	kla⁴ wa⁴²a
+ji¹	V;PROSP;PL;1+EXCL	ji²⁰ wa⁴²	ji²⁰ wa⁴²a
+sqan¹	V;PROSP;PL;1+EXCL	sqan²⁰ wa⁴²	sqan²⁰ wa⁴²
+sne³	V;PROSP;PL;1+EXCL	sne¹⁴⁰ wa⁴²	sne¹⁴⁰ wa⁴
+skanq³	V;PROSP;PL;1+EXCL	skanq¹⁴⁰ wa⁴²	skanq¹⁴⁰ wa⁴
+ntaq³	V;PROSP;PL;1+EXCL	ktaq¹⁴⁰ wa⁴²	ktaq¹⁴⁰ wa⁴
+qu¹⁴	V;PROSP;PL;1+EXCL	qu¹⁴ wa⁴²	qu¹⁴ wa⁴²²
+nkqwa¹	V;PROSP;PL;1+EXCL	tyqwa²⁰ wa⁴²	tyqwa²⁰ wa⁴²
+xta¹	V;PROSP;PL;1+EXCL	stan¹⁴⁰ wa⁴²	xtan¹ ⁰a⁴²
+nlyu¹	V;PROSP;PL;1+EXCL	klyu²⁰ wa⁴²	klyu²⁰ wa⁴²
+nden⁴²	V;PROSP;PL;1+EXCL	ten²⁴ wa⁴²	tenn² wa⁴²²w
+xqan¹	V;PROSP;PL;1+EXCL	xqan²⁰ wa⁴²	xqan²⁰ wa⁴²
+nkin²	V;PROSP;PL;1+EXCL	skin² wa⁴²	skin² wa⁴²²
+xin²	V;PROSP;PL;1+EXCL	kxin¹⁴⁰ wa⁴²	kxin¹⁴⁰ wa
+nkwi¹	V;PROSP;PL;1+EXCL	ykwi²⁰ wa⁴²	kkwi²⁰ wa⁴²
+xyaq²	V;PROSP;PL;1+EXCL	xyaq² wa⁴²	xyaq² wa⁴²²
+naq¹	V;PROSP;PL;1+EXCL	knaq²⁰ wa⁴²	knaq²⁰ wa⁴
+kwi¹	V;PROSP;PL;1+EXCL	tywi²⁰ wa⁴²	tywi²⁰ wa⁴
+ytiq⁴	V;PROSP;PL;1+EXCL	ktiq⁴ wa⁴²	ktiq⁴ wa⁴²⁴
+ntson¹⁴	V;PROSP;PL;1+EXCL	ktson¹⁴⁰ wa⁴²	ktson¹⁴⁰ wa⁴
+nton³	V;PROSP;PL;1+EXCL	kton¹⁴⁰ wa⁴²	kton¹⁴⁰ wa⁴
+nglu³	V;PROSP;PL;1+EXCL	klu¹⁴⁰ wa⁴²	klu¹⁴⁰ wa⁴²
+ywi⁴²	V;PROSP;PL;1+EXCL	kwi²⁴ wa⁴²	kwi²⁴ wa⁴²a
+ntykanq³	V;PROSP;PL;1+EXCL	tykanq¹⁴⁰ wa⁴²	tykanq¹⁴⁰ wa⁴
+ylu³	V;PROSP;PL;1+EXCL	klu¹⁴⁰	klu¹⁴⁰ wa⁴
+nkjwi⁴²	V;PROSP;PL;1+EXCL	kja⁴ wa⁴²	kja⁴ wa⁴²²⁴²
+sqwe¹⁴	V;PROSP;PL;1+EXCL	sqwe¹⁴⁰ wa⁴²	sqwe¹⁴⁰ wa⁴²
+ykwiq⁴	V;PROSP;PL;1+EXCL	tykwiq⁴ wa⁴²	tykwiq⁴ wa⁴²
+ntyqo¹	V;PROSP;PL;1+EXCL	tyqo²⁰ wa⁴²	tyqo²⁰ wa⁴²²
+jlya⁴²	V;PROSP;PL;1+EXCL	jlya²⁴ wa⁴²	jlya²⁴ wa⁴²w
+qne¹	V;PROSP;PL;1+EXCL	kqne²⁰ wa⁴²	kqne²⁰ wa⁴
+qa²⁴	V;PROSP;PL;1+EXCL	qa²⁴ wa⁴²	qa²⁴ wa⁴²²
+ntiqi¹	V;PROSP;PL;1+EXCL	tiqi²⁰ wa⁴²	tiqi²⁰ wa⁴²²
+sqwe²⁴	V;PROSP;PL;1+EXCL	sqwe²⁴ wa⁴²	sqwe¹⁴⁰ wa⁴²
+nchaq⁴²	V;PROSP;PL;1+EXCL	kchaq²⁴ wa⁴²	kchaq²⁴ wa⁴²
+yqo²	V;PROSP;PL;1+EXCL	kqo¹⁴⁰ wa⁴²	kqo¹⁴⁰ wa⁴
+ndyu²	V;PROSP;PL;1+EXCL	ntyu² wa⁴²	ntyu² wa⁴²²
+sqna¹	V;PROSP;PL;1+EXCL	sqna²⁰ wa⁴²	sqna²⁰ wa⁴²
+sqya¹	V;PROSP;PL;1+EXCL	xqya²⁰ wa⁴²	xqya²⁰ wa⁴²
+sen¹	V;PROSP;PL;1+EXCL	sen²⁰ wa⁴²	sen²⁰ wa⁴²
+nge⁴²	V;PROSP;PL;1+EXCL	ke²⁴ wa⁴²	ke²⁴ wa⁴²⁴²
+jwi³	V;PROSP;PL;1+EXCL	ja¹⁴⁰ wa⁴²	ja¹⁴⁰ wa⁴²
+slya²⁴	V;PROSP;PL;1+EXCL	xlya¹⁴⁰ wa⁴²	xlya¹⁴ wa⁴²²
+qya³	V;PROSP;PL;1+EXCL	qya¹⁴⁰ wa⁴²	qya¹⁴⁰ wa⁴
+kwa³	V;PROSP;PL;1+EXCL	kwa¹⁴⁰ wa⁴²	tya¹⁴⁰ wa⁴
+yo²	V;PROSP;PL;1+EXCL	ko¹⁴⁰ wa⁴²	ko¹⁴⁰ wa⁴²
+ngwa²	V;PROSP;PL;1+EXCL	ka²⁴ wa⁴²	ka²⁴ wa⁴²a⁴
+ntykwan²	V;PROSP;PL;1+EXCL	tykwan² wa⁴²	tykwan² wa⁴²²
+nkqi¹	V;PROSP;PL;1+EXCL	kqi²⁰ wa⁴²	kqi²⁰ wa⁴²²
+nti¹	V;PROSP;PL;1+EXCL	kti²⁰ wa⁴²	kti²⁰ wa⁴²
+yjaq³	V;PROSP;PL;1+EXCL	ntyjaq¹⁴⁰ wa²	ntyjaq¹⁴⁰ w
+qen⁴	V;PROSP;PL;1+EXCL	tyqin⁴ wa⁴²	tyqin⁴ wa⁴
+sqwa¹⁴	V;PROSP;PL;1+EXCL	sqwa¹⁴⁰ wa⁴²	sqwa¹⁴⁰ wa⁴²
+ntyja²	V;PROSP;PL;1+EXCL	tyja² wa⁴²	tyja² wa⁴²²/
+xka²⁴	V;PROSP;PL;1+EXCL	xka²⁴ wa⁴²	xka²⁴ wa⁴²a
+ntykwa⁴	V;PROSP;PL;1+EXCL	tykwa⁴ wa⁴²	tykwa⁴ wa⁴²²
+ytsaq³	V;PROSP;PL;1+EXCL	ktsaq¹⁴⁰ wa⁴²	ktsaq¹⁴⁰ wa⁴
+ntyqya¹	V;PROSP;PL;1+EXCL	tyqya²⁰ wa⁴²	tyqya²⁰ wa⁴²
+ngyla³	V;PROSP;PL;1+EXCL	xla³ wa⁴²	xla³ wa⁴²²⁴²
+ykwanq¹	V;PROSP;PL;1+EXCL	ykwanq²⁰ wa⁴²	ykwanq²⁰ wa⁴
+skwa³	V;PROSP;PL;1+EXCL	xkwa¹⁴⁰ wa⁴²	xkwa¹⁴⁰ wa⁴
+yqwe²	V;PROSP;PL;1+EXCL	kqwe¹⁴⁰ wa⁴²	kqwe¹⁴⁰ wa⁴
+skwaq¹	V;PROSP;PL;1+EXCL	skwaq²⁰ wa⁴²	skwaq²⁰ wa⁴²
+slu¹⁴	V;PROSP;PL;1+EXCL	slu¹⁴⁰ wa⁴²	slu¹⁴⁰ wa⁴²
+nkwa³	V;PROSP;PL;1+EXCL	kwa³ wa⁴²	kkwa¹⁴⁰⁴wa⁴
+ngon²	V;PROSP;PL;1+EXCL	xkwan² wa⁴²	xk²⁴n² wa⁴²
+ntqen¹	V;PROSP;PL;1+EXCL	tyqin²⁰ wa⁴²	tqqen²⁰ wa⁴²
+ntsen⁴²	V;PROSP;PL;1+EXCL	ktsen²⁴ wa⁴²	ktsen²⁴ wa⁴²
+sqyu¹	V;PROSP;PL;1+EXCL	sqyu²⁰ wa⁴²	sqyu²⁰ wa⁴²
+ntkonq³	V;PROSP;PL;1+EXCL	skonq¹⁴⁰ wa⁴²	skonq¹⁴⁰ wa⁴
+xtyiq¹⁰	V;PROSP;PL;1+EXCL	xtyiq¹⁴⁰ wa⁴²	xtyiq¹⁴⁰ wa⁴
+xne¹⁰	V;PROSP;PL;1+EXCL	xne¹⁴⁰ wa⁴²	xne¹⁴⁰ wa⁴²
+xkwen¹⁴	V;PROSP;PL;1+EXCL	xkwen¹⁴⁰ wa⁴²	xkwen¹⁴⁰ wa⁴
+ne⁴²	V;PROSP;PL;1+EXCL	kne¹⁴ qne⁰ wa⁴²	kne¹⁴ qne⁰
+skwan⁴	V;PROSP;PL;1+EXCL	xkwan²⁰ wa⁴²	xkwan²⁰ wa⁴²
+nxi²	V;PROSP;PL;1+EXCL	kxin² renq¹	kxin² renq
+ntsa²⁴	V;PROSP;PL;1+EXCL	ktsa²⁴ wa⁴²	ktsa²⁴ wa⁴²²
+nsuq³	V;PROSP;PL;1+EXCL	ksuq¹⁴⁰ wa⁴²	ksuq¹⁴⁰ wa⁴
+qnyi¹	V;PROSP;PL;1+EXCL	qnyi²⁰ wa⁴²	qnyi²⁰ wa⁴²
+nkonq⁴²	V;PROSP;PL;1+EXCL	konq⁴² wa⁴²	konq⁴² wa⁴²²
+nton⁴²	V;PROSP;PL;1+EXCL	kton¹⁴⁰ wa⁴²	kton¹⁴ wa⁴²²
+swi²⁰	V;PROSP;PL;1+EXCL	swi²⁰ wa⁴²	swi²⁰ wa⁴²²
+yta⁴	V;PROSP;PL;1+EXCL	kta⁴ wa⁴²	kta⁴ wa⁴²⁴
+styi¹	V;PROSP;PL;1+EXCL	styi²⁰ wa⁴²	styi²⁰ wa⁴²
+sta¹	V;PROSP;PL;1+EXCL	sta²⁰ wa⁴²	sta²⁰ wa⁴²
+ya⁴²	V;PROSP;PL;1+EXCL	kya²⁴ wa⁴²	kya²⁴ wa⁴²
+nyi¹⁴	V;PROSP;PL;1+EXCL	knyi¹⁴⁰ wa⁴²	knyi¹⁴⁰ wa⁴
+ntykaq¹	V;PROSP;PL;1+EXCL	tykaq²⁰ wa⁴²	tykaq²⁰ wa⁴²
+slaq¹	V;PROG;SG;1	nslanq³²	nslanq³
+yno¹	V;PROG;SG;1	ntqen²⁰	ndqen²⁰
+sti⁴	V;PROG;SG;1	nson²⁰	nson²⁰¹
+kwa¹⁴	V;PROG;SG;1	ntkwan⁴⁰	ntkwan⁰
+yja¹	V;PROG;SG;1	ntyjan³²	ntyjan³
+lu¹	V;PROG;SG;1	nlon³²	nlon³²
+nya¹⁴	V;PROG;SG;1	nnyan⁴⁰	nnyan⁴⁰
+ja¹	V;PROG;SG;1	ntjan³²	ntjan³
+ykuq²	V;PROG;SG;1	ntykonq¹	ntyknnq
+ndon⁴²	V;PROG;SG;1	ndon²⁰	ndon³²⁰²
+lya¹⁴	V;PROG;SG;1	nlyan⁴⁰	nlyan⁴⁰
+ne¹⁴	V;PROG;SG;1	nen⁴⁰	nen⁴⁰³²
+ntyka²	V;PROG;SG;1	ntykan²	ntykan²²
+ncha¹	V;PROG;SG;1	nchan³²	nchan³²
+swenq³	V;PROG;SG;1	nswenq⁴⁰	nswenq⁴⁰
+qne⁴²	V;PROG;SG;1	nqnen¹	nqnen¹⁰
+yla³	V;PROG;SG;1	ndlan⁴⁰	ndlan³³
+skwen¹	V;PROG;SG;1	nskwen³²	nskwenq⁰
+ji¹	V;PROG;SG;1	ntjen³²	ntjen³
+sne³	V;PROG;SG;1	nsnen⁴⁰	nsnen⁴⁰
+ntaq³	V;PROG;SG;1	ntanq⁴⁰	ntanq³²
+qu¹⁴	V;PROG;SG;1	ntqon⁴⁰	ntqon⁴⁰
+nkqwa¹	V;PROG;SG;1	nkqwan³²	nkqwan³²
+xta¹	V;PROG;SG;1	nxstan³²	nxsaa³³
+ykwenq¹	V;PROG;SG;1	ntykwenq³²	ntykwenq
+nlyu¹	V;PROG;SG;1	nlyon²⁰	nlyon²³
+nden⁴²	V;PROG;SG;1	nden³²	nden³²⁰²
+xqan¹	V;PROG;SG;1	ntxqan³²	ntxqan³
+nkin²	V;PROG;SG;1	ntykin⁴⁰	ntykin⁴
+ytsen⁴²	V;PROG;SG;1	ntsen³²	ntsen³²²
+xin²	V;PROG;SG;1	nxin⁴⁰	nxin⁴⁰²
+nkwi¹	V;PROG;SG;1	ntkwen³²	ntkwen³
+xyaq²	V;PROG;SG;1	nxyanq⁴⁰	nxyanq⁴
+naq¹	V;PROG;SG;1	nnanq³²	nnanq³²
+kwi¹	V;PROG;SG;1	ndwen²⁰	ndwean⁴
+saq²	V;PROG;SG;1	nsanq⁴⁰	nsanq⁴⁰
+ytiq⁴	V;PROG;SG;1	ntenq¹	ntenq¹²
+ntson¹⁴	V;PROG;SG;1	ntson⁴⁰	ntson⁴⁰⁰
+nton³	V;PROG;SG;1	nton³²	ntonn⁴⁰
+nglu³	V;PROG;SG;1	nglon⁴⁰	nglon⁴⁰
+ntykanq³	V;PROG;SG;1	ntykanq⁴⁰	ntykanq⁴⁰
+kwan¹	V;PROG;SG;1	ntkwan³²	ntkwan³
+ylu³	V;PROG;SG;1	ndlon³	ndlon³⁰
+sqwe¹⁴	V;PROG;SG;1	nsqwen⁴⁰	nsqwen⁴⁰
+jlya⁴²	V;PROG;SG;1	ntjlyan³²	ntjlyan³
+qne¹	V;PROG;SG;1	nqnen³²	nqnen³²
+qa²⁴	V;PROG;SG;1	ntqan¹	ntqan¹⁰
+ntiqi¹	V;PROG;SG;1	ntqen³²	ntqen³²⁰
+sqi²	V;PROG;SG;1	ntsqen⁴⁰	nssqen⁴
+ndyu²	V;PROG;SG;1	ndyon⁴⁰	ndyon⁴⁰
+yjoq⁴	V;PROG;SG;1	ntyjonq¹	ntyjonq
+sqna¹	V;PROG;SG;1	nsqnan³²	nsqnan³
+sqya¹	V;PROG;SG;1	nsqyan³²	nsqyan³
+nchin¹	V;PROG;SG;1	nchin³²	nchin³²²
+jwi³	V;PROG;SG;1	ntyjin⁴⁰	ntyjin⁴
+qya³	V;PROG;SG;1	ntyqyan⁴⁰	ntyqnan
+ngwa²	V;PROG;SG;1	ngan²⁴	ngan²⁴⁰
+ntykwan²	V;PROG;SG;1	ntykwan⁴⁰	ntykwan⁴⁰
+nkqi¹	V;PROG;SG;1	ntyqin³²	ntyqin³
+yjaq³	V;PROG;SG;1	ntjanq²⁰	ntyjon²
+sqwa¹⁴	V;PROG;SG;1	ntsqwan⁴⁰	nsqwen⁴⁰
+qya⁴²	V;PROG;SG;1	ntqyan³²	ntyynn³
+ntyja²	V;PROG;SG;1	ntyjan⁴⁰	ntyjan⁴⁰
+xka²⁴	V;PROG;SG;1	nxkan¹	nxkan¹⁰
+sne¹⁴	V;PROG;SG;1	nsnen⁴⁰	nsnen⁴⁰
+xlyu⁴²	V;PROG;SG;1	nxlyon³²	nxlyon³²
+ntykwa⁴	V;PROG;SG;1	ntykwan³²	ntykwan³
+ytsaq³	V;PROG;SG;1	ntsanq¹	ntsanq¹³
+ntyqya¹	V;PROG;SG;1	ntyqyan³²	ntyqyan³
+nna¹	V;PROG;SG;1	nnan³²	nnan³²⁰
+ngyla³	V;PROG;SG;1	ngylan³	ngylan³²
+ykwanq¹	V;PROG;SG;1	ntykwanq³²	ntykwanq
+yna⁴²	V;PROG;SG;1	nnan³²	nnan³²⁰
+ynaq¹	V;PROG;SG;1	nnanq³²	nnanq²⁰
+skwaq¹	V;PROG;SG;1	nskwanq³²	nskwanq³
+nxin⁴²	V;PROG;SG;1	nxin³²	nxin³²³⁴
+xkwan¹⁴	V;PROG;SG;1	nxkwan⁴⁰	nxkwan⁴⁰
+lo²⁴	V;PROG;SG;1	nlon⁴⁰	nlon⁴⁰⁰
+ngon²	V;PROG;SG;1	ndgon⁴⁰	ndgon⁴⁰
+nkqwa⁴²	V;PROG;SG;1	nkqwan³²	nkqwan³²
+ndya³	V;PROG;SG;1	ndyan³	ndyan³²
+ntqen¹	V;PROG;SG;1	ntqen³²	ntqen³²³
+ntsen⁴²	V;PROG;SG;1	ntsen³²	ntsen³²²
+ngya⁴²	V;PROG;SG;1	nkyqan²⁴	nkyqan²⁴
+ndlyu⁴²	V;PROG;SG;1	ndlyon³²	ndlyon³²
+ndiyan³²	V;PROG;SG;1	jyan²⁰	jyan²⁰n²⁰
+ndyi⁴	V;PROG;SG;1	ndyin³²	ndyin³²
+ntkonq³	V;PROG;SG;1	ntkonq⁴⁰	ntkonq⁴⁰
+ntykwen³	V;PROG;SG;1	ntykwen⁴⁰	ntykwen⁴⁰
+yku⁴	V;PROG;SG;1	ntykon¹	ntykon¹
+yna³	V;PROG;SG;1	nan⁴⁰	ntnn³⁴⁰
+xtyiq¹⁰	V;PROG;SG;1	nxtenq⁴⁰	nxtenq⁴⁰
+xne¹⁰	V;PROG;SG;1	nxnen⁴⁰	nxnen⁴⁰
+snyaq¹	V;PROG;SG;1	nsnyanq³²	nsnyanq³
+xkwen¹⁴	V;PROG;SG;1	nxkwen⁴⁰	nxkwen⁴⁰
+ntsaq⁴²	V;PROG;SG;1	ntsanq³²	ntsanq³²
+ne⁴²	V;PROG;SG;1	nnen¹	nnen¹⁴⁰
+ntyinq³	V;PROG;SG;1	ntyinq⁴⁰	ntyinq⁴⁰
+ylaq⁴	V;PROG;SG;1	nlanq¹	nlanq¹²
+nxi²	V;PROG;SG;1	nxin⁴⁰	nxin⁴⁰⁰
+ntsa²⁴	V;PROG;SG;1	ntsan³²	ntsan³²⁴
+nsuq³	V;PROG;SG;1	nsonq³	nsonq³³
+nkonq⁴²	V;PROG;SG;1	ntkonq³²	ntkonq³²
+nda³	V;PROG;SG;1	ndan³²	ndann²²
+ndywiq³	V;PROG;SG;1	ndywenq²	ndywenq²
+lqa³	V;PROG;SG;1	ntqan¹	ntqan¹³
+nton⁴²	V;PROG;SG;1	nton¹	nton¹²⁰⁴
+ntqo¹	V;PROG;SG;1	ntqon²⁰	ntqon²⁰
+yta⁴	V;PROG;SG;1	ntan³²	ntan³²³
+nchuq⁴	V;PROG;SG;1	nchonq¹	nchonq¹⁰
+ykwen²	V;PROG;SG;1	ntykwen⁴⁰	ntykwen⁴
+xkuq²	V;PROG;SG;1	nxkonq¹	nxkonq¹
+sta¹	V;PROG;SG;1	nstan³²	nstaa³²
+ntyjyuq¹	V;PROG;SG;1	ntyjyonq³²	ntyjyonq³
+ntykwan¹⁴	V;PROG;SG;1	ntykwan⁴⁰	ntykwan⁴⁰
+skwan²	V;PROG;SG;1	nskwan⁴⁰	nskwan⁴⁰
+nyi¹⁴	V;PROG;SG;1	nnyin⁴⁰	nnyin⁴⁰
+sqwi¹⁴	V;PROG;SG;1	nsqwen⁴⁰	nsqwen⁴⁰
+xku²⁰	V;PROG;SG;1	nxkon¹	nxkon¹²
+xti²⁰	V;PROG;SG;1	nxten³²	nxten³²
+yqu²	V;PROG;SG;1	ntqon⁴⁰	ntqon⁴⁰
+nduq⁴²	V;PROG;SG;1	ndonq³²	ndonq³²¹
+jlyo³²	V;PROG;SG;1	njlyon³²	njlyon³²
+sen⁴²	V;PROG;SG;1	nsen¹	nsen¹⁴⁰
+qen⁴²	V;PROG;SG;1	ntqen³²	ntqen³²
+ntyjanq²	V;PROG;SG;1	ntyjanq⁴⁰	ntyjanq⁴⁰
+slaq¹	V;PROG;PL;1+EXCL	nslaq¹ wa⁴²	nslaq¹ wa⁴²
+yqwi⁴	V;PROG;PL;1+EXCL	sqwi⁴ wan⁴	sqwi⁴ wan⁴⁴
+yno¹	V;PROG;PL;1+EXCL	ntqe⁴ wa⁴²	ntne⁴ wa⁴²
+kwa¹⁴	V;PROG;PL;1+EXCL	ntkwa¹⁰ wa⁴²	ntkwa¹⁰waa²
+sna³	V;PROG;PL;1+EXCL	nsna³ wa⁴²	nsna³ wa⁴²
+nten³	V;PROG;PL;1+EXCL	nten³ wa⁴²	nten³ wa⁴²²
+lu¹	V;PROG;PL;1+EXCL	nlu¹ wa⁴²	nlu¹ wa⁴²
+skonq³	V;PROG;PL;1+EXCL	ntskonq³ wa⁴²	ntskonq³ wa⁴
+nya¹⁴	V;PROG;PL;1+EXCL	nya¹⁰ wa⁴²	nya¹⁰ waa²²
+ja¹	V;PROG;PL;1+EXCL	ntja¹ wa⁴²	ntja¹ wa⁴
+ykuq²	V;PROG;PL;1+EXCL	ntykuq² wa⁴²	ntykuq² wa⁴
+ndon⁴²	V;PROG;PL;1+EXCL	ndon⁴² wa⁴²	ndon⁴² wa⁴²⁴
+ntqan¹	V;PROG;PL;1+EXCL	ntqan¹ wa⁴²	ntqan¹ wa⁴²⁴
+xin⁴²	V;PROG;PL;1+EXCL	nxin³² wa⁴²	nxin³² wa⁴²
+ntykonq⁴²	V;PROG;PL;1+EXCL	ntykonq³² wa⁴²	ntykonq³² wa⁴²
+lya¹⁴	V;PROG;PL;1+EXCL	nlya¹⁰ wa⁴²	nlya¹⁰ wa⁴²
+ne¹⁴	V;PROG;PL;1+EXCL	nni¹⁰ wa⁴²	nni¹⁰ wa⁴²
+ntyka²	V;PROG;PL;1+EXCL	ntyka² wa⁴²	ntyka² wa⁴² 
+swenq³	V;PROG;PL;1+EXCL	nswenq³ wa⁴²	nswenq³ wa⁴²
+qne⁴²	V;PROG;PL;1+EXCL	nqne³² wa⁴²	nqne³² wa⁴²
+yla³	V;PROG;PL;1+EXCL	ndla³ wa⁴²	ndla³ wa⁴²
+skwen¹	V;PROG;PL;1+EXCL	nskwen¹ wa⁴²	nskwen¹ wa⁴²
+ji¹	V;PROG;PL;1+EXCL	ntji¹ wa⁴²	ntji¹ wa⁴
+sqan¹	V;PROG;PL;1+EXCL	nsqan¹ wa⁴²	nsqan¹ wa⁴²
+sne³	V;PROG;PL;1+EXCL	nsne³ wa⁴²	nsne³ wa⁴²
+ntaq³	V;PROG;PL;1+EXCL	ntaq³ wa⁴²	ntaq³² wa⁴²
+qu¹⁴	V;PROG;PL;1+EXCL	ntqu¹⁰ wa⁴²	ntqu¹⁰ wa⁴
+nkqwa¹	V;PROG;PL;1+EXCL	nkqwa¹ wa⁴²	nkqwa¹ wa⁴²a
+xta¹	V;PROG;PL;1+EXCL	nstan² wa⁴²	nstan² w⁴²
+nlyu¹	V;PROG;PL;1+EXCL	nlyu¹ wa⁴²	nlyu¹ wa⁴²a
+xqan¹	V;PROG;PL;1+EXCL	ntxqan¹ wa⁴²	ntxqan¹ wa⁴
+nkin²	V;PROG;PL;1+EXCL	nkin² wa⁴²	nkin² wa⁴²⁴
+ytsen⁴²	V;PROG;PL;1+EXCL	nne³² qne³² wa⁴²	nne³² qne³² 
+naq¹	V;PROG;PL;1+EXCL	nnaq¹ wa⁴²	nnaq¹ wa⁴²
+kwi¹	V;PROG;PL;1+EXCL	ndwi¹ wa⁴²	ntwi¹ wa⁴²
+stan¹⁴	V;PROG;PL;1+EXCL	nstan¹⁰ wa⁴²	nstan¹⁰ wa⁴²
+saq²	V;PROG;PL;1+EXCL	nsaq² wa⁴²	nsaq² wa⁴²
+nton³	V;PROG;PL;1+EXCL	nton³² wa⁴²	nton³² wa⁴²
+nglu³	V;PROG;PL;1+EXCL	nglu³ wa⁴²	nglu³ wa⁴²⁴
+kwan¹	V;PROG;PL;1+EXCL	ntkwan³² wa⁴²	ntkwan³ wa⁴
+ylu³	V;PROG;PL;1+EXCL	ndlu³ wa⁴²	ndlu³ wa⁴²
+nkjwi⁴²	V;PROG;PL;1+EXCL	ntyji³² wa⁴²	ntyji³² wa⁴²
+nkeq³	V;PROG;PL;1+EXCL	ntkeq² wa⁴²	ntkeq² wa⁴²
+ntyqo¹	V;PROG;PL;1+EXCL	ntyqo¹ wa⁴²	ntyqo¹ wa⁴²⁴
+qan⁴	V;PROG;PL;1+EXCL	nkqan⁴ wa⁴²	nkqan⁴ wa⁴
+ntiqi¹	V;PROG;PL;1+EXCL	ntiqi¹ wa⁴²	ntiqi¹ wa⁴²²
+sqwe²⁴	V;PROG;PL;1+EXCL	nsqwe²⁴ wa⁴²	nsqwe²⁴ wa⁴²
+ndlyu¹	V;PROG;PL;1+EXCL	ndlyu²⁰ wa⁴²	ndlyu²⁰ wa⁴²
+sqi²	V;PROG;PL;1+EXCL	ntsqi² wa⁴²	ntsqi² wa⁴
+yqo²	V;PROG;PL;1+EXCL	ntyqo² wa⁴²	ntyqo² wa⁴
+ndyu²	V;PROG;PL;1+EXCL	ndyu² wa⁴²	ndyu² wa⁴²²
+sqya¹	V;PROG;PL;1+EXCL	nsqya¹ wa⁴²	nsqya¹ wa⁴²
+sen¹	V;PROG;PL;1+EXCL	sen¹ wa⁴²	sen¹ wa⁴²²
+slya²⁴	V;PROG;PL;1+EXCL	nslya¹⁴⁰ wa⁴²	nslya¹⁴⁰ wa⁴
+kwa³	V;PROG;PL;1+EXCL	ntkwa³ wa⁴²	ntkwa wa⁴²
+ntykwan²	V;PROG;PL;1+EXCL	ntykwan² wa⁴²	ntykwan² wa⁴²
+nkqi¹	V;PROG;PL;1+EXCL	ntqi¹ wa⁴²	ntqi¹ wa⁴²²
+nti¹	V;PROG;PL;1+EXCL	nti¹ wa⁴²	nti¹  wa⁴²
+yjaq³	V;PROG;PL;1+EXCL	ntjaq¹⁴⁰ wa²	ntjaq¹⁴⁰ wa
+qen⁴	V;PROG;PL;1+EXCL	ntqe⁴ wa⁴²	ntqe⁴  wa⁴
+sqwa¹⁴	V;PROG;PL;1+EXCL	ntsqwa¹⁰ wa⁴²	ntsqwa¹⁰ wa⁴
+qya⁴²	V;PROG;PL;1+EXCL	ntqya² wa⁴²	ntqya² wa⁴²
+ntyja²	V;PROG;PL;1+EXCL	ntyja² wa⁴²	ntyja² wa⁴²⁴
+xka²⁴	V;PROG;PL;1+EXCL	nxka¹⁰ wa⁴²	nxka¹⁰ wa⁴²
+xlyu⁴²	V;PROG;PL;1+EXCL	nxlyu³² wa⁴²	nxlyu³² wa⁴²
+ntykwa⁴	V;PROG;PL;1+EXCL	ntykwa³² wa⁴²	ntykwa³² wa⁴
+ntyqya¹	V;PROG;PL;1+EXCL	ntyqya¹ wa⁴²	ntyqya¹ wa⁴²
+jen²	V;PROG;PL;1+EXCL	ntjen² wa⁴²	ntjen² wa⁴
+ngyla³	V;PROG;PL;1+EXCL	nxla³ wa⁴²	nxla³ wa⁴²⁴²
+yqwe²	V;PROG;PL;1+EXCL	ntqwe² wa⁴²	ntqwe² wa⁴²
+sla¹	V;PROG;PL;1+EXCL	nsla¹ wa⁴²	nsla¹ wa⁴²
+ynaq¹	V;PROG;PL;1+EXCL	nnaq¹ wa⁴²	nnaq⁴ wa⁴²²
+ntsu⁴²	V;PROG;PL;1+EXCL	ntsu³² wa⁴²	ntsu³² wa⁴²²
+skwaq¹	V;PROG;PL;1+EXCL	nskwaq¹ wa⁴²	nskwaq¹ wa⁴²
+xkwan¹⁴	V;PROG;PL;1+EXCL	nxkwan¹⁰ wa⁴²	nxkwan¹⁰ wa⁴
+lo²⁴	V;PROG;PL;1+EXCL	nlo²⁴ wa⁴²	nlo²⁴ wa⁴²
+slu¹⁴	V;PROG;PL;1+EXCL	nslu¹⁰ wa⁴²	nslu¹⁰ wa⁴²
+nkwa³	V;PROG;PL;1+EXCL	ntkwa³ wa⁴²	ntkwa³ wa⁴²
+ntqen¹	V;PROG;PL;1+EXCL	ntqen¹ wa⁴²	ntqen¹ wa⁴²²
+ntsen⁴²	V;PROG;PL;1+EXCL	ntsen³² wa⁴²	ntsen³² wa²²
+sqyu¹	V;PROG;PL;1+EXCL	nsqyu¹ wa⁴²	nsqyu¹ wa⁴²
+ngya⁴²	V;PROG;PL;1+EXCL	ngya²⁴ wa⁴²	ngya²⁴ wa⁴²²
+ntkonq³	V;PROG;PL;1+EXCL	ntkonq³ wa⁴²	ntkonq³ wa⁴²
+yku⁴	V;PROG;PL;1+EXCL	ntyku³² wa⁴²	ntyku³² wa
+xtyiq¹⁰	V;PROG;PL;1+EXCL	nxtyiq¹⁰ wa⁴²	nxtyiq¹⁰ wa⁴
+snyaq¹	V;PROG;PL;1+EXCL	nsnyaq¹ wa⁴²	nsnyaq¹ wa⁴²
+xkwen¹⁴	V;PROG;PL;1+EXCL	nxkwen¹⁰ wa⁴²	nxkwen¹⁰ wa⁴
+ntyinq³	V;PROG;PL;1+EXCL	ntyinq² wa⁴²	ntyinq² wa⁴²
+ylaq⁴	V;PROG;PL;1+EXCL	nlaq⁴ wa⁴²	nlaq⁴ wa⁴²²
+skwan⁴	V;PROG;PL;1+EXCL	nskwan³² wa⁴²	nskwan³² wa⁴
+nxi²	V;PROG;PL;1+EXCL	nxin² wa⁴²	nxin² wa⁴²
+nsuq³	V;PROG;PL;1+EXCL	nsuq³ wa⁴²	nsuq³ wa⁴²a
+qnyi¹	V;PROG;PL;1+EXCL	nqnyi¹ wa⁴²	nqnyi¹ wa⁴²
+nkonq⁴²	V;PROG;PL;1+EXCL	ntkonq³² wa⁴²	ntkonq³² wa⁴
+son³	V;PROG;PL;1+EXCL	nson¹ wa⁴²	nson¹ wa⁴²
+lqa³	V;PROG;PL;1+EXCL	ntqa³ wa⁴²	ntqa³  w⁴²
+nton⁴²	V;PROG;PL;1+EXCL	nton³² wa⁴²	nton³² wa⁴²⁴
+ntqo¹	V;PROG;PL;1+EXCL	ntqo¹ wa⁴²	ntqo¹ wa⁴²a
+ndywan²	V;PROG;PL;1+EXCL	ndywan² wa⁴²	ndywan² wa⁴²
+yta⁴	V;PROG;PL;1+EXCL	nta³² wa⁴²	nta³² wa⁴²
+styi¹	V;PROG;PL;1+EXCL	nstyi¹ wa⁴²	nstyi¹ wa⁴²
+nchuq⁴	V;PROG;PL;1+EXCL	nchuq³² wa⁴²	nchuq³² wa⁴²
+ykwen²	V;PROG;PL;1+EXCL	ntykwen² wa⁴²	ntykwen² wa⁴
+sta¹	V;PROG;PL;1+EXCL	nsta¹ wa⁴²	nsta¹ wa⁴²
+ntykaq¹	V;PROG;PL;1+EXCL	ntykaq¹ wa⁴²	ntykaq¹ wa⁴²
+nduq⁴²	V;PROG;PL;1+EXCL	nduq³² wa⁴²	nduq³² wa⁴²²
+slaq¹	V;PROG;SG;2	nslaq⁴²	nslaq⁴
+yqwi⁴	V;PROG;SG;2	sqwi⁴²	nqwi⁴²
+yno¹	V;PROG;SG;2	yno⁴²	nno⁴²¹
+sti⁴	V;PROG;SG;2	nsu³²	nsu³²⁴
+kwa¹⁴	V;PROG;SG;2	ntkwa²⁰	ntkwa²
+sna³	V;PROG;SG;2	nsna¹	nsna¹n
+yja¹	V;PROG;SG;2	ntyja⁴²	ntjja⁴
+nten³	V;PROG;SG;2	nten¹	nten¹n
+lu¹	V;PROG;SG;2	nlu⁴²	nlu⁴²
+nya¹⁴	V;PROG;SG;2	nnya²⁰	nnya²⁰
+ntsiq³	V;PROG;SG;2	ntsiq¹	ntsiq¹q
+yqan⁴²	V;PROG;SG;2	ntyqan³²	ntyqa²³
+ykuq²	V;PROG;SG;2	ntykuq¹	ntykuq
+ndon⁴²	V;PROG;SG;2	ndon³²	ndon³²³
+ntqan¹	V;PROG;SG;2	ntqan⁴²	ntqqn⁴²
+xqwa¹⁰	V;PROG;SG;2	nxqwa²⁰	nxqwa²⁰
+ntykonq⁴²	V;PROG;SG;2	ntykonq³²	ntykonq³²
+ston⁴²	V;PROG;SG;2	nston³²	nstn³³²
+ne¹⁴	V;PROG;SG;2	ne¹⁰	ne¹⁰²⁰
+ntyka²	V;PROG;SG;2	ntyka¹	ntyka¹⁴
+ncha¹	V;PROG;SG;2	ncha⁴²	ncha⁴⁴
+yla³	V;PROG;SG;2	ndla¹	ndla¹²
+skwen¹	V;PROG;SG;2	nskwen⁴²	nskwen⁴
+la¹	V;PROG;SG;2	nla⁴²	nla⁴²
+ji¹	V;PROG;SG;2	ntyji⁴²	ntyji
+sqan¹	V;PROG;SG;2	nsqan⁴²	nsqaa⁴
+skanq³	V;PROG;SG;2	ntskanq¹	ntskanq
+ntaq³	V;PROG;SG;2	ntaq¹	ntaa¹²
+qu¹⁴	V;PROG;SG;2	ntqu²⁰	ntqu²⁰
+yjwiq²	V;PROG;SG;2	ntjwiq¹	ntjwiq¹
+nkqwa¹	V;PROG;SG;2	nkqwa⁴²	nkqwa⁴²
+ykwenq¹	V;PROG;SG;2	ntykwenq⁴²	ntykwen
+nkin²	V;PROG;SG;2	ntykin¹	ntykin
+ytsen⁴²	V;PROG;SG;2	ntsen³²	ntsen³²
+xyaq²	V;PROG;SG;2	nxyaq¹	nxyaq¹
+naq¹	V;PROG;SG;2	nnaq⁴²	nnaq¹²
+kwi¹	V;PROG;SG;2	ndwi⁴²	ndwi⁴²
+saq²	V;PROG;SG;2	nsaq¹	nsaq¹²
+ytiq⁴	V;PROG;SG;2	ntiq⁴²	ntiq⁴²
+ntson¹⁴	V;PROG;SG;2	ntson²⁰	ntson²⁰
+nglu³	V;PROG;SG;2	nglu¹	nglu¹⁰
+ywi⁴²	V;PROG;SG;2	ntjwi³²	ntywi³
+ntykanq³	V;PROG;SG;2	ntykanq²⁰	ntykanq²
+kwan¹	V;PROG;SG;2	ntkwan⁴²	ntkwan
+nkeq³	V;PROG;SG;2	ntykeq¹	ntykeq
+sqwe¹⁴	V;PROG;SG;2	nsqwe¹	nsqwe¹²
+ykwiq⁴	V;PROG;SG;2	ntykwiq⁴²	ntykwiq
+jlya⁴²	V;PROG;SG;2	ntjlya³²	ntjlya³
+qan⁴	V;PROG;SG;2	ntqan⁴²	ntqa⁴²
+qa²⁴	V;PROG;SG;2	ntqa³²	ntqa³²
+sqwe²⁴	V;PROG;SG;2	nsqwe³²	nsqwe³²
+nchaq⁴²	V;PROG;SG;2	nchaq³²	nchaq³²
+ndlyu¹	V;PROG;SG;2	ndlyu⁴²	ndlyu⁴²
+yqo²	V;PROG;SG;2	ntyqo¹	ntqqo¹
+yjoq⁴	V;PROG;SG;2	ntjoq⁴²	ntjoq⁴
+sqna¹	V;PROG;SG;2	nsqna⁴²	nsqaa⁴
+sqya¹	V;PROG;SG;2	nsqya⁴²	nsqya⁴
+nchin¹	V;PROG;SG;2	nchin⁴²	nchin⁴²
+nge⁴²	V;PROG;SG;2	ndye³²	ndye³²
+jwi³	V;PROG;SG;2	ntyji¹	ntyji¹
+slya²⁴	V;PROG;SG;2	nslya³²	nslya³²
+qya³	V;PROG;SG;2	ntyqya¹	ntyaya
+naq¹⁴	V;PROG;SG;2	nnaq¹	nnaq¹²
+yo²	V;PROG;SG;2	ndyo¹	ndyo¹
+ngwa²	V;PROG;SG;2	nga⁴²	nga⁴²²
+ntykwan²	V;PROG;SG;2	ntykwan¹	ntykwan¹
+nkya⁴²	V;PROG;SG;2	ngya⁴²	ntya⁴²²
+nkqi¹	V;PROG;SG;2	ntyqi⁴²	ntyqi⁴
+yjaq³	V;PROG;SG;2	ntjaq²⁰	ntjaq⁴
+qen⁴	V;PROG;SG;2	ntqe⁴²	ntqe⁴²
+sqwa¹⁴	V;PROG;SG;2	ntsqwa²⁰	nsqwwa²
+qya⁴²	V;PROG;SG;2	ntqya³²	ntqya³
+ntyja²	V;PROG;SG;2	ntyja¹	ntyja¹q
+xka²⁴	V;PROG;SG;2	nxka³²	nxka³²
+sne¹⁴	V;PROG;SG;2	nsne¹	nsne¹⁰
+xlyu⁴²	V;PROG;SG;2	nxlyu³²	nxlyu³²
+ytsaq³	V;PROG;SG;2	ntsaq¹	ntsaq¹q
+ntyqya¹	V;PROG;SG;2	ntyqya⁴²	ntyqya⁴
+jen²	V;PROG;SG;2	ntjen¹	ntjen¹
+nna¹	V;PROG;SG;2	nna⁴²	nna⁴²n
+ngyla³	V;PROG;SG;2	ngyla¹	ngyla¹n
+ykwanq¹	V;PROG;SG;2	ntykwanq⁴²	ntykwan
+yqwe²	V;PROG;SG;2	ntyqwe¹	ntyqee
+sla¹	V;PROG;SG;2	nsla⁴²	nsla²⁴
+ntsu⁴²	V;PROG;SG;2	ntsu³²	ntsu³²²
+skwaq¹	V;PROG;SG;2	nskwaq⁴²	nskwaq⁴
+nxin⁴²	V;PROG;SG;2	nxin³²	nxin³²³
+xkwan¹⁴	V;PROG;SG;2	nxkwan¹	nxkwan¹
+lo²⁴	V;PROG;SG;2	nlo³²	nlo³²²
+slu¹⁴	V;PROG;SG;2	nslu²⁰	nslu¹⁰
+ngon²	V;PROG;SG;2	ndgon¹	ndgon¹
+nkqwa⁴²	V;PROG;SG;2	nkqwa³²	nkqwa³²
+ndya³	V;PROG;SG;2	ndyan¹	ndyan¹
+ntsen⁴²	V;PROG;SG;2	ntsen³²	ntsen³²
+ngya⁴²	V;PROG;SG;2	nkya⁴²	nkya⁴²³
+ndlyu⁴²	V;PROG;SG;2	ndlyu³²	ndlyu³²
+ndiyan³²	V;PROG;SG;2	jyan⁴²	jyan⁴²⁰¹
+ndyi⁴	V;PROG;SG;2	ndyi³²	ndyi³²
+ntykwen³	V;PROG;SG;2	ntykwen¹	ntykwen¹
+yku⁴	V;PROG;SG;2	ntyku⁴²	ntyku⁴
+xne¹⁰	V;PROG;SG;2	nxne²⁰	nxne²⁰
+snyaq¹	V;PROG;SG;2	nsnyaq⁴²	nsnyaq⁴
+ntsaq⁴²	V;PROG;SG;2	ntsaq³²	ntsaq³²
+ne⁴²	V;PROG;SG;2	nne³²	nne³²²
+ntyinq³	V;PROG;SG;2	ntyinq¹	ntyinq¹
+ylaq⁴	V;PROG;SG;2	nlaq⁴²	ntlq⁴²
+nxi²	V;PROG;SG;2	nxin¹	nxin¹²
+ntsa²⁴	V;PROG;SG;2	ntsan³²	ntsan³²
+nsuq³	V;PROG;SG;2	nsuq¹	nsuq¹a
+xoq²	V;PROG;SG;2	nxoq¹	nxoq¹⁰
+nkonq⁴²	V;PROG;SG;2	ntkonq³²	ntkonq²
+ndywiq³	V;PROG;SG;2	ndywiq¹	ndywiq¹
+son³	V;PROG;SG;2	nson⁴⁰	nson⁴⁰
+xla³	V;PROG;SG;2	nxla¹	nxla¹²
+lqa³	V;PROG;SG;2	ntqa³²	ntqa³²
+nton⁴²	V;PROG;SG;2	nton³²	nton³²³
+ntqo¹	V;PROG;SG;2	ntyqo⁴²	ntyqo⁴
+swi²⁰	V;PROG;SG;2	nswi⁴²	nswi⁴²
+ndywan²	V;PROG;SG;2	ndywan¹	ndywan¹
+yta⁴	V;PROG;SG;2	nta⁴²	nta⁴²⁴
+ykwen²	V;PROG;SG;2	ntykwen¹	ntykwen
+ya⁴²	V;PROG;SG;2	nkya⁴²	nkya⁴²
+ntyjyuq¹	V;PROG;SG;2	ntyjyuq⁴²	ntyjyuq⁴
+nyi¹⁴	V;PROG;SG;2	nnyi¹	nnyi¹⁰
+sqwi¹⁴	V;PROG;SG;2	nsqwi¹	nsqwi¹²
+xku²⁰	V;PROG;SG;2	nxku⁴²	nxku⁴²
+ntykaq¹	V;PROG;SG;2	ntykaq⁴²	ntykaq⁴
+xtya²⁰	V;PROG;SG;2	nxtya⁴²	nxtya⁴²
+xti²⁰	V;PROG;SG;2	nxti⁴²	nxti⁴²
+yqu²	V;PROG;SG;2	ntqu¹	ntqu¹¹
+nduq⁴²	V;PROG;SG;2	nduq³²	nduq³²¹
+jlyo³²	V;PROG;SG;2	njlyo³²	njlyo³²
+xki¹	V;PROG;SG;2	nsxki⁴²	nxyki⁴
+qen⁴²	V;PROG;SG;2	ntqe³²	ntqe³²
+ntyjanq²	V;PROG;SG;2	ntyjanqE	ntyjanqE
+slaq¹	V;PROSP;PL;2	slaq²⁰ wan²⁴	slaq²⁰ wan²
+yqwi⁴	V;PROSP;PL;2	tyqwi⁴ wan⁴	tyqwi⁴ wan⁴
+yno¹	V;PROSP;PL;2	kno¹ wan²⁴	kno¹ wan²⁴⁴
+kwa¹⁴	V;PROSP;PL;2	tykwa¹⁴ wan⁰	tykwa¹⁴ wan
+yja¹	V;PROSP;PL;2	tyja²⁰ wan²⁴	tyja²⁰ wan²
+nten³	V;PROSP;PL;2	sten¹⁴ wan⁰	sten¹⁴ wan⁰
+nya¹⁴	V;PROSP;PL;2	knya¹⁴ wan⁰	knya¹⁴ wan⁰
+ntsiq³	V;PROSP;PL;2	ktsiq¹⁴ wan²⁴	ktsiq¹⁴ wan²
+yqan⁴²	V;PROSP;PL;2	yqan²⁴ wan⁴	yqan²⁴ wan⁴²
+ja¹	V;PROSP;PL;2	ja²⁰ wan²⁴	ja²⁰ wan²⁴
+ykuq²	V;PROSP;PL;2	kuq¹⁴ wan⁰	kuq¹⁴ wan⁰³
+ndon⁴²	V;PROSP;PL;2	tyon²⁴ wan³²	tyon²⁴ wan³²
+xin⁴²	V;PROSP;PL;2	xin⁴² wan⁴	xin⁴² wan⁴³
+ston⁴²	V;PROSP;PL;2	ston²⁴ wan³²	ston²⁴ wan³²
+lya¹⁴	V;PROSP;PL;2	jlya¹⁴ wan⁰	jlya¹⁴ wan⁰
+ne¹⁴	V;PROSP;PL;2	nni¹⁴ wan⁰	nni¹⁴ wan⁰²
+ntyka²	V;PROSP;PL;2	tyka² wan¹	tyka² wan¹n⁴
+ncha¹	V;PROSP;PL;2	kcha²⁰ wan²⁴	kcha²⁰ wan²
+qne⁴²	V;PROSP;PL;2	qne²⁴ wan³²	qne²⁴ wan³²
+yla³	V;PROSP;PL;2	kla¹⁴ wan⁰	kla¹⁴ wan⁰⁴
+sqan¹	V;PROSP;PL;2	sqan²⁰ wan²⁴	sqan²⁰ wan²
+sne³	V;PROSP;PL;2	sne¹⁴ wan⁰	sne¹⁴ wan⁰²
+skanq³	V;PROSP;PL;2	skanq¹⁴ wan⁰	skanq¹⁴ wan⁰
+ntaq³	V;PROSP;PL;2	ktaq¹⁴ wan⁰	ktaq¹⁴ wan⁰
+qu¹⁴	V;PROSP;PL;2	qu¹⁴ wan⁰	qu¹⁴ wan⁰n²
+nkqwa¹	V;PROSP;PL;2	tyqwa²⁰ wan²⁴	tyqwa²⁰ wan²
+ykwenq¹	V;PROSP;PL;2	tykwenq²⁰wan²⁴	tykwenq²⁰wan
+nden⁴²	V;PROSP;PL;2	ten²⁴ wan³²	tenn⁴ wan³²³
+ytsen⁴²	V;PROSP;PL;2	kne¹⁴ qne⁰ wan³²	kne¹⁴ qne⁰ w
+nkwi¹	V;PROSP;PL;2	ykwi²⁰ wan²⁴	ykwi²⁰ wan²
+xyaq²	V;PROSP;PL;2	xyaq² wan¹	xyaq² wan¹²
+naq¹	V;PROSP;PL;2	knaq²⁰ wan²⁴	kyaq²⁰ wan²
+kwi¹	V;PROSP;PL;2	tywi²⁰ wan²⁴	tywi²⁰ wan²
+stan¹⁴	V;PROSP;PL;2	stan¹⁴ wan⁰	stan¹⁴ wan⁰⁴
+saq²	V;PROSP;PL;2	tykwan¹⁴ wan⁰	tykwan¹⁴ wa
+ytiq⁴	V;PROSP;PL;2	ktiq⁴ wan⁴	ktiq⁴ wan⁴⁰
+nglu³	V;PROSP;PL;2	klu¹⁴ wa⁰	klu¹⁴ wa⁰an
+ylu³	V;PROSP;PL;2	klu¹⁴ wan⁰	klu¹⁴ wan⁰⁰
+nkeq³	V;PROSP;PL;2	keq¹⁴ wan¹	keq¹⁴ wan¹⁰
+sqwe¹⁴	V;PROSP;PL;2	sqwe¹⁴ wan⁰	sqwe¹⁴ wan⁰⁴
+ykwiq⁴	V;PROSP;PL;2	tykwiq⁴ wan⁴	tykwiq  wan⁴
+ntyqo¹	V;PROSP;PL;2	tyqo²⁰ wan²⁴	tyqo²⁰ wan²⁴
+jlya⁴²	V;PROSP;PL;2	jlya²⁴ wan³²	jlya²⁴ wan³²
+sqwe²⁴	V;PROSP;PL;2	sqwe²⁴ wan³²	sqwe¹⁴ wan⁰²
+nchaq⁴²	V;PROSP;PL;2	kchaq²⁴ wan³²	kchaq²⁴ wan³
+ndlyu¹	V;PROSP;PL;2	tlyu²⁰ wan²⁴	tlyu²⁰ wan²⁴
+sqi²	V;PROSP;PL;2	xqi¹⁴⁰ wan¹	xqi²⁴⁰ wan¹
+ndyu²	V;PROSP;PL;2	ntyu² wan¹	ntyu² wan¹²
+sqna¹	V;PROSP;PL;2	sqna²⁰ wan²⁴	sqna²⁰ wan²
+sen¹	V;PROSP;PL;2	sen²⁰ wan²⁴	sen²⁰ wan²⁴
+nge⁴²	V;PROSP;PL;2	ke²⁴ wan³²	ke²⁴ wan³²²
+jwi³	V;PROSP;PL;2	ja¹⁴ wan⁰	ja¹⁴ wan⁰¹¹
+qya³	V;PROSP;PL;2	qya¹⁴ wan⁰	qya¹⁴ wan⁰³
+kwa³	V;PROSP;PL;2	kwa¹⁴ wan⁰	tya¹⁴ wan⁰n
+naq¹⁴	V;PROSP;PL;2	nyaq¹⁴ wan⁰	nyaq¹⁴ wan⁰
+ngwa²	V;PROSP;PL;2	ka²⁴ wan³²	ka²⁴ wan³²⁰
+nti¹	V;PROSP;PL;2	kti²⁰ wan²⁴	kti²⁰ wan²⁴
+ntyi¹	V;PROSP;PL;2	ktyi²⁰ wan²⁴	ktyi²⁰ wan²
+yjaq³	V;PROSP;PL;2	ntyjaq¹⁴ wan⁰	ntyjaq wana
+sqwa¹⁴	V;PROSP;PL;2	sqwa¹⁴ wan⁰	sqwa¹⁴ wan⁰²
+qya⁴²	V;PROSP;PL;2	kqya²⁴ wan³²	kqya²⁴ wan³
+ntyja²	V;PROSP;PL;2	tyja² wan¹	tyja² wan¹n⁰
+xka²⁴	V;PROSP;PL;2	xka²⁴ wan³²	xka²⁴ wan³²
+sne¹⁴	V;PROSP;PL;2	sne¹⁴ wan⁰	sne¹⁴ wan⁰²
+xlyu⁴²	V;PROSP;PL;2	xlyu²⁴ wan⁴	xlyu²⁴ wan⁴²
+ntykwa⁴	V;PROSP;PL;2	tykwa⁴ wan⁴	tykwa⁴ wan⁴⁴
+ntyqya¹	V;PROSP;PL;2	tyqya²⁰ wan²⁴	tyqya²⁰ wan²
+jen²	V;PROSP;PL;2	tyjin¹⁴ wan⁰	tyjin¹⁴ wan
+ykwanq¹	V;PROSP;PL;2	ykwanq²⁰ wan²⁴	ykwanq²⁰ wan
+skwa³	V;PROSP;PL;2	xkwa¹⁴ wan⁰	xkwa¹⁴ wan⁰
+yqwe²	V;PROSP;PL;2	kqwe¹⁴ wan⁰	kqwe¹⁴ wan⁰
+sla¹	V;PROSP;PL;2	sla²⁰ wan²⁴	sla²⁰ wan²⁴
+yna⁴²	V;PROSP;PL;2	kna²⁴ wan³²	kna²⁴⁴ wa³²
+ynaq¹	V;PROSP;PL;2	knaq²⁰ wan²⁴	knaq²⁰ wan²
+skwaq¹	V;PROSP;PL;2	skwaq²⁰ wan²⁴	skwaq²⁰ wan²
+lo²⁴	V;PROSP;PL;2	klo²⁴ wan³²	klo²⁴ wan³²
+slu¹⁴	V;PROSP;PL;2	slu¹⁴ wan⁰	slu¹⁴ wan⁰n
+ngon²	V;PROSP;PL;2	xkwan² wan¹	xk²n²w wan¹
+ntqen¹	V;PROSP;PL;2	tyqin²⁰ wan²⁴	tyqin²⁰ wan²
+ntsen⁴²	V;PROSP;PL;2	ktsen²⁴ wan³²	ktsen²⁴ wan³
+sqyu¹	V;PROSP;PL;2	sqyu²⁰ wan²⁴	sqyu²⁰ wan²
+ngya⁴²	V;PROSP;PL;2	kya²⁴ wan³²	kya²⁴wana³²³
+ndlyu⁴²	V;PROSP;PL;2	tlyu⁴² wan⁴	tlyu⁴² wan⁴⁴
+ntkonq³	V;PROSP;PL;2	skonq¹⁴ wan⁰	skonq¹⁴ wan⁰
+ntykwen³	V;PROSP;PL;2	tykwen¹⁴ wan⁰	tykwen¹⁴ wan⁰
+xtyiq¹⁰	V;PROSP;PL;2	xtyiq¹⁴ wan⁰	xtyiq¹⁴ wan⁰
+xne¹⁰	V;PROSP;PL;2	xne¹⁴ wan⁰	xne¹⁴ wan⁰¹
+ne⁴²	V;PROSP;PL;2	kne¹⁴ qne⁰ wan³²	kne¹⁴ qne⁰ 
+ntyinq³	V;PROSP;PL;2	ktyinq¹⁴ wan⁰	ktyinq¹⁴ wan
+nxi²	V;PROSP;PL;2	kxin² wan¹	kxin² wan¹³
+ntsa²⁴	V;PROSP;PL;2	ktsa²⁴ wan³²	ktsa²⁴ wan³²
+nsuq³	V;PROSP;PL;2	ksuq¹⁴ wan⁰	ksuq¹⁴ wan⁰
+qnyi¹	V;PROSP;PL;2	qnyi²⁰ wan²⁴	qnyi²⁰ wan²
+nkonq⁴²	V;PROSP;PL;2	konq²⁴ wan³²	konq²⁴ wan³²
+son³	V;PROSP;PL;2	xon²⁰ wan²⁴	xon²⁰ wan²⁴
+lqa³	V;PROSP;PL;2	qa¹⁴ wan⁰	qa¹⁴ wan⁰n³
+nton⁴²	V;PROSP;PL;2	kton¹⁴ wan⁰	kton¹⁴ wan⁰²
+ntqo¹	V;PROSP;PL;2	tyqo¹ wan²⁴	tyqo¹ wan²⁴
+ndywan²	V;PROSP;PL;2	tywan² wan¹	tywan² wan¹³
+yta⁴	V;PROSP;PL;2	kta⁴ wan⁴	kta⁴ wan⁴⁴²
+styi¹	V;PROSP;PL;2	styi²⁰ wan²⁴	styi²⁰ wan²
+ykwen²	V;PROSP;PL;2	kwen¹⁴ wan⁰	kwen¹⁴ wan⁰⁴
+sta¹	V;PROSP;PL;2	sta²⁰ wan²⁴	sta²⁰ wan²⁴
+ntyjyuq¹	V;PROSP;PL;2	kyjyuq²⁰ wan²⁴	kyjyuq²⁰ wan²
+nyi¹⁴	V;PROSP;PL;2	knyi¹⁴ wan⁰	knyi¹⁴ wan⁰
+yqu²	V;PROSP;PL;2	kqu² wan¹	kqu¹ wan¹⁰¹
+nduq⁴²	V;PROSP;PL;2	ntyuq²⁴ wan³²	ntyuq²⁴ wan³
+jinyiq²	V;PROSP;PL;2	ynyiq¹⁴ wan⁰	ynyiq¹⁴ wan⁰
+slaq¹	V;HAB;PL;3	nslaq²⁰ renq²⁴	nslaq²⁰renq²²
+yqwi⁴	V;HAB;PL;3	ntqwi⁴ renq⁴	ntqwi⁴ renq⁴q
+yno¹	V;HAB;PL;3	nno¹ renq²⁴	nno¹ renq²⁴²⁴
+sti⁴	V;HAB;PL;3	nstyin⁴ renq⁴	nstyin⁴ renq⁴
+kwa¹⁴	V;HAB;PL;3	ntykwa¹⁴ renq⁰	ntkkwa¹⁴ renq
+sna³	V;HAB;PL;3	nxna¹⁴ renq⁰	nsna¹⁴ renq⁰⁴
+yja¹	V;HAB;PL;3	ntyja²⁰ renq²⁴	ntyja²⁰ renq²
+lu¹	V;HAB;PL;3	nlu²⁰ renq²⁴	nlu²⁰ renq²⁴
+skonq³	V;HAB;PL;3	ntkonq¹⁴ renq⁰	ntkonq¹⁴ renq⁰
+nya¹⁴	V;HAB;PL;3	nnya¹⁴ renq⁰	nnya¹⁴ renq⁰²
+ja¹	V;HAB;PL;3	ntja²⁰ renq²⁴	ntja²⁰ renq²
+ykuq²	V;HAB;PL;3	ntykuq¹⁴ renq⁰	ntykuq¹⁴ renq
+ndon⁴²	V;HAB;PL;3	ndyon²⁴ renq³²	ndyon²⁴ renq³²
+ntqan¹	V;HAB;PL;3	ntqan²⁰ renq²⁴	ntqan²⁰ renq²⁴
+xqwa¹⁰	V;HAB;PL;3	nxqwa¹ renq⁰	nxqwa¹ renq⁰⁰q
+ntykonq⁴²	V;HAB;PL;3	ntykonq¹⁴ renq⁰	ntykonq¹⁴ renq⁰
+ston⁴²	V;HAB;PL;3	nston²⁴ renq³²	nston²⁴ renq³²
+lya¹⁴	V;HAB;PL;3	nlya¹⁴ renq³²	nlya¹⁴ renq³²
+swenq³	V;HAB;PL;3	nswenq¹⁴ renq⁰	nswenq¹⁴ renq⁰
+qne⁴²	V;HAB;PL;3	nqne²⁴ renq³²	nqne²⁴⁴ ren³²
+yla³	V;HAB;PL;3	ndla¹⁴ renq⁰	ndla¹⁴  ren⁰²
+skwen¹	V;HAB;PL;3	nskwen²⁰ renq²⁴	nskwen²⁰ renq²
+sne³	V;HAB;PL;3	nsne¹⁴ renq⁰	nsne¹⁴ renq⁰²
+skanq³	V;HAB;PL;3	ntskanq¹⁴ renq⁰	ntskanq¹⁴renqq
+ntaq³	V;HAB;PL;3	ntaq¹⁴ renq⁰	ntaq¹¹ renq⁰⁰
+qu¹⁴	V;HAB;PL;3	ntqu¹⁴ renq⁰	ntqu¹⁴ renq⁰q
+nkqwa¹	V;HAB;PL;3	ntyqwa²⁰ renq²⁴	ntyqwa²⁰ renq²
+xta¹	V;HAB;PL;3	nstan¹⁴ renq⁰	nsta²¹ renq²⁰
+ykwenq¹	V;HAB;PL;3	ntykwenq²⁰ renq²⁴	ntykwenq²⁰ ren
+nlyu¹	V;HAB;PL;3	nlyu²⁰ renq²⁴	nlyu²⁰ renq²⁴
+nden⁴²	V;HAB;PL;3	nden²⁴ renq³²	nden²⁴ renq³²²
+xqan¹	V;HAB;PL;3	ntxqan²⁰ renq²⁴	ntxqan² renq⁰
+nkin²	V;HAB;PL;3	ntykin² renq¹	ntykin² renq¹
+ytsen⁴²	V;HAB;PL;3	nn¹⁴ qne⁰ renq³²	nn¹⁴ qne⁰ renq
+xin²	V;HAB;PL;3	nxin¹⁴ renq⁰	nxin¹⁴ renq⁰q
+xyaq²	V;HAB;PL;3	nxyaq² renq¹	nxyaq² renq¹q
+naq¹	V;HAB;PL;3	nnaq²⁰ renq²⁴	nnaq²⁰  ren²⁴
+saq²	V;HAB;PL;3	nsaq¹⁴ renq⁰	nsaq²⁴ renq⁰⁴
+ytiq⁴	V;HAB;PL;3	ntyiq⁴ renq⁴	ntyiq⁴ renq⁴⁰
+nton³	V;HAB;PL;3	ntyon¹⁴ renq⁰	ntyon¹⁴ renq⁰
+kwan¹	V;HAB;PL;3	ntkwan⁴ renq⁴	ntkwan²⁴ renq
+ylu³	V;HAB;PL;3	ndlyu¹⁴ renq⁰	ndlyu¹⁴ renq⁰
+nkjwi⁴²	V;HAB;PL;3	ntyji⁴ renq⁴	ntyji⁴ renq⁴⁰²
+nkeq³	V;HAB;PL;3	ntkeq¹⁴ renq¹	ntkeq⁴ renqq¹
+sqwe¹⁴	V;HAB;PL;3	nsqwe¹⁴ renq⁰	nsqwe¹⁴ renq⁰²
+ykwiq⁴	V;HAB;PL;3	ntykwiq⁴ renq⁴	ntykwiq⁴ renq⁴
+qne¹	V;HAB;PL;3	nqne²⁰ renq²⁴	nqne²⁰ renq²⁴
+qan⁴	V;HAB;PL;3	ntyqan⁴ renq⁴	ntyqan⁴ renq⁴
+qa²⁴	V;HAB;PL;3	ntqa²⁴ renq³²	ntqa²⁴ renq³²
+ntiqi¹	V;HAB;PL;3	ntiqi²⁰ renq²⁴	ntiqi²⁰ renq²⁴
+sqwe²⁴	V;HAB;PL;3	nsqwe²⁴ renq³²	nsqwe²⁴ renq³²
+nchaq⁴²	V;HAB;PL;3	nchaq²⁴ renq³²	nchaq²⁴ renq³²
+ndlyu¹	V;HAB;PL;3	ndlyu²⁰ renq²⁴	ndlyu²⁰ renq²⁴
+sqi²	V;HAB;PL;3	nchsqi¹⁴⁰ renq¹	nchsqi renqen
+sen¹	V;HAB;PL;3	nsen²⁰ renq²⁴	nsen²⁰ renq²⁴
+nge⁴²	V;HAB;PL;3	ndye²⁴ renq³²	ndye²⁴ renq³²
+slya²⁴	V;HAB;PL;3	nxlya²⁴ renq³²	nxlya²⁴ renq³²
+kwa³	V;HAB;PL;3	nkwa¹⁴ renq⁰	ntwa¹a¹⁴ renq
+naq¹⁴	V;HAB;PL;3	nnyaq¹⁴ renq⁰	nnyqq¹⁴ renq⁰
+yo²	V;HAB;PL;3	ndyo¹⁴ renq⁰	ndyo¹⁴ renq⁰
+nti¹	V;HAB;PL;3	nti²⁰ renq²⁴	nty²²⁰⁴renqq⁴
+ntyi¹	V;HAB;PL;3	ntyi²⁰ renq²⁴	ntyi²⁰ renq²⁴
+yjaq³	V;HAB;PL;3	ntyjaq¹⁴ renq⁰	ntyjaq¹ renq²
+qen⁴	V;HAB;PL;3	ntyqin⁴ renq⁴	ntyqin⁴ renq⁴
+qya⁴²	V;HAB;PL;3	ntqya²⁴ renq³²	ntqya²⁴ renq³
+ntyja²	V;HAB;PL;3	ntyja² renq¹	ntyja² renq¹q⁰
+xka²⁴	V;HAB;PL;3	nxka²⁴ renq³²	nxka²⁴ renq³²
+sne¹⁴	V;HAB;PL;3	nsne¹⁴ renq⁰	nsne¹⁴ renq⁰²
+ntykwa⁴	V;HAB;PL;3	ntykwa⁴ renq⁴	ntykwa⁴ renq⁴²
+ytsaq³	V;HAB;PL;3	ntsaq¹⁴ renq²⁴	ntsaq¹⁴ renq²⁴
+ntyqya¹	V;HAB;PL;3	ntyqya²⁰ renq²⁴	ntyqya²⁰ renq²
+jen²	V;HAB;PL;3	ntyjin¹⁴ renq⁰	ntyjin¹⁴ renq
+ngyla³	V;HAB;PL;3	nchla³ renq²⁴	nchla³ renq²⁴⁰
+yqwe²	V;HAB;PL;3	ntyqwe¹⁴ renq⁰	ntyqwe¹ renqq
+sla¹	V;HAB;PL;3	nsla²⁰ renq²⁴	nsla²⁰ renq²⁴
+yna⁴²	V;HAB;PL;3	na²⁴ renq³²	na²⁴ renq³²³³
+ntsu⁴²	V;HAB;PL;3	nchu²⁴ renq³²	nchu²⁴ renq³²q
+skwaq¹	V;HAB;PL;3	nskwaq²⁰ renq²⁴	nskwaq²⁰ renq²
+xkwan¹⁴	V;HAB;PL;3	nxkwan¹⁴ renq⁰	nxkwan¹⁴ renq⁰
+lo²⁴	V;HAB;PL;3	nlo²⁴ renq³²	nlo²⁴ renq³²²
+slu¹⁴	V;HAB;PL;3	nslu¹⁴ renq⁰	nslu¹⁴ renq⁰q
+sqyu¹	V;HAB;PL;3	nsqyu²⁰ renq²⁴	nsqyu²⁰ renq²
+ndlyu⁴²	V;HAB;PL;3	ndlyu⁴² renq³²	ndlyu⁴² renq³²
+ntykwen³	V;HAB;PL;3	ntykwen¹⁴ renq⁰	ntykwen¹⁴ renq⁰
+yku⁴	V;HAB;PL;3	ntyku⁴ renq⁴	ntyku⁴⁴ renq⁴
+yna³	V;HAB;PL;3	na¹⁴ renq²⁴	nan⁴ r renq⁰⁰
+xtyiq¹⁰	V;HAB;PL;3	nxtyiq¹⁴ renq⁰	nxtyiq¹⁴ renq⁰
+xne¹⁰	V;HAB;PL;3	nxne¹⁴ renq⁰	nxne¹⁴ renq⁰⁰
+snyaq¹	V;HAB;PL;3	nsnyaq¹renq²⁴	nsnyaq¹renq²⁴²
+xkwen¹⁴	V;HAB;PL;3	nxkwen¹⁴ renq⁰	nxkwen¹⁴ renq⁰
+ntyinq³	V;HAB;PL;3	ntyinq¹⁴ renq⁰	ntyinq¹⁴ renq⁰
+skwan⁴	V;HAB;PL;3	nxkwan²⁰ renq²⁴	nxkwan²⁰ renq²
+nxi²	V;HAB;PL;3	nxin² renq¹	nxin² renq¹⁰²
+ntsa²⁴	V;HAB;PL;3	ntsa²⁴ renq³²	ntsa²⁴ renq³²⁴
+son³	V;HAB;PL;3	nxon²⁰ renq²⁴	nxon²⁰ renq²⁴
+lqa³	V;HAB;PL;3	nt/lyqa¹⁴ renq⁰	nt/lyqa¹⁴ ren
+nton⁴²	V;HAB;PL;3	ntyon¹⁴ renq⁰	ntyon¹⁴ renq⁰²
+ntqo¹	V;HAB;PL;3	ntyqo¹ renq²⁴	ntyqo¹ renq²⁴
+swi²⁰	V;HAB;PL;3	nswi²⁰ renq²⁴	nswi²⁰ renq²⁴
+yta⁴	V;HAB;PL;3	ntan⁴ renq⁴	ntan⁴⁴ renqq⁴
+nchuq⁴	V;HAB;PL;3	nchuq⁴ renq⁴	nchuq⁴ renq⁴²⁴
+ykwen²	V;HAB;PL;3	ntykwen¹⁴ renq⁰	ntykwen¹⁴ renq
+sta¹	V;HAB;PL;3	nsta²⁰ renq²⁴	nsta²⁰ renq²⁴
+ya⁴²	V;HAB;PL;3	nkya²⁴ renq³²	nkya²⁴ renq³²
+ntykaq¹	V;HAB;PL;3	ntykanq²⁰ renq²⁴	ntykanq²⁰ renq
+yqu²	V;HAB;PL;3	ntyqu² renq¹	ntyqu² renq¹n
+slaq¹	V;PROSP;SG;3	slaq²⁰	slaq²⁰
+yqwi⁴	V;PROSP;SG;3	tyqwi⁴	tqqwi⁴
+yno¹	V;PROSP;SG;3	kno¹	kno¹⁰
+sti⁴	V;PROSP;SG;3	styin⁴	styin
+sna³	V;PROSP;SG;3	xna¹⁴	xna¹⁴
+yja¹	V;PROSP;SG;3	tyja²⁰	tyja²
+nten³	V;PROSP;SG;3	sten¹⁴	sten¹⁴
+lu¹	V;PROSP;SG;3	klu²⁰	klu²
+skonq³	V;PROSP;SG;3	skonq¹⁴	skonq¹
+ntsiq³	V;PROSP;SG;3	ktsiq¹⁴	ktsiq¹
+yqan⁴²	V;PROSP;SG;3	yqan²⁴	yqan²⁴
+ja¹	V;PROSP;SG;3	ja²⁰	ja²⁰
+ntqan¹	V;PROSP;SG;3	tqan²⁰	tqann²
+xqwa¹⁰	V;PROSP;SG;3	xqwa¹⁰	xqwa¹⁰
+xin⁴²	V;PROSP;SG;3	xin⁴²	xin⁴²⁴
+ston⁴²	V;PROSP;SG;3	ston²⁴	ston¹⁴
+lya¹⁴	V;PROSP;SG;3	jlya¹⁴	jlya¹⁴
+ntyka²	V;PROSP;SG;3	tyka²	tyka²²
+ncha¹	V;PROSP;SG;3	kcha²⁰	kcha²⁰
+swenq³	V;PROSP;SG;3	swenq¹⁴	swenq¹
+yla³	V;PROSP;SG;3	kla¹⁴	kla¹⁴
+la¹	V;PROSP;SG;3	kla⁴	kla⁴
+ji¹	V;PROSP;SG;3	ji²⁰	ji²⁰
+sqan¹	V;PROSP;SG;3	sqan²⁰	sqan²⁰
+sne³	V;PROSP;SG;3	sne¹⁴	sne¹⁴
+lkwi¹	V;PROSP;SG;3	tkwi²⁰	tkwi²⁰
+skanq³	V;PROSP;SG;3	skanq¹⁴	skanq¹
+qu¹⁴	V;PROSP;SG;3	qu¹⁴	qu¹⁴⁰
+yjwiq²	V;PROSP;SG;3	kjwiq¹⁴	kjwiq¹
+nkqwa¹	V;PROSP;SG;3	tyqwa²⁰	tyqwa²
+xta¹	V;PROSP;SG;3	xtan¹⁴	xtan¹
+ykwenq¹	V;PROSP;SG;3	tykwenq²⁰	tykwnnq
+nkin²	V;PROSP;SG;3	skin¹⁴	skin²⁴
+ytsen⁴²	V;PROSP;SG;3	ktsen¹⁴	ktsen¹⁴
+xin²	V;PROSP;SG;3	kxin¹⁴	kxin¹
+nkwi¹	V;PROSP;SG;3	tykwi²⁰	kkwii⁰
+kwi¹	V;PROSP;SG;3	tykwi²⁰	kykwi
+stan¹⁴	V;PROSP;SG;3	stan¹⁴	stan¹⁴
+saq²	V;PROSP;SG;3	saq¹⁴	saq¹⁴
+nglu³	V;PROSP;SG;3	klu¹⁴	klu¹⁴⁰
+ntykanq³	V;PROSP;SG;3	tykanq¹⁴	tykanq¹⁴
+kwan¹	V;PROSP;SG;3	kwan⁴	kwan⁴⁰
+nkjwi⁴²	V;PROSP;SG;3	kja⁴	kja⁴iq²
+sqwe¹⁴	V;PROSP;SG;3	sqwe¹⁴	sqwe¹⁴
+jlya⁴²	V;PROSP;SG;3	jlya²⁴	jlya²⁴
+qne¹	V;PROSP;SG;3	kqne²⁰	sqne²
+qan⁴	V;PROSP;SG;3	tyqan⁴	tyqan
+qa²⁴	V;PROSP;SG;3	qa²⁴	qa²⁴¹
+ntiqi¹	V;PROSP;SG;3	tiqi²⁰	tiqi²⁰
+sqwe²⁴	V;PROSP;SG;3	sqwe²⁴	sqwe²⁴
+nchaq⁴²	V;PROSP;SG;3	kchaq²⁴	kchaq²⁴
+ndlyu¹	V;PROSP;SG;3	tlyu²⁰	tlyu²⁰
+sqi²	V;PROSP;SG;3	xqi¹⁴	sqi¹⁴
+yjoq⁴	V;PROSP;SG;3	kjoq⁴	kjoq⁴⁰
+sqna¹	V;PROSP;SG;3	sqna²⁰	sqna²⁰
+sqya¹	V;PROSP;SG;3	xqya²⁰	xqya²⁰
+sen¹	V;PROSP;SG;3	sen²⁰	sen²⁰
+nchin¹	V;PROSP;SG;3	kchin²⁰	kchin²
+jwi³	V;PROSP;SG;3	ja¹⁴	ja¹⁴n
+slya²⁴	V;PROSP;SG;3	xlya²⁴	slya²⁴
+qya³	V;PROSP;SG;3	qya¹⁴	qya¹⁴
+kwa³	V;PROSP;SG;3	kwa¹⁴	kwa¹⁴
+naq¹⁴	V;PROSP;SG;3	nyaq¹⁴	nyaq¹⁴
+yo²	V;PROSP;SG;3	ko¹⁴	ko¹⁴
+ngwa²	V;PROSP;SG;3	ka²⁴	ka²⁴⁴⁰
+ntykwan²	V;PROSP;SG;3	tykwan²	tykwan²⁰
+nkya⁴²	V;PROSP;SG;3	kya²⁴	kya²⁴⁴
+nkqi¹	V;PROSP;SG;3	kqi²⁰	kqi²⁰⁰
+ntyi¹	V;PROSP;SG;3	ktyi²⁰	ktyi²⁰
+sqwa¹⁴	V;PROSP;SG;3	sqwa¹⁴	sqwa¹⁴
+xka²⁴	V;PROSP;SG;3	xka²⁴	xka²⁴²
+sne¹⁴	V;PROSP;SG;3	sne¹⁴	sne¹⁴⁰
+ytsaq³	V;PROSP;SG;3	ktsaq¹⁴	ktsaq¹
+jen²	V;PROSP;SG;3	tyjin¹⁴	tyjin
+nna¹	V;PROSP;SG;3	kna²⁰	kna²⁰
+ngyla³	V;PROSP;SG;3	kila³	kila³q
+ykwanq¹	V;PROSP;SG;3	ykwanq²⁰	ykwanq²
+sla¹	V;PROSP;SG;3	sla²⁰	sla²⁰
+yna⁴²	V;PROSP;SG;3	kna²⁴	kna⁴⁴⁴
+ynaq¹	V;PROSP;SG;3	knaq²⁰	knaq²⁰
+skwaq¹	V;PROSP;SG;3	skwaq²⁰	skwaq²
+nxin⁴²	V;PROSP;SG;3	kxin¹⁴	kxin¹⁴
+xkwan¹⁴	V;PROSP;SG;3	xkwan¹⁴	xkwan¹⁴
+nkwa³	V;PROSP;SG;3	kwa³	kwa³¹⁴
+ndya³	V;PROSP;SG;3	tya³	tya³¹q
+ntqen¹	V;PROSP;SG;3	tyqin²⁰	tyqin²
+sqyu¹	V;PROSP;SG;3	sqyu²⁰	sqyu²⁰
+ngya⁴²	V;PROSP;SG;3	kya²⁴	kya²⁴⁴
+ndyi⁴	V;PROSP;SG;3	tyi⁴	tyi⁴i⁴
+ntykwen³	V;PROSP;SG;3	tykwen¹⁴	tykwen¹⁴
+yku⁴	V;PROSP;SG;3	ku⁴	ku⁴²⁴
+xtyiq¹⁰	V;PROSP;SG;3	xtyiq¹⁴	xtyiq¹⁴
+snyaq¹	V;PROSP;SG;3	snyaq²⁰	snyaq²
+xkwen¹⁴	V;PROSP;SG;3	xkwen¹⁴	xkwen¹⁴
+ntsaq⁴²	V;PROSP;SG;3	ksaq⁴	ktsq⁴¹⁴
+ntyinq³	V;PROSP;SG;3	ktyinq¹⁴	ktyinq¹
+ylaq⁴	V;PROSP;SG;3	klaq⁴	klaq⁴⁴
+skwan⁴	V;PROSP;SG;3	xkwan²⁰	xkwan²
+nxi²	V;PROSP;SG;3	kxin²	kxin²
+ntsa²⁴	V;PROSP;SG;3	ktsa²⁴	ktsa²⁴
+nsuq³	V;PROSP;SG;3	ksuq¹⁴	ksuq¹⁴
+qnyi¹	V;PROSP;SG;3	kqni²⁰	kqni²⁰
+xoq²	V;PROSP;SG;3	xoq²	xoq²¹
+nkonq⁴²	V;PROSP;SG;3	konq²⁴	konq²⁴⁴
+nda³	V;PROSP;SG;3	ta²⁰	ta²⁰⁴
+ndywiq³	V;PROSP;SG;3	tywiq¹⁴	tywiq¹⁴
+son³	V;PROSP;SG;3	xon²⁰	xon²⁰
+xla³	V;PROSP;SG;3	xla³	xla³⁴
+nton⁴²	V;PROSP;SG;3	kton¹⁴	kton¹⁴
+ntqo¹	V;PROSP;SG;3	tyqo²⁰	tyqo²⁰
+yta⁴	V;PROSP;SG;3	kta⁴	kta⁴n
+nchuq⁴	V;PROSP;SG;3	kchuq²⁴	kchuq²
+ya⁴²	V;PROSP;SG;3	tsa²⁴	tsa²⁴
+ntykwan¹⁴	V;PROSP;SG;3	tykwan¹⁴	tykwan¹⁴
+skwan²	V;PROSP;SG;3	xkwan²	xkwan²
+nyi¹⁴	V;PROSP;SG;3	nyi¹⁴	nyi¹⁴⁴
+sqwi¹⁴	V;PROSP;SG;3	sqwi¹⁴	sqwi¹⁴
+xku²⁰	V;PROSP;SG;3	xku²⁰	xku²⁰n
+ntykaq¹	V;PROSP;SG;3	tykaq²⁰	tykaq²⁰
+xtya²⁰	V;PROSP;SG;3	xtya²⁰	xtya²⁰
+yqu²	V;PROSP;SG;3	kqu¹⁴	kqu¹⁴
+sen⁴²	V;PROSP;SG;3	ksen²⁴	see⁴²⁴
+ykwaq⁴	V;PROSP;SG;3	tykwaq⁴	tykwaq
+xki¹	V;PROSP;SG;3	xki²⁰	xki²⁰
+jinyiq²	V;PROSP;SG;3	ynyiq¹⁴	ynyiq¹⁴
+qen⁴²	V;PROSP;SG;3	qe²⁴	qe²⁴²⁰
+ntyjanq²	V;PROSP;SG;3	tyjanq¹⁴	tyjanq¹⁴
+slaq¹	V;PFV;SG;1	slanq⁴	slanq⁴
+yqwi⁴	V;PFV;SG;1	yqwen²⁰	yqwen²
+yno¹	V;PFV;SG;1	ynon²⁰	ynon²
+sti⁴	V;PFV;SG;1	sten²⁰	sten⁴
+sna³	V;PFV;SG;1	snan⁴⁰	snan⁴
+yja¹	V;PFV;SG;1	ntjan⁴	ytjan
+lu¹	V;PFV;SG;1	lon⁴	lon⁴
+skonq³	V;PFV;SG;1	skonq⁴⁰	skonq⁴⁰
+nya¹⁴	V;PFV;SG;1	nyan⁴⁰	nyan⁴⁰
+ntsiq³	V;PFV;SG;1	ntsinq⁴⁰	ntsinq⁴
+yqan⁴²	V;PFV;SG;1	yqan²⁴	yqan⁴⁴⁴
+ja¹	V;PFV;SG;1	jan⁴	jan⁴
+ykuq²	V;PFV;SG;1	ykonq¹	ykonq¹
+ndon⁴²	V;PFV;SG;1	ndon¹	ndon¹⁰⁴
+xqwa¹⁰	V;PFV;SG;1	xqwan⁴⁰	xqwan⁴⁰
+xin⁴²	V;PFV;SG;1	xin⁴⁰	xin⁴⁰¹
+ntykonq⁴²	V;PFV;SG;1	ntykonq²⁴	ntykonq²⁴
+lya¹⁴	V;PFV;SG;1	lyan⁴⁰	lyan⁴⁰
+ne¹⁴	V;PFV;SG;1	nen⁴⁰	nen⁴⁰
+ntyka²	V;PFV;SG;1	ntykan²	ntykan²
+ncha¹	V;PFV;SG;1	nchan⁴	nchan⁴
+swenq³	V;PFV;SG;1	swenq⁴⁰	swenq⁴⁰
+qne⁴²	V;PFV;SG;1	qnen¹	qnen⁴⁰
+skwen¹	V;PFV;SG;1	skwen⁴	skwen⁴⁰
+la¹	V;PFV;SG;1	ylan⁴	ylan
+sqan¹	V;PFV;SG;1	sqan⁴	sqan⁴⁴
+lkwi¹	V;PFV;SG;1	lkwen⁴	lkwen⁴
+skanq³	V;PFV;SG;1	skanq⁴⁰	skanq⁴⁰
+ntaq³	V;PFV;SG;1	ntanq⁴⁰	ntanq⁴
+xta¹	V;PFV;SG;1	xtan⁴⁰	xtan⁴
+ykwenq¹	V;PFV;SG;1	ykwenq⁴	ykwenq⁴⁴
+nlyu¹	V;PFV;SG;1	nlyon²⁰	nlyon²
+nden⁴²	V;PFV;SG;1	nden⁴	nden⁴⁴⁰
+xqan¹	V;PFV;SG;1	xqan⁴	xqan⁴⁴
+nkin²	V;PFV;SG;1	nkin⁴⁰	nkin⁴⁰
+ytsen⁴²	V;PFV;SG;1	ytsen⁴	ytsen⁴¹²
+xin²	V;PFV;SG;1	xin⁴⁰	xin⁴⁰
+xyaq²	V;PFV;SG;1	xyanq⁴⁰	xyanq⁴
+naq¹	V;PFV;SG;1	nanq⁴	nanq⁴
+stan¹⁴	V;PFV;SG;1	stan⁴⁰	stan⁴⁰n
+saq²	V;PFV;SG;1	sanq⁴⁰	sanq⁴
+ytiq⁴	V;PFV;SG;1	ytenq¹	ytenq¹
+nglu³	V;PFV;SG;1	nglon⁴⁰	nglon⁴
+ywi⁴²	V;PFV;SG;1	ywen⁴	ywen⁴⁴
+ntykanq³	V;PFV;SG;1	ntykanq⁴⁰	ntykanq⁴
+nkjwi⁴²	V;PFV;SG;1	nkjwen⁴⁰	nkjwen⁴⁰
+nkeq³	V;PFV;SG;1	nkenq⁴⁰	nkenq⁴
+sqwe¹⁴	V;PFV;SG;1	sqwen⁴⁰	sqwen⁴⁰
+ntyqo¹	V;PFV;SG;1	ntyqon²⁰	ntyqon²
+qne¹	V;PFV;SG;1	qnen⁴	qnen⁴
+qa²⁴	V;PFV;SG;1	qan²⁴	qan²⁴
+sqwe²⁴	V;PFV;SG;1	sqwen¹⁴	sqwen¹⁴
+nchaq⁴²	V;PFV;SG;1	nchanq⁴	nchanq⁴q
+ndlyu¹	V;PFV;SG;1	ndlyon⁴	ndlyon⁴
+ndyu²	V;PFV;SG;1	ndyon⁴⁰	ndyon⁴
+yjoq⁴	V;PFV;SG;1	yjonq¹	yjonq¹
+sqya¹	V;PFV;SG;1	sqyan⁴	sqyan⁴
+sen¹	V;PFV;SG;1	sen⁴	sen⁴⁰
+nchin¹	V;PFV;SG;1	nchin⁴	nchin⁴⁴
+nge⁴²	V;PFV;SG;1	ngin⁴²	ngin⁴²
+jwi³	V;PFV;SG;1	jwen³	jwen³
+slya²⁴	V;PFV;SG;1	slyan²⁴	slyan²⁴
+qya³	V;PFV;SG;1	qyan⁴⁰	qyan⁴
+kwa³	V;PFV;SG;1	kwan⁴⁰	kwan⁴
+naq¹⁴	V;PFV;SG;1	nanq⁴⁰	nanq⁴⁰
+yo²	V;PFV;SG;1	yon¹	yon¹
+ngwa²	V;PFV;SG;1	ngwan²	ngwan²
+ntykwan²	V;PFV;SG;1	ntykwan⁴⁰	ntykwan⁴
+nkya⁴²	V;PFV;SG;1	nkyqan¹	nkyqa⁴¹
+nkqi¹	V;PFV;SG;1	nkqin⁴	nkqin⁴
+nti¹	V;PFV;SG;1	nten⁴	nten⁴
+yjaq³	V;PFV;SG;1	yjanq¹	yjanq¹
+qen⁴	V;PFV;SG;1	qen²⁰	qen²⁰
+sqwa¹⁴	V;PFV;SG;1	sqwan⁴⁰	sqwan⁴⁰
+ntyja²	V;PFV;SG;1	ntyjan⁴⁰	ntyjan⁴
+xka²⁴	V;PFV;SG;1	xkan²⁴	xkan²⁴
+sne¹⁴	V;PFV;SG;1	snen⁴⁰	snen⁴⁰
+xlyu⁴²	V;PFV;SG;1	xlyon⁴	xlyon⁴⁰
+ntykwa⁴	V;PFV;SG;1	ntykwan⁴	ntykwan⁴
+ytsaq³	V;PFV;SG;1	ytsanq¹	ytsanq¹
+ntyqya¹	V;PFV;SG;1	ntyqyan⁴	ntyqyan⁴
+skwa³	V;PFV;SG;1	skwan⁴⁰	skwan⁴
+sla¹	V;PFV;SG;1	slan⁴	slan⁴
+yna⁴²	V;PFV;SG;1	ynan⁴	ynan⁴⁰
+ynaq¹	V;PFV;SG;1	ynanq⁴	ynanq⁴
+ntsu⁴²	V;PFV;SG;1	ntson⁴	ntson⁴⁴
+skwaq¹	V;PFV;SG;1	skwanq⁴	skwanq⁴
+xkwan¹⁴	V;PFV;SG;1	xkwan⁴⁰	xkwan⁴⁰⁴
+lo²⁴	V;PFV;SG;1	lon⁴⁰	lon⁴⁰
+slu¹⁴	V;PFV;SG;1	slon⁴⁰	slon⁴⁰
+nkqwa⁴²	V;PFV;SG;1	nkqwan⁴²	nkqwan⁴²
+ndya³	V;PFV;SG;1	ndyan³	ndyan³
+ntsen⁴²	V;PFV;SG;1	ntsen⁴	ntsen⁴⁴⁰
+sqyu¹	V;PFV;SG;1	sqyon⁴	sqyon⁴
+ngya⁴²	V;PFV;SG;1	nkyqan³²	nkyqan³
+ndiyan³²	V;PFV;SG;1	ndiyan²⁰	ndiyan²⁰
+ntkonq³	V;PFV;SG;1	ntkonq⁴⁰	ntkonq⁴⁰
+ntykwen³	V;PFV;SG;1	ntykwen⁴⁰	ntykwen⁴
+yku⁴	V;PFV;SG;1	ykon¹	ykon¹
+yna³	V;PFV;SG;1	ynan⁴⁰	ynan⁴
+xtyiq¹⁰	V;PFV;SG;1	xtenq⁴⁰	xtenq⁴⁰⁰
+xne¹⁰	V;PFV;SG;1	xnen⁴⁰	xnen⁴⁰
+snyaq¹	V;PFV;SG;1	snyanq⁴	snyanq⁴
+xkwen¹⁴	V;PFV;SG;1	xkwen⁴⁰	xkwen⁴⁰⁰
+ne⁴²	V;PFV;SG;1	nen⁴	nen⁴⁴
+nxi²	V;PFV;SG;1	nxin⁴⁰	nxin⁴
+ntsa²⁴	V;PFV;SG;1	ntsan¹⁴	ntsan¹⁴
+nsuq³	V;PFV;SG;1	nsonq³	nsonq³
+qnyi¹	V;PFV;SG;1	qnin⁴	qnyn⁴⁴
+xoq²	V;PFV;SG;1	xonq⁴⁰	xonq⁴
+nkonq⁴²	V;PFV;SG;1	nkonq²⁴	nkonq²⁴q
+nda³	V;PFV;SG;1	ndan⁴	ndan⁴
+son³	V;PFV;SG;1	son⁴	son⁴⁴
+xla³	V;PFV;SG;1	xlan³	xlan⁴
+lqa³	V;PFV;SG;1	lqan⁴⁰	lqan⁴
+ntqo¹	V;PFV;SG;1	ntqon²⁰	ntqon²
+ndywan²	V;PFV;SG;1	ndywan⁴⁰	ndywan⁴⁰
+yta⁴	V;PFV;SG;1	ytan⁴	ytan⁴
+styi¹	V;PFV;SG;1	styin⁴	styin⁴
+ykwen²	V;PFV;SG;1	ykwen⁴⁰	ykwen⁴⁰
+xkuq²	V;PFV;SG;1	xkonq¹	xkonq¹
+sta¹	V;PFV;SG;1	stan⁴	stan⁴
+ntyjyuq¹	V;PFV;SG;1	ntyjyonq⁴	ntyjyonq
+ntykwan¹⁴	V;PFV;SG;1	ntykwan⁴⁰	ntykwan⁴⁰
+sqwi¹⁴	V;PFV;SG;1	sqwen⁴⁰	sqwen⁴⁰
+xku²⁰	V;PFV;SG;1	xkon²⁰	xkon²⁰
+ntykaq¹	V;PFV;SG;1	ntykanq⁴	ntykanq⁴
+xtya²⁰	V;PFV;SG;1	xtyan²⁰	xtyan²⁰
+ykwaq⁴	V;PFV;SG;1	ntykwanq⁴	ntykwan
+qen⁴²	V;PFV;SG;1	qen²⁴	qen²⁴¹
+ntyjanq²	V;PFV;SG;1	ntyjanq⁴⁰	ntyjanq⁴
+slaq¹	V;PFV;SG;3	slaq¹	slaq¹
+sti⁴	V;PFV;SG;3	sti⁴	sti⁴
+kwa¹⁴	V;PFV;SG;3	kwa¹⁴	kwa¹⁴
+sna³	V;PFV;SG;3	sna³	sna³
+yja¹	V;PFV;SG;3	yja¹	yja¹
+nten³	V;PFV;SG;3	nten³	nten³
+lu¹	V;PFV;SG;3	lu¹	lu¹
+skonq³	V;PFV;SG;3	skonq³	skonq³
+nya¹⁴	V;PFV;SG;3	nya¹⁴	nya¹⁴
+yqan⁴²	V;PFV;SG;3	yqan⁴²	yqan⁴²
+ja¹	V;PFV;SG;3	ja¹	ja¹
+ykuq²	V;PFV;SG;3	ykuq²	ykuq²
+ntqan¹	V;PFV;SG;3	ntqan¹	ntqan¹
+xqwa¹⁰	V;PFV;SG;3	xqwa¹⁰	xqwa¹⁰
+xin⁴²	V;PFV;SG;3	xin⁴²	xin⁴²
+ntykonq⁴²	V;PFV;SG;3	ntykonq⁴²	ntykonq⁴²
+ston⁴²	V;PFV;SG;3	ston⁴²	ston⁴²
+ne¹⁴	V;PFV;SG;3	ne¹⁴	ne¹⁴
+swenq³	V;PFV;SG;3	swenq³	swenq³
+qne⁴²	V;PFV;SG;3	qne⁴²	qne⁴²
+la¹	V;PFV;SG;3	yla¹	yla
+ji¹	V;PFV;SG;3	ji¹	ji¹
+sqan¹	V;PFV;SG;3	sqan¹	sqan¹
+lkwi¹	V;PFV;SG;3	lkwi¹	lkwi¹
+ntaq³	V;PFV;SG;3	ntaq³	ntaq³
+qu¹⁴	V;PFV;SG;3	qu¹⁴	qu¹⁴
+yjwiq²	V;PFV;SG;3	yjwiq²	yjwiq²
+nkqwa¹	V;PFV;SG;3	nkqwa¹	nkqwa¹
+xta¹	V;PFV;SG;3	xta¹	xta¹
+nden⁴²	V;PFV;SG;3	nden⁴²	nden⁴²
+ytsen⁴²	V;PFV;SG;3	ytsen⁴²	ytsen⁴²
+xin²	V;PFV;SG;3	xin²	xin²
+xyaq²	V;PFV;SG;3	xyaq²	xyaq²
+naq¹	V;PFV;SG;3	naq¹	naq¹
+kwi¹	V;PFV;SG;3	kwi¹	kwi¹
+stan¹⁴	V;PFV;SG;3	stan¹⁴	stan¹⁴
+saq²	V;PFV;SG;3	saq²	saq²
+ytiq⁴	V;PFV;SG;3	ytiq⁴	ytiq⁴
+ntson¹⁴	V;PFV;SG;3	ntson¹⁴	ntson¹⁴
+nton³	V;PFV;SG;3	nton³	nton³
+nglu³	V;PFV;SG;3	nglu³	nglu³
+ywi⁴²	V;PFV;SG;3	ywi⁴²	ywi⁴²
+ntykanq³	V;PFV;SG;3	ntykanq³	ntykanq³
+ylu³	V;PFV;SG;3	ylu³	ylu³
+nkjwi⁴²	V;PFV;SG;3	nkjwi⁴²	nkjwi⁴²
+nkeq³	V;PFV;SG;3	nkeq³	nkeq³
+ykwiq⁴	V;PFV;SG;3	ykwiq⁴	ykwiq⁴
+ntyqo¹	V;PFV;SG;3	ntyqo¹	ntyqo¹
+qne¹	V;PFV;SG;3	qne¹	qne¹
+qan⁴	V;PFV;SG;3	qan⁴	qan⁴
+qa²⁴	V;PFV;SG;3	qa²⁴	qa²⁴
+ntiqi¹	V;PFV;SG;3	ntiqi¹	ntiqi¹
+sqwe²⁴	V;PFV;SG;3	sqwe²⁴	sqwe²⁴
+nchaq⁴²	V;PFV;SG;3	nchaq⁴²	nchaq⁴²
+sqi²	V;PFV;SG;3	sqi²	sqi²
+yqo²	V;PFV;SG;3	yqo²	yqo²
+yjoq⁴	V;PFV;SG;3	yjoq⁴	yjoq⁴
+sqna¹	V;PFV;SG;3	sqna¹	sqna¹
+sqya¹	V;PFV;SG;3	sqya¹	sqya¹
+sen¹	V;PFV;SG;3	sen¹	sen¹
+nchin¹	V;PFV;SG;3	nchin¹	nchin¹
+nge⁴²	V;PFV;SG;3	nge⁴²	nge⁴²
+jwi³	V;PFV;SG;3	jwi³	jwi³
+slya²⁴	V;PFV;SG;3	slya²⁴	slya²⁴
+qya³	V;PFV;SG;3	qya³	qya³
+kwa³	V;PFV;SG;3	kwa³	kwa³
+naq¹⁴	V;PFV;SG;3	naq¹⁴	naq¹⁴
+yo²	V;PFV;SG;3	yo²	yo²
+ngwa²	V;PFV;SG;3	ngwa²	ngwa²
+ntykwan²	V;PFV;SG;3	ntykwan²	ntykwan²
+nkya⁴²	V;PFV;SG;3	nkya⁴²	nkya⁴²
+nkqi¹	V;PFV;SG;3	nkqi¹	nkqi¹
+ntyi¹	V;PFV;SG;3	ntyi¹	ntyi¹
+yjaq³	V;PFV;SG;3	yjaq³	yjaq³
+qya⁴²	V;PFV;SG;3	qya⁴²	qya⁴²
+xka²⁴	V;PFV;SG;3	xka²⁴	xka²⁴
+xlyu⁴²	V;PFV;SG;3	xlyu⁴²	xlyu⁴²
+ntykwa⁴	V;PFV;SG;3	ntykwa⁴	ntykwa⁴
+ytsaq³	V;PFV;SG;3	ytsaq³	ytsaq³
+ntyqya¹	V;PFV;SG;3	ntyqya¹	ntyqya¹
+jen²	V;PFV;SG;3	jen²	jen²
+ykwanq¹	V;PFV;SG;3	ykwanq¹	ykwanq¹
+yqwe²	V;PFV;SG;3	yqwe²	yqwe²
+ynaq¹	V;PFV;SG;3	ynaq¹	ynaq¹
+ntsu⁴²	V;PFV;SG;3	ntsu⁴²	ntsu⁴²
+nxin⁴²	V;PFV;SG;3	nxin⁴²	nxin⁴²
+xkwan¹⁴	V;PFV;SG;3	xkwan¹⁴	xkwan¹⁴
+lo²⁴	V;PFV;SG;3	lo²⁴	lo²⁴
+slu¹⁴	V;PFV;SG;3	slu¹⁴	slu¹⁴
+nkwa³	V;PFV;SG;3	nkwa³	nkwa³
+ngon²	V;PFV;SG;3	ngon²	ngon²
+nkqwa⁴²	V;PFV;SG;3	nkqwa⁴²	nkqwa⁴²
+sqyu¹	V;PFV;SG;3	sqyu¹	sqyu¹
+ntkonq³	V;PFV;SG;3	ntkonq³	ntkonq³
+yku⁴	V;PFV;SG;3	yku⁴	yku⁴
+xne¹⁰	V;PFV;SG;3	xne¹⁰	xne¹⁰
+ne⁴²	V;PFV;SG;3	ne⁴²	ne⁴²
+ntyinq³	V;PFV;SG;3	ntyinq³	ntyinq³
+skwan⁴	V;PFV;SG;3	skwan⁴	skwan⁴
+nxi²	V;PFV;SG;3	xin²	xin²
+ntsa²⁴	V;PFV;SG;3	ntsa²⁴	ntsa²⁴
+nsuq³	V;PFV;SG;3	nsuq³	nsuq³
+qnyi¹	V;PFV;SG;3	qnyi¹	qnyi¹
+xoq²	V;PFV;SG;3	xoq²	xoq²
+nkonq⁴²	V;PFV;SG;3	nkonq⁴²	nkonq⁴²
+nda³	V;PFV;SG;3	nda³	nda³
+lqa³	V;PFV;SG;3	lqa³	lqa³
+nton⁴²	V;PFV;SG;3	nton⁴²	nton⁴²
+ntqo¹	V;PFV;SG;3	ntqo¹	ntqo¹
+swi²⁰	V;PFV;SG;3	swi²⁰	swi²⁰
+ndywan²	V;PFV;SG;3	ndywan²	ndywan²
+yta⁴	V;PFV;SG;3	yta⁴	yta⁴
+styi¹	V;PFV;SG;3	styi¹	styi¹
+nchuq⁴	V;PFV;SG;3	nchuq⁴	nchuq⁴
+sta¹	V;PFV;SG;3	sta¹	sta¹
+ya⁴²	V;PFV;SG;3	ya⁴²	ya⁴²
+ntykwan¹⁴	V;PFV;SG;3	ntykwan¹⁴	ntykwan¹⁴
+skwan²	V;PFV;SG;3	skwan²	skwan²
+nyi¹⁴	V;PFV;SG;3	nyi¹⁴	nyi¹⁴
+sqwi¹⁴	V;PFV;SG;3	sqwi¹⁴	sqwi¹⁴
+xku²⁰	V;PFV;SG;3	xku²⁰	xku²⁰
+xtya²⁰	V;PFV;SG;3	xtya²⁰	xtya²⁰
+xti²⁰	V;PFV;SG;3	xti²⁰	xti²⁰
+yqu²	V;PFV;SG;3	yqu²	yqu²
+nduq⁴²	V;PFV;SG;3	nduq⁴²	nduq⁴²
+jlyo³²	V;PFV;SG;3	jlyo³²	jlyo³²
+sen⁴²	V;PFV;SG;3	sen⁴²	sen⁴²
+ykwaq⁴	V;PFV;SG;3	ykwaq⁴	ykwaq⁴
+xki¹	V;PFV;SG;3	xki¹	xki¹
+jinyiq²	V;PFV;SG;3	jinyiq²	jinyiq²
+slaq¹	V;PFV;PL;1+INCL	slanq¹an¹	slanq¹an¹
+sti⁴	V;PFV;PL;1+INCL	sten²⁴en³²	sten²⁴nn
+kwa¹⁴	V;PFV;PL;1+INCL	kwan¹⁴	kwan¹⁴n¹⁴
+nten³	V;PFV;PL;1+INCL	nten²en¹	nten²en¹¹
+skonq³	V;PFV;PL;1+INCL	skonq²on¹	skonq²on¹
+nya¹⁴	V;PFV;PL;1+INCL	nya¹⁴	nya¹⁴⁴enn
+ntsiq³	V;PFV;PL;1+INCL	ntsenq²en¹	ntsenq²en
+yqan⁴²	V;PFV;PL;1+INCL	yqan⁴²an⁴²	yqan⁴²an⁴
+ja¹	V;PFV;PL;1+INCL	jan¹an¹	jan¹an¹
+ykuq²	V;PFV;PL;1+INCL	ykonq²on¹	ykonq²on¹
+xqwa¹⁰	V;PFV;PL;1+INCL	xqwan¹⁰	xqwan¹⁰e¹
+xin⁴²	V;PFV;PL;1+INCL	xin⁴²an⁴²	xin⁴⁴an⁴²
+ntykonq⁴²	V;PFV;PL;1+INCL	ntykonq⁴²on⁴²	ntykonq⁴²on
+lya¹⁴	V;PFV;PL;1+INCL	lyan¹⁴	lyan¹⁴n¹⁴
+ne¹⁴	V;PFV;PL;1+INCL	ni¹⁴	ni¹⁴⁴²²n
+ntyka²	V;PFV;PL;1+INCL	ntykan²an¹	ntykan²an
+swenq³	V;PFV;PL;1+INCL	swenq²en¹	swenq²en¹
+yla³	V;PFV;PL;1+INCL	ylan²an¹	ylan²an¹
+skwen¹	V;PFV;PL;1+INCL	skwen¹en¹	skwen¹en¹
+la¹	V;PFV;PL;1+INCL	ylan¹an¹	ylan¹an
+ji¹	V;PFV;PL;1+INCL	ji¹in¹	ji¹in¹¹
+sqan¹	V;PFV;PL;1+INCL	sqan¹an¹	sqan¹an¹¹
+sne³	V;PFV;PL;1+INCL	sne²en¹	sne²en¹¹
+skanq³	V;PFV;PL;1+INCL	skanq²an¹	skanq²an¹
+ntaq³	V;PFV;PL;1+INCL	ntanq²an¹	ntanq²an¹
+nkqwa¹	V;PFV;PL;1+INCL	nkqwan¹an¹	nkqwan¹an
+ykwenq¹	V;PFV;PL;1+INCL	ykwenq¹en¹	ykwenq¹en¹
+nden⁴²	V;PFV;PL;1+INCL	nden⁴²en⁴²	nden⁴²en⁴
+xqan¹	V;PFV;PL;1+INCL	xqan¹an¹	xqan¹an¹³
+nkin²	V;PFV;PL;1+INCL	nkin²en¹	nkin²en¹¹
+ytsen⁴²	V;PFV;PL;1+INCL	ne⁴²en⁴²	ne⁴²en⁴²n⁴
+xin²	V;PFV;PL;1+INCL	xin²an¹	xin²²n¹¹
+xyaq²	V;PFV;PL;1+INCL	xyanq²an¹	xyanq²an¹
+kwi¹	V;PFV;PL;1+INCL	kwen¹en¹	kwen²en¹
+stan¹⁴	V;PFV;PL;1+INCL	stan¹⁴	stan¹⁴an⁴
+saq²	V;PFV;PL;1+INCL	sanq²an¹	sanq²an¹
+ytiq⁴	V;PFV;PL;1+INCL	ytenq²⁴en³²	ytenq²⁴en
+nton³	V;PFV;PL;1+INCL	nton²on¹	nton²on¹¹
+ywi⁴²	V;PFV;PL;1+INCL	ywen⁴²an⁴²	ywen⁴²an⁴
+kwan¹	V;PFV;PL;1+INCL	kwan²⁴an³²	kwan²⁴an³
+ylu³	V;PFV;PL;1+INCL	ylon²on¹	ylon²on¹
+nkjwi⁴²	V;PFV;PL;1+INCL	nkjwen⁴²en⁴²	nkjwen⁴²en
+nkeq³	V;PFV;PL;1+INCL	nkenq²en¹	nkenq²en¹
+sqwe¹⁴	V;PFV;PL;1+INCL	sqwen¹⁴	sqwen¹⁴n¹
+ykwiq⁴	V;PFV;PL;1+INCL	ykwenq²⁴en³²	ykwenq²⁴e
+ntyqo¹	V;PFV;PL;1+INCL	ntyqon¹on¹	ntyqon¹on
+jlya⁴²	V;PFV;PL;1+INCL	jlyan¹⁴	jlyan¹⁴an
+qne¹	V;PFV;PL;1+INCL	qne¹en¹	qne¹en¹¹
+qan⁴	V;PFV;PL;1+INCL	qan²⁴an³²	qan²⁴an³
+qa²⁴	V;PFV;PL;1+INCL	qan²⁴	qan²⁴oao
+ntiqi¹	V;PFV;PL;1+INCL	ntqen¹en¹	ntqen¹en¹
+sqwe²⁴	V;PFV;PL;1+INCL	sqwen¹⁴	sqwen¹⁴n¹
+ndlyu¹	V;PFV;PL;1+INCL	ndlyon¹on¹	ndlyon¹on
+yqo²	V;PFV;PL;1+INCL	yqon²on¹	yqon²on¹
+ndyu²	V;PFV;PL;1+INCL	ndyon²on¹	ndyon²on¹
+yjoq⁴	V;PFV;PL;1+INCL	yjonq²⁴on³²	yjonq²⁴on
+sqna¹	V;PFV;PL;1+INCL	sqna¹an¹	sqna¹an¹¹
+sen¹	V;PFV;PL;1+INCL	sen⁴²en⁴²	sen⁴¹en⁴
+nge⁴²	V;PFV;PL;1+INCL	ngen⁴²en⁴²	ngen⁴²en⁴
+jwi³	V;PFV;PL;1+INCL	jwen²en¹	jwen²en¹
+slya²⁴	V;PFV;PL;1+INCL	slyan¹⁴	slyan¹⁴a¹
+qya³	V;PFV;PL;1+INCL	qyan²an¹	qyan²an¹
+kwa³	V;PFV;PL;1+INCL	kwan²an¹	kwan²an¹
+yo²	V;PFV;PL;1+INCL	yon²on¹	yon²on¹
+ngwa²	V;PFV;PL;1+INCL	ngwan²an¹	ngwan²an¹
+nti¹	V;PFV;PL;1+INCL	nten¹en¹	nten¹en¹
+ntyi¹	V;PFV;PL;1+INCL	ntyin¹in¹	ntyin¹in¹
+qen⁴	V;PFV;PL;1+INCL	qen²⁴en³²	qen²⁴en³
+sqwa¹⁴	V;PFV;PL;1+INCL	sqwan¹⁴	sqwan¹⁴a⁴
+qya⁴²	V;PFV;PL;1+INCL	qyan⁴²an⁴²	qyan⁴²an⁴
+ntyja²	V;PFV;PL;1+INCL	ntyjan²an¹	ntyjan²an
+sne¹⁴	V;PFV;PL;1+INCL	sne¹⁴	sne¹⁴n¹e⁴
+xlyu⁴²	V;PFV;PL;1+INCL	xlyon⁴²on⁴²	xlyon⁴²on
+ytsaq³	V;PFV;PL;1+INCL	ytsanq²an¹	ytsanq²an
+ntyqya¹	V;PFV;PL;1+INCL	ntyqyan¹an¹	ntyqyan¹an
+jen²	V;PFV;PL;1+INCL	jen²en¹	jen²en¹³
+ngyla³	V;PFV;PL;1+INCL	xlan²an¹	xlan²an¹¹
+ykwanq¹	V;PFV;PL;1+INCL	ykwanq¹an¹	ykwanq¹an¹
+skwa³	V;PFV;PL;1+INCL	skwan²an¹	skwan²an¹
+yqwe²	V;PFV;PL;1+INCL	yqwen²en¹	yqwen²en¹
+sla¹	V;PFV;PL;1+INCL	slan¹an¹	slan¹an¹
+yna⁴²	V;PFV;PL;1+INCL	ynan⁴²an⁴²	ynan⁴²an⁴
+ntsu⁴²	V;PFV;PL;1+INCL	ntson⁴²on⁴²	ntson⁴²on
+skwaq¹	V;PFV;PL;1+INCL	skwaq¹an¹	skwaq¹an¹
+xkwan¹⁴	V;PFV;PL;1+INCL	xkwan¹⁴	xkwan¹⁴a⁴³
+lo²⁴	V;PFV;PL;1+INCL	lon¹⁴	lon¹⁴a¹⁴
+slu¹⁴	V;PFV;PL;1+INCL	slon¹⁴	slon¹⁴n¹n
+nkwa³	V;PFV;PL;1+INCL	nkwan²en¹	nkwan²an¹
+ngon²	V;PFV;PL;1+INCL	skwan²an¹	skwan²an¹
+ntqen¹	V;PFV;PL;1+INCL	ntqen¹en¹	ntqen¹en¹
+sqyu¹	V;PFV;PL;1+INCL	sqyon¹on¹	sqyon¹on¹
+ngya⁴²	V;PFV;PL;1+INCL	ngyan⁴²an	ngyan⁴²an
+ntkonq³	V;PFV;PL;1+INCL	ntkonq²on¹	ntkonq²on¹
+yku⁴	V;PFV;PL;1+INCL	ykon²⁴on³²	ykon²⁴on
+xkwen¹⁴	V;PFV;PL;1+INCL	xkwen¹⁴	xkwen¹⁴e³n
+ne⁴²	V;PFV;PL;1+INCL	ne⁴²en⁴²	ne⁴²en⁴²
+ntyinq³	V;PFV;PL;1+INCL	ntyinq²in¹	ntyinq²in¹
+skwan⁴	V;PFV;PL;1+INCL	skwan²⁴an³²	skwan²⁴an
+nxi²	V;PFV;PL;1+INCL	xin²in¹	xin²in¹²
+ntsa²⁴	V;PFV;PL;1+INCL	ntsan¹⁴	ntsan¹⁴¹n
+nsuq³	V;PFV;PL;1+INCL	nsonq²on¹	nsonq²on¹
+nkonq⁴²	V;PFV;PL;1+INCL	nkonq⁴²on⁴²	nkonq⁴²on⁴
+nton⁴²	V;PFV;PL;1+INCL	nton⁴²on⁴²	nton⁴²on⁴
+swi²⁰	V;PFV;PL;1+INCL	swen²⁰en³²	swen²⁰en³
+ndywan²	V;PFV;PL;1+INCL	ndywan²an¹	ndywan²an¹
+yta⁴	V;PFV;PL;1+INCL	ytan²⁴an³²	ytan²⁴an
+styi¹	V;PFV;PL;1+INCL	styin¹in¹	styin¹in¹
+nchuq⁴	V;PFV;PL;1+INCL	nchonq²⁴an³²	nchonq²⁴a
+ykwen²	V;PFV;PL;1+INCL	ykwen²en¹	ykwen²en¹
+sta¹	V;PFV;PL;1+INCL	stan¹an¹	stan¹an¹
+ya⁴²	V;PFV;PL;1+INCL	yan⁴²an⁴²	yan⁴²an⁴
+ntyjyuq¹	V;PFV;PL;1+INCL	ntyjyonq¹on¹	ntyjyonq¹on
+ntykaq¹	V;PFV;PL;1+INCL	ntykanq¹an¹	ntykanq¹an
+yqu²	V;PFV;PL;1+INCL	yqon²on¹	yqon²on¹
+slaq¹	V;PROSP;SG;1	slanq⁴	slanq⁴
+yqwi⁴	V;PROSP;SG;1	tyqwen²⁰	tqqwen
+sti⁴	V;PROSP;SG;1	styin²⁰	styn⁴²
+kwa¹⁴	V;PROSP;SG;1	tykwan⁴⁰	tykwan
+sna³	V;PROSP;SG;1	xnan⁴⁰	snan⁴⁰
+yja¹	V;PROSP;SG;1	tyjan⁴	tyjan⁴
+skonq³	V;PROSP;SG;1	skonq⁴⁰	skonq⁴⁰
+nya¹⁴	V;PROSP;SG;1	knyan⁴⁰	knyan⁴
+ntsiq³	V;PROSP;SG;1	ktsenq⁴⁰	ktsenq⁴
+yqan⁴²	V;PROSP;SG;1	yqan²⁴	yqan²⁴²
+ja¹	V;PROSP;SG;1	jan⁴	jan⁴⁴
+ntqan¹	V;PROSP;SG;1	tqan⁴	tqan⁴³²
+xin⁴²	V;PROSP;SG;1	xin⁴	xin⁴⁴⁰
+ntykonq⁴²	V;PROSP;SG;1	tykonq²⁴	tykonq²⁴
+ston⁴²	V;PROSP;SG;1	ston⁴	ston⁴⁰⁴
+lya¹⁴	V;PROSP;SG;1	jlyan⁴⁰	jlyan⁴
+ne¹⁴	V;PROSP;SG;1	nnin⁴⁰	nnin⁴⁰
+ntyka²	V;PROSP;SG;1	tykan²	tykan²⁴
+swenq³	V;PROSP;SG;1	swenq⁴⁰	swenq⁴⁰
+qne⁴²	V;PROSP;SG;1	qnen²⁰	qnnn²⁰
+yla³	V;PROSP;SG;1	klan⁴⁰	klan⁴⁰
+la¹	V;PROSP;SG;1	klan⁴	klan⁴
+sqan¹	V;PROSP;SG;1	sqan⁴	sqan⁴⁴
+lkwi¹	V;PROSP;SG;1	tkwen⁴	tkwen⁴
+skanq³	V;PROSP;SG;1	skanq⁴⁰	skanq⁴⁰
+qu¹⁴	V;PROSP;SG;1	qon⁴⁰	qon⁴⁰⁰
+yjwiq²	V;PROSP;SG;1	kjwenq⁴⁰	kjwenq⁴
+xta¹	V;PROSP;SG;1	xtan⁴⁰	xtan⁴⁰
+ykwenq¹	V;PROSP;SG;1	tykwenq⁴	tykwnnq
+nden⁴²	V;PROSP;SG;1	ten⁴	tenn⁴⁰⁰
+xqan¹	V;PROSP;SG;1	xqan⁴	xqan⁴⁴
+nkin²	V;PROSP;SG;1	skin⁴⁰	kkin⁴⁰
+xin²	V;PROSP;SG;1	kxin⁴⁰	kxin⁴⁰
+naq¹	V;PROSP;SG;1	knanq⁴	kyanq⁴
+kwi¹	V;PROSP;SG;1	tykwen²⁰	tykwen
+ytiq⁴	V;PROSP;SG;1	ktenq²⁰	ktenq²
+ntson¹⁴	V;PROSP;SG;1	ktson⁴⁰	ktson⁴⁰
+nton³	V;PROSP;SG;1	kton⁴⁰	kton⁴⁰
+nglu³	V;PROSP;SG;1	klon⁴⁰	klon⁴⁰
+kwan¹	V;PROSP;SG;1	kwan⁴	kwan⁴n
+ylu³	V;PROSP;SG;1	klon⁴⁰	klon⁴⁰
+nkjwi⁴²	V;PROSP;SG;1	kjan⁴	kjan⁴n²
+ntyqo¹	V;PROSP;SG;1	tyqon²⁰	tyqon²⁰
+jlya⁴²	V;PROSP;SG;1	jlyan²⁴	jlyan²⁴
+qne¹	V;PROSP;SG;1	kqnen⁴	kqnn⁴⁰
+ntiqi¹	V;PROSP;SG;1	tqen⁴	tqen⁴n⁰
+ndlyu¹	V;PROSP;SG;1	tlyon²⁰	tlyon²⁰
+yqo²	V;PROSP;SG;1	kqon²⁰	kqon²⁰
+yjoq⁴	V;PROSP;SG;1	kjonq²⁰	kjonq²
+sqna¹	V;PROSP;SG;1	sqnan⁴	sqnan⁴
+sqya¹	V;PROSP;SG;1	xqyan⁴	sqyan⁴
+nchin¹	V;PROSP;SG;1	kchin⁴	kchin⁴q
+nge⁴²	V;PROSP;SG;1	kin²⁴	kin²⁴²
+jwi³	V;PROSP;SG;1	jan⁴⁰	jan⁴⁰²
+slya²⁴	V;PROSP;SG;1	xlyan²⁴	xlyan²⁴
+qya³	V;PROSP;SG;1	qyan⁴⁰	qqan⁴⁰
+kwa³	V;PROSP;SG;1	kwan⁴⁰	kwan⁴⁰
+naq¹⁴	V;PROSP;SG;1	nyanq⁴⁰	nyanq⁴
+yo²	V;PROSP;SG;1	kon²⁰	kon²⁰
+ngwa²	V;PROSP;SG;1	kan²⁴	kan²⁴²
+nkya⁴²	V;PROSP;SG;1	kyan²⁰	kyya²⁰⁴
+nkqi¹	V;PROSP;SG;1	kqin⁴	kqin⁴⁴
+nti¹	V;PROSP;SG;1	kten⁴	kten⁴⁴
+ntyi¹	V;PROSP;SG;1	ktyin⁴	ktyin⁴
+sqwa¹⁴	V;PROSP;SG;1	sqwan⁴⁰	sqwan⁴⁰
+qya⁴²	V;PROSP;SG;1	kqyan²⁴	kqyan²
+ntyja²	V;PROSP;SG;1	tyjan⁴⁰	tyjan⁴⁰
+xka²⁴	V;PROSP;SG;1	xkan²⁴	xkan²⁰
+sne¹⁴	V;PROSP;SG;1	snen⁴⁰	snen⁴⁰
+ntykwa⁴	V;PROSP;SG;1	tykwan⁴	tykwan⁴
+jen²	V;PROSP;SG;1	tyjin⁴⁰	tyjin⁴
+ngyla³	V;PROSP;SG;1	kilan³	kilan³²
+ykwanq¹	V;PROSP;SG;1	ykwanq⁴	ykwaeq⁴
+yqwe²	V;PROSP;SG;1	kqwen⁴⁰	kqwen⁴
+yna⁴²	V;PROSP;SG;1	knan²⁴	knan²⁴
+ntsu⁴²	V;PROSP;SG;1	ktson⁴	ktson⁴q
+nxin⁴²	V;PROSP;SG;1	kxin⁴	kxin⁴⁴⁴
+xkwan¹⁴	V;PROSP;SG;1	xkwan⁴⁰	xkwan⁴⁰
+lo²⁴	V;PROSP;SG;1	klon⁴⁰	klon⁴⁰
+slu¹⁴	V;PROSP;SG;1	slon⁴⁰	slon⁴⁰
+nkwa³	V;PROSP;SG;1	kwan⁴⁰	kwan⁴⁰
+nkqwa⁴²	V;PROSP;SG;1	kqwan²⁴	kqwan²⁴
+ndya³	V;PROSP;SG;1	tyan³	tyan³³
+ntqen¹	V;PROSP;SG;1	tyqin³²	tyqin³²
+ntsen⁴²	V;PROSP;SG;1	ktsen⁴	ktsen⁴²
+ngya⁴²	V;PROSP;SG;1	kyqan²⁴	kyqan²⁴
+ndlyu⁴²	V;PROSP;SG;1	tlyon⁴²	tlyon⁴²
+ndiyan³²	V;PROSP;SG;1	tyan²⁰	tyan²⁰²
+ndyi⁴	V;PROSP;SG;1	tyin⁴	tyiw³n
+ntykwen³	V;PROSP;SG;1	tykwen⁴⁰	tykwen⁴
+xtyiq¹⁰	V;PROSP;SG;1	xtenq⁴⁰	xtenq⁴⁰
+xne¹⁰	V;PROSP;SG;1	xnen⁴⁰	xnen⁴⁰
+snyaq¹	V;PROSP;SG;1	snyanq⁴	snyanq⁴
+xkwen¹⁴	V;PROSP;SG;1	xkwen⁴⁰	xkwen⁴⁰
+ntsaq⁴²	V;PROSP;SG;1	ksanq⁴	ktaen⁴⁴
+ne⁴²	V;PROSP;SG;1	knen¹⁴	knen¹⁴
+ntyinq³	V;PROSP;SG;1	ktyinq⁴⁰	ktyinq⁴
+ylaq⁴	V;PROSP;SG;1	klanq²⁰	klanq²
+ntsa²⁴	V;PROSP;SG;1	ktsan²⁴	ktsan²⁴
+nsuq³	V;PROSP;SG;1	ksonq⁴⁰	ksonq⁴
+qnyi¹	V;PROSP;SG;1	kqnin⁴	kqnin⁴
+xoq²	V;PROSP;SG;1	xonq⁴⁰	xonq⁴⁰
+nkonq⁴²	V;PROSP;SG;1	konq²⁴	konq²⁴²
+ndywiq³	V;PROSP;SG;1	tywenq⁴⁰	tywenq⁴
+son³	V;PROSP;SG;1	xon⁴	xon⁴⁴⁰
+xla³	V;PROSP;SG;1	xlan³	xlan⁴⁰
+lqa³	V;PROSP;SG;1	qan⁴⁰	qaa⁴⁰⁰
+nton⁴²	V;PROSP;SG;1	kton⁴⁰	kton⁴⁰⁴
+ntqo¹	V;PROSP;SG;1	tyqon²⁰	tyqon²
+swi²⁰	V;PROSP;SG;1	swen⁴	swen⁴⁴
+ndywan²	V;PROSP;SG;1	tywan⁴⁰	tywan⁴⁰
+yta⁴	V;PROSP;SG;1	ktan⁴	ktan⁴²
+ykwen²	V;PROSP;SG;1	kwen⁴⁰	kwen⁴⁰q
+ya⁴²	V;PROSP;SG;1	sqan²⁴	sqan²⁴
+ntyjyuq¹	V;PROSP;SG;1	kyjyonq⁴	kyjyonq
+sqwi¹⁴	V;PROSP;SG;1	sqwen⁴⁰	sqwen⁴⁰
+xku²⁰	V;PROSP;SG;1	xkon²⁰	xkon⁴⁰
+ntykaq¹	V;PROSP;SG;1	tykanq⁴	tykanq⁴
+xti²⁰	V;PROSP;SG;1	xten⁴	xten⁴⁰
+yqu²	V;PROSP;SG;1	kqon⁴⁰	kqon²⁰
+nduq⁴²	V;PROSP;SG;1	ntyonq²⁴	ntyonq²
+jlyo³²	V;PROSP;SG;1	jlyon³²	jlyon³²
+sen⁴²	V;PROSP;SG;1	ksen⁴	ssen⁴⁴
+ykwaq⁴	V;PROSP;SG;1	tykwanq⁴	tykwanq
+xki¹	V;PROSP;SG;1	xkin⁴	xkin⁴⁰
+qen⁴²	V;PROSP;SG;1	qen²⁴	qen²⁴⁴
+ntyjanq²	V;PROSP;SG;1	tyjanq⁴⁰	tyjanq⁴
+slaq¹	V;PFV;PL;1+EXCL	slaq¹ wa⁴²	slaq¹ wa⁴²
+yqwi⁴	V;PFV;PL;1+EXCL	yqwi⁴ wa⁴²	yqwi⁴ wa⁴²
+sti⁴	V;PFV;PL;1+EXCL	sti⁴ wa⁴²	sti⁴ wa⁴²
+sna³	V;PFV;PL;1+EXCL	sna³ wa⁴²	sna³ wa⁴²
+yja¹	V;PFV;PL;1+EXCL	ntja¹ wa⁴²	ntja¹ wa²
+nten³	V;PFV;PL;1+EXCL	nten³ wa⁴²	nten³ wa⁴²
+skonq³	V;PFV;PL;1+EXCL	skonq³ wa⁴²	skonq³ wa⁴²
+yqan⁴²	V;PFV;PL;1+EXCL	yqan⁴² wa⁴²	yqan⁴² wa⁴²
+ja¹	V;PFV;PL;1+EXCL	ja¹ wa⁴²	ja¹ wa⁴²
+ykuq²	V;PFV;PL;1+EXCL	ykuq² wa⁴²	ykuq² wa⁴²
+ntqan¹	V;PFV;PL;1+EXCL	ntqan¹ wa⁴²	ntqan¹ wa⁴²
+xqwa¹⁰	V;PFV;PL;1+EXCL	xqwa¹⁰ wa⁴²	xqwa¹⁰ wa⁴²
+xin⁴²	V;PFV;PL;1+EXCL	xin⁴² wa³²	xin⁴² wa³²
+ntykonq⁴²	V;PFV;PL;1+EXCL	ntykonq⁴² wa²	ntykonq⁴² wa²⁴
+ston⁴²	V;PFV;PL;1+EXCL	ston⁴² wa⁴²	ston⁴² wa⁴²
+swenq³	V;PFV;PL;1+EXCL	swenq³ wa⁴²	swenq³ wa⁴²
+qne⁴²	V;PFV;PL;1+EXCL	qne⁴² wa⁴²	qne⁴² wa⁴²
+skwen¹	V;PFV;PL;1+EXCL	skwen¹ wa⁴²	skwen¹ wa⁴²
+la¹	V;PFV;PL;1+EXCL	yla¹ wa⁴²	yla¹ wa⁴
+ji¹	V;PFV;PL;1+EXCL	ji¹ wa⁴²	ji¹ wa⁴²
+sqan¹	V;PFV;PL;1+EXCL	sqan¹ wa⁴²	sqan¹ wa⁴²
+sne³	V;PFV;PL;1+EXCL	sne³ wa⁴²	sne³ wa⁴²
+ntaq³	V;PFV;PL;1+EXCL	ntaq³ wa⁴²	ntaq³ wa⁴²
+qu¹⁴	V;PFV;PL;1+EXCL	qu¹⁴⁰ wa⁴²	qu¹⁴⁰ wa⁴
+nkqwa¹	V;PFV;PL;1+EXCL	nkqwa¹ wa⁴²	nkqwa¹ wa⁴²
+ykwenq¹	V;PFV;PL;1+EXCL	ykwenq¹ wa⁴²	ykwenq¹ wa⁴²
+nden⁴²	V;PFV;PL;1+EXCL	nden⁴² wa⁴²	nden⁴² wa⁴²
+xqan¹	V;PFV;PL;1+EXCL	xqan¹ wa⁴²	xqan¹ wa⁴²
+nkin²	V;PFV;PL;1+EXCL	nkin² wa⁴²	nkin² wa⁴²
+ytsen⁴²	V;PFV;PL;1+EXCL	ne⁴² qne³² wa⁴²	ne⁴² qne³² w
+xin²	V;PFV;PL;1+EXCL	xin² wa⁴²	xin² wa⁴²
+nkwi¹	V;PFV;PL;1+EXCL	nkwi¹ wa⁴²	nkwi¹ wa⁴²
+naq¹	V;PFV;PL;1+EXCL	naq¹ wa⁴²	naq¹ wa⁴²
+kwi¹	V;PFV;PL;1+EXCL	kwi¹ wa⁴²	kwi¹ wa⁴²
+stan¹⁴	V;PFV;PL;1+EXCL	stan¹⁴⁰ wa⁴²	stan¹⁴⁰ wa⁴
+saq²	V;PFV;PL;1+EXCL	saq² wa⁴²	saq² wa⁴²
+ytiq⁴	V;PFV;PL;1+EXCL	ytiq⁴ wa⁴²	ytiq⁴ wa⁴²
+ntykanq³	V;PFV;PL;1+EXCL	ntykanq³ wa⁴²	ntykanq³ wa⁴²
+ylu³	V;PFV;PL;1+EXCL	ylu³ wa⁴²	ylu³ wa⁴²
+nkjwi⁴²	V;PFV;PL;1+EXCL	nkjwi⁴² wa⁴²	nkjwi⁴² wa⁴²
+nkeq³	V;PFV;PL;1+EXCL	nkeq³ wa⁴²	nkeq³ wa⁴²
+sqwe¹⁴	V;PFV;PL;1+EXCL	sqwe¹⁴⁰ wa⁴²	sqwe¹⁴⁰ wa⁴
+ykwiq⁴	V;PFV;PL;1+EXCL	ykwiq⁴ wa⁴²	ykwiq⁴ wa⁴²
+ntyqo¹	V;PFV;PL;1+EXCL	ntyqo¹ wa⁴²	ntyqo¹ wa⁴²
+jlya⁴²	V;PFV;PL;1+EXCL	jlya⁴² wa⁴²	jlya⁴² wa⁴²
+qne¹	V;PFV;PL;1+EXCL	qne¹ wa⁴²	qne¹ wa⁴²
+qan⁴	V;PFV;PL;1+EXCL	qan⁴ wa⁴²	qan⁴ wa⁴²
+qa²⁴	V;PFV;PL;1+EXCL	qa²⁴ wa⁴²	qa²⁴ wa⁴²
+ndlyu¹	V;PFV;PL;1+EXCL	ndlyu¹ wa⁴²	ndlyu¹ wa⁴²
+sqi²	V;PFV;PL;1+EXCL	sqi² wa⁴²	sqi² wa⁴²
+yqo²	V;PFV;PL;1+EXCL	yqo² wa⁴²	yqo² wa⁴²
+yjoq⁴	V;PFV;PL;1+EXCL	yjoq⁴ wa⁴²	yjoq⁴ wa⁴²
+sqna¹	V;PFV;PL;1+EXCL	sqna¹ wa⁴²	sqna¹ wa⁴²
+sqya¹	V;PFV;PL;1+EXCL	sqya¹ wa⁴²	sqya¹ wa⁴²
+sen¹	V;PFV;PL;1+EXCL	sen⁴² wa⁴²	sen⁴² wa²
+nge⁴²	V;PFV;PL;1+EXCL	ngen⁴² wa⁴²	ngen⁴² wa⁴
+jwi³	V;PFV;PL;1+EXCL	jwi³ wa⁴²	jwi³ wa⁴²
+qya³	V;PFV;PL;1+EXCL	qya³ wa⁴²	qya³ wa⁴²
+kwa³	V;PFV;PL;1+EXCL	kwa³ wa⁴²	kwa³ wa⁴²
+naq¹⁴	V;PFV;PL;1+EXCL	naq¹⁴⁰ wa⁴²	naq¹⁴⁰ wa⁴
+yo²	V;PFV;PL;1+EXCL	yo² wa⁴²	yo² wa⁴²
+ngwa²	V;PFV;PL;1+EXCL	ngwa² wa²	ngwa² wa²²
+ntykwan²	V;PFV;PL;1+EXCL	ntykwan² wa⁴²	ntykwan² wa⁴²
+nti¹	V;PFV;PL;1+EXCL	nti¹ wa⁴²	nti¹ wa⁴²
+ntyi¹	V;PFV;PL;1+EXCL	ntyi¹ wa⁴²	ntyi¹ wa⁴²
+yjaq³	V;PFV;PL;1+EXCL	yjaq³ wa²	yjaq³ wa⁴²
+qen⁴	V;PFV;PL;1+EXCL	qen⁴ wa⁴²	qen⁴ wa⁴²
+sqwa¹⁴	V;PFV;PL;1+EXCL	sqwa¹⁴⁰ wa⁴²	sqwa¹⁴⁰ wa⁴
+xka²⁴	V;PFV;PL;1+EXCL	xka²⁴ wa⁴²	xka²⁴ wa⁴²
+sne¹⁴	V;PFV;PL;1+EXCL	sne¹⁴⁰ wa⁴²	sne¹⁴⁰ wa⁴
+xlyu⁴²	V;PFV;PL;1+EXCL	xlyu⁴² wa⁴²	xlyu⁴² wa⁴²
+ntykwa⁴	V;PFV;PL;1+EXCL	ntykwa⁴ wa⁴²	ntykwa⁴ wa⁴²
+jen²	V;PFV;PL;1+EXCL	jen² wa⁴²	jen² wa⁴²
+ykwanq¹	V;PFV;PL;1+EXCL	ykwanq¹ wa⁴²	ykwanq¹ wa⁴²
+yqwe²	V;PFV;PL;1+EXCL	yqwe² wa⁴²	yqwe² wa⁴²
+sla¹	V;PFV;PL;1+EXCL	sla¹ wa⁴²	sla¹ wa⁴²
+yna⁴²	V;PFV;PL;1+EXCL	yna⁴² wa⁴²	yna⁴² wa⁴²
+ntsu⁴²	V;PFV;PL;1+EXCL	ntsu⁴² wa⁴²	ntsu⁴² wa⁴²
+skwaq¹	V;PFV;PL;1+EXCL	skwaq¹ wa⁴²	skwaq¹ wa⁴²
+nkwa³	V;PFV;PL;1+EXCL	nkwa³ wa⁴²	nkwa³ wa⁴²
+ntqen¹	V;PFV;PL;1+EXCL	ntqen¹ wa⁴²	ntqen¹ wa⁴²
+ntsen⁴²	V;PFV;PL;1+EXCL	ntsen⁴² wa⁴²	ntsen⁴² wa⁴²
+sqyu¹	V;PFV;PL;1+EXCL	sqyu¹ wa⁴²	sqyu¹ wa⁴²
+ngya⁴²	V;PFV;PL;1+EXCL	ngya⁴² wa⁴²	ngya⁴² wa⁴²
+ndlyu⁴²	V;PFV;PL;1+EXCL	ndlyu⁴² wa⁴²	ndlyu⁴² wa⁴²
+ntkonq³	V;PFV;PL;1+EXCL	ntkonq³ wa⁴²	ntkonq³ wa⁴²
+ntykwen³	V;PFV;PL;1+EXCL	ntykwen³ wa⁴²	ntykwen³ wa⁴²
+yna³	V;PFV;PL;1+EXCL	yna³ wa⁴²	yna³ wa⁴²
+xtyiq¹⁰	V;PFV;PL;1+EXCL	xtyiq¹⁰ wa⁴²	xtyiq¹⁰ wa⁴²
+xne¹⁰	V;PFV;PL;1+EXCL	xne³ wa⁴²	xne³ wa⁴²²
+snyaq¹	V;PFV;PL;1+EXCL	snyaq¹ wa⁴²	snyaq¹ wa⁴²
+xkwen¹⁴	V;PFV;PL;1+EXCL	xkwen¹⁴⁰ wa⁴²	xkwen¹⁴⁰ wa⁴
+ne⁴²	V;PFV;PL;1+EXCL	ne⁴² qne³² wa⁴²	ne⁴² qne³
+ylaq⁴	V;PFV;PL;1+EXCL	ylaq⁴ wa⁴²	ylaq⁴ wa⁴²
+qnyi¹	V;PFV;PL;1+EXCL	qnyi¹ wa⁴²	qnyi¹ wa⁴²
+ndywan²	V;PFV;PL;1+EXCL	ndywan² wa⁴²	ndywan² wa⁴²
+ykwen²	V;PFV;PL;1+EXCL	ykwen² wa⁴²	ykwen² wa⁴²
+sta¹	V;PFV;PL;1+EXCL	sta¹ wa⁴²	sta¹ wa⁴²
+ya⁴²	V;PFV;PL;1+EXCL	ya⁴² wa⁴²	ya⁴² wa⁴²
+ntyjyuq¹	V;PFV;PL;1+EXCL	ntyjyuq¹ wa⁴²	ntyjyuq¹ wa⁴²
+ntykaq¹	V;PFV;PL;1+EXCL	ntykaq¹ wa⁴²	ntykaq¹ wa⁴²
+yqu²	V;PFV;PL;1+EXCL	yqu² wa⁴²	yqu² wa⁴²
+nduq⁴²	V;PFV;PL;1+EXCL	nduq⁴² wa⁴²	nduq⁴² wa⁴²
+jinyiq²	V;PFV;PL;1+EXCL	jinyiq² wa⁴²	jinyiq² wa⁴²
+slaq¹	V;PROSP;PL;1+INCL	slanq²⁰an³²	slanq²⁰a
+yqwi⁴	V;PROSP;PL;1+INCL	tyqwen²⁴en³²	tqqwen²⁴
+yno¹	V;PROSP;PL;1+INCL	kno¹on¹	kno¹on¹n
+kwa¹⁴	V;PROSP;PL;1+INCL	tykwan¹⁴	tykwan¹⁴
+nten³	V;PROSP;PL;1+INCL	sten¹⁴	sten¹⁴a¹
+lu¹	V;PROSP;PL;1+INCL	klon²⁰on³²	klon²⁰on
+skonq³	V;PROSP;PL;1+INCL	skonq¹⁴	skonq¹⁴⁴
+nya¹⁴	V;PROSP;PL;1+INCL	knya¹⁰	knya¹⁰⁴³
+yqan⁴²	V;PROSP;PL;1+INCL	yqan¹⁴	yqan¹⁴an
+ja¹	V;PROSP;PL;1+INCL	jan²⁰an³²	jan²⁰an³
+ykuq²	V;PROSP;PL;1+INCL	konq¹⁴	konq¹⁴n³
+ntqan¹	V;PROSP;PL;1+INCL	tqan²⁰an³²	tqan²⁰an
+xqwa¹⁰	V;PROSP;PL;1+INCL	xqwan¹⁰	xqwan¹⁰³
+ntykonq⁴²	V;PROSP;PL;1+INCL	tykonq¹⁴	tykonq¹⁴e
+ston⁴²	V;PROSP;PL;1+INCL	ston¹⁴	ston¹⁴⁴o
+lya¹⁴	V;PROSP;PL;1+INCL	jlyan¹⁴	jlyan¹⁴²
+ne¹⁴	V;PROSP;PL;1+INCL	nni¹⁴	nni¹⁴n³²
+ncha¹	V;PROSP;PL;1+INCL	kchan²⁰an³²	kchan²⁰a
+swenq³	V;PROSP;PL;1+INCL	swenq¹⁴	swenq¹⁴ 
+qne⁴²	V;PROSP;PL;1+INCL	qnen¹⁴	qnen¹⁴⁴i
+yla³	V;PROSP;PL;1+INCL	klan¹⁴	klan¹⁴ea
+la¹	V;PROSP;PL;1+INCL	kla⁴an³²	kla⁴an³²
+ji¹	V;PROSP;PL;1+INCL	ji²⁰in³²	ji²⁰in³²
+sne³	V;PROSP;PL;1+INCL	sne¹⁴	sne¹⁴⁴²o
+skanq³	V;PROSP;PL;1+INCL	skanq¹⁴	skanq¹⁴¹
+qu¹⁴	V;PROSP;PL;1+INCL	qon¹⁴	qon¹⁴⁰on
+xta¹	V;PROSP;PL;1+INCL	stan¹⁴	stan¹⁰an
+ykwenq¹	V;PROSP;PL;1+INCL	tykwenq²⁰en³²	tykwnnq²⁰
+nden⁴²	V;PROSP;PL;1+INCL	ten¹⁴	ten¹⁴²¹⁴
+xqan¹	V;PROSP;PL;1+INCL	xqan²⁰an³²	xqan²⁰an
+nkin²	V;PROSP;PL;1+INCL	skin²en¹	xkin²en¹
+ytsen⁴²	V;PROSP;PL;1+INCL	kne¹⁴	kte¹⁴¹⁴³¹
+nkwi¹	V;PROSP;PL;1+INCL	ykwen²⁰en³²	kkwen²⁰i
+naq¹	V;PROSP;PL;1+INCL	knaq²⁰an³²	knaq²⁰an
+kwi¹	V;PROSP;PL;1+INCL	tywen²⁰en³²	tywenn⁰e
+ytiq⁴	V;PROSP;PL;1+INCL	ktenq²⁴en³²	ktenq²⁴e
+ntson¹⁴	V;PROSP;PL;1+INCL	ktson¹⁴	ktson¹⁴oa
+ywi⁴²	V;PROSP;PL;1+INCL	kwen¹⁴	kwen¹⁴n¹
+ntykanq³	V;PROSP;PL;1+INCL	tykanq¹⁴	tykanq¹⁴³
+ylu³	V;PROSP;PL;1+INCL	klon¹⁴	klon¹⁴n¹
+nkjwi⁴²	V;PROSP;PL;1+INCL	kjan²⁴in³²	kjan²⁴in³
+nkeq³	V;PROSP;PL;1+INCL	kinq¹⁴	kinq¹⁴n¹
+qan⁴	V;PROSP;PL;1+INCL	tyqan²⁴an³²	tyqan²⁴a
+qa²⁴	V;PROSP;PL;1+INCL	qan²⁴	qan²⁴nn¹
+sqwe²⁴	V;PROSP;PL;1+INCL	sqwen¹⁴	sqwen¹⁴e
+nchaq⁴²	V;PROSP;PL;1+INCL	kchanq¹⁴	kchanq¹⁴a
+ndlyu¹	V;PROSP;PL;1+INCL	tlyon²⁰on³²	tlyon²⁰o
+sqi²	V;PROSP;PL;1+INCL	xqin¹⁴	xqin¹⁴⁴¹
+yqo²	V;PROSP;PL;1+INCL	kqon¹⁴	kqon¹⁴¹¹
+ndyu²	V;PROSP;PL;1+INCL	ntyon²on¹	ntyon²on
+yjoq⁴	V;PROSP;PL;1+INCL	kjonq²⁴on³²	kjonq²⁴o
+sqya¹	V;PROSP;PL;1+INCL	xqya²⁰an³²	xqya²⁰an
+sen¹	V;PROSP;PL;1+INCL	sen²⁰en³²	sen²⁰en³
+nge⁴²	V;PROSP;PL;1+INCL	kin¹⁴	kin¹⁴⁴an
+jwi³	V;PROSP;PL;1+INCL	jan¹⁴	jan¹⁴¹⁴n
+slya²⁴	V;PROSP;PL;1+INCL	xlyan¹⁴	xlyan¹⁴ 
+qya³	V;PROSP;PL;1+INCL	qyan¹⁴	qyaa¹⁴⁴i
+kwa³	V;PROSP;PL;1+INCL	kwan¹⁴	kyaw¹⁴¹⁴
+naq¹⁴	V;PROSP;PL;1+INCL	nyaq¹⁴	nyaq¹⁴an
+ngwa²	V;PROSP;PL;1+INCL	kan²⁴	kawa⁴²an
+ntykwan²	V;PROSP;PL;1+INCL	tykwan²an¹	tykwan²an
+nti¹	V;PROSP;PL;1+INCL	kten²⁰en³²	kten²⁰en
+ntyi¹	V;PROSP;PL;1+INCL	ktyin²⁰in³²	ktyin²⁰i
+yjaq³	V;PROSP;PL;1+INCL	ntyjanq¹⁴	ntyjanq¹
+qen⁴	V;PROSP;PL;1+INCL	tyqin²⁴in³²	tyqin²⁴i
+sqwa¹⁴	V;PROSP;PL;1+INCL	sqwan¹⁴	sqwan¹⁴n
+qya⁴²	V;PROSP;PL;1+INCL	kqyan¹⁴	kqya¹⁴⁴i
+sne¹⁴	V;PROSP;PL;1+INCL	sne¹⁴	sne¹⁴⁴no
+xlyu⁴²	V;PROSP;PL;1+INCL	xlyon¹on¹	xlyon¹on
+ytsaq³	V;PROSP;PL;1+INCL	ktsanq¹⁴	ktsanq¹⁴
+jen²	V;PROSP;PL;1+INCL	tyjin¹⁴	tyjin¹⁴³
+ngyla³	V;PROSP;PL;1+INCL	xlan²an¹	xlan²an¹
+ykwanq¹	V;PROSP;PL;1+INCL	ykwanq²⁰an³²	ykwaeq²⁰a
+skwa³	V;PROSP;PL;1+INCL	xkwan¹⁴	xkwan¹n¹
+yqwe²	V;PROSP;PL;1+INCL	kqwen¹⁴	kqwen¹⁴n
+sla¹	V;PROSP;PL;1+INCL	slan²⁰an³²	slan²⁰an
+yna⁴²	V;PROSP;PL;1+INCL	knan¹⁴	knan¹⁴nn
+ynaq¹	V;PROSP;PL;1+INCL	knaq²⁰an³²	knaq²²an
+ntsu⁴²	V;PROSP;PL;1+INCL	ktson²⁴on³²	ktson²⁴o
+skwaq¹	V;PROSP;PL;1+INCL	skwaq²⁰an³²	skwaq²⁰a
+xkwan¹⁴	V;PROSP;PL;1+INCL	xkwan¹⁴	xkwan¹⁴¹³
+nkwa³	V;PROSP;PL;1+INCL	kwan²en¹	kkwanen¹
+ngon²	V;PROSP;PL;1+INCL	xkwan²an¹	xkn¹⁴²an
+ntqen¹	V;PROSP;PL;1+INCL	tyqin²⁰en³²	tyqin²⁰e
+ntsen⁴²	V;PROSP;PL;1+INCL	ktsen¹⁴	ktsen¹⁴n³
+ngya⁴²	V;PROSP;PL;1+INCL	kyan¹⁴	kyaa⁴⁴¹i
+ndlyu⁴²	V;PROSP;PL;1+INCL	tlyon⁴²on⁴²	tlyon⁴²on
+ntkonq³	V;PROSP;PL;1+INCL	skonq¹⁴	skonq¹⁴oa
+yku⁴	V;PROSP;PL;1+INCL	kon²⁴on³²	kon²⁴on³
+yna³	V;PROSP;PL;1+INCL	kna¹⁴	knan¹⁴e¹
+xtyiq¹⁰	V;PROSP;PL;1+INCL	xtenq¹⁴	xtenq¹⁴ea
+xne¹⁰	V;PROSP;PL;1+INCL	xne¹⁴	xne¹⁴en³
+snyaq¹	V;PROSP;PL;1+INCL	snyaq²⁰ an³²	snyaq²⁰ 
+ne⁴²	V;PROSP;PL;1+INCL	kne¹⁴	kne¹⁴⁰en
+ylaq⁴	V;PROSP;PL;1+INCL	klanq²⁴an³²	klanq²⁴a
+nsuq³	V;PROSP;PL;1+INCL	ksonq¹⁴	ksonq¹⁴n
+qnyi¹	V;PROSP;PL;1+INCL	qnyin²⁰in³²	qnyin²⁰i
+nkonq⁴²	V;PROSP;PL;1+INCL	konq¹on¹	konq¹on¹a
+son³	V;PROSP;PL;1+INCL	xon²⁰on³²	xon²⁰on³
+nton⁴²	V;PROSP;PL;1+INCL	kton¹⁴	kton¹⁴⁴o
+ntqo¹	V;PROSP;PL;1+INCL	tyqon²⁰on³²	tyqon²⁰o
+ndywan²	V;PROSP;PL;1+INCL	tywan²an¹	tywan²an¹
+yta⁴	V;PROSP;PL;1+INCL	ktan²⁴an³²	ktan²⁴an
+styi¹	V;PROSP;PL;1+INCL	styin²⁰in³²	styin²⁰i
+nchuq⁴	V;PROSP;PL;1+INCL	kchonq²⁴an³²	kchonq²⁴
+ykwen²	V;PROSP;PL;1+INCL	kwen¹⁴	kwen¹⁴²⁰
+sta¹	V;PROSP;PL;1+INCL	stan²⁰an³²	stan²⁰an
+ya⁴²	V;PROSP;PL;1+INCL	kyan²⁴	kya¹²⁴qa
+nyi¹⁴	V;PROSP;PL;1+INCL	knyi¹⁴	knya¹⁰ne
+ntykaq¹	V;PROSP;PL;1+INCL	tykanq²⁰an³²	tykanq²⁰a
+yqu²	V;PROSP;PL;1+INCL	kqon²on¹	kqon²on¹
+nduq⁴²	V;PROSP;PL;1+INCL	ntyonq¹⁴	ntyonq¹⁴
+jinyiq²	V;PROSP;PL;1+INCL	ynyinq¹⁴	ynyinq¹⁴a
+slaq¹	V;HAB;PL;1+EXCL	nslaq²⁰ wa⁴²	nslaq⁰⁰ wa⁴²
+yqwi⁴	V;HAB;PL;1+EXCL	ntqwi⁴ wa⁴²	ntqwi⁴ wa⁴²⁴
+yno¹	V;HAB;PL;1+EXCL	nno¹ wa⁴²	nno¹ wa⁴²wa
+sti⁴	V;HAB;PL;1+EXCL	nstyin⁴ wa⁴²	nstyin⁴ wa⁴
+kwa¹⁴	V;HAB;PL;1+EXCL	ntykwa¹⁴⁰ wa⁴²	ntykwa¹⁴⁰ wa
+sna³	V;HAB;PL;1+EXCL	nxna¹⁴⁰ wa⁴²	nxna¹⁴⁰ wa⁴
+yja¹	V;HAB;PL;1+EXCL	ntyja²⁰ wa⁴²	ntyja²⁰ wa⁴
+nten³	V;HAB;PL;1+EXCL	nten¹⁴⁰ wa⁴²	nten¹⁴⁰ wa⁴²
+nya¹⁴	V;HAB;PL;1+EXCL	nnya¹⁴⁰ wa⁴²	nnya¹⁴ wa⁴²a
+ntsiq³	V;HAB;PL;1+EXCL	ntsiq¹⁴⁰ wa⁴²	ntsiq¹⁴⁰ wa⁴²
+yqan⁴²	V;HAB;PL;1+EXCL	ntyqan²⁴ wa⁴²	ntyqan²⁴ wa⁴²
+ja¹	V;HAB;PL;1+EXCL	ntja²⁰ wa⁴²	ntja²⁰ wa⁴²
+ykuq²	V;HAB;PL;1+EXCL	ntykuq¹⁴⁰ wa⁴²	ntykuq¹⁴⁰ wa
+ntqan¹	V;HAB;PL;1+EXCL	ntqan²⁰ wa⁴²	ntqan²⁰ wa⁴²²
+xqwa¹⁰	V;HAB;PL;1+EXCL	nxqwa¹⁰ wa⁴²	nxqwa¹⁰ wa⁴²²
+xin⁴²	V;HAB;PL;1+EXCL	nxin⁴² wa³²	nxin⁴²⁴ w³⁴²
+ntykonq⁴²	V;HAB;PL;1+EXCL	ntykonq¹⁴⁰ wa⁴²	ntykonq¹⁴⁰ wa⁴
+lya¹⁴	V;HAB;PL;1+EXCL	nlya¹⁴⁰ wa⁴²	nlya¹⁴⁰ wa⁴²
+ne¹⁴	V;HAB;PL;1+EXCL	nni¹⁴⁰ wa⁴²	nni¹⁴⁰ wa⁴²
+swenq³	V;HAB;PL;1+EXCL	nswenq¹⁴⁰ wa⁴²	nswenq¹⁴⁰ wa⁴
+yla³	V;HAB;PL;1+EXCL	ndla¹⁴⁰ wa⁴²	ntla¹⁴⁰ wa⁴
+skwen¹	V;HAB;PL;1+EXCL	nskwen²⁰ wa⁴²	nskwen²⁰ wa⁴²
+ji¹	V;HAB;PL;1+EXCL	ntji²⁰ wa⁴²	ntji²⁰ wa⁴²
+ntaq³	V;HAB;PL;1+EXCL	ntaq¹⁴⁰ wa⁴²	ntaq¹¹⁰ wa⁴²
+nkqwa¹	V;HAB;PL;1+EXCL	ntyqwa²⁰ wa⁴²	ntyqwa²⁰ wa⁴²
+xta¹	V;HAB;PL;1+EXCL	nstan¹⁴⁰ wa⁴²	nstan¹⁴⁰ wa
+ykwenq¹	V;HAB;PL;1+EXCL	ntykwenq²⁰wa⁴²	ntykwenq²⁰wa⁴
+nlyu¹	V;HAB;PL;1+EXCL	nlyu²⁰ wa⁴²	nlyu²⁰  wa⁴²
+nden⁴²	V;HAB;PL;1+EXCL	nden²⁴ wa⁴²	nden²⁴ wa⁴²⁴²
+xqan¹	V;HAB;PL;1+EXCL	ntxqan²⁰ wa⁴²	ntxqan²⁰ wa⁴
+nkin²	V;HAB;PL;1+EXCL	ntykin² wa⁴²	ntykin² wa⁴²
+ytsen⁴²	V;HAB;PL;1+EXCL	nne¹⁴ qne⁰ wa⁴²	nne¹⁴ qne⁰ wa
+xin²	V;HAB;PL;1+EXCL	nxin¹⁴⁰ wa⁴²	nxin¹⁴ waa²
+xyaq²	V;HAB;PL;1+EXCL	nxyaq² wa⁴²	nxyaq² wa⁴²a
+kwi¹	V;HAB;PL;1+EXCL	ndwi²⁰ wa⁴²	ndwki⁰  wa⁴
+stan¹⁴	V;HAB;PL;1+EXCL	nstan¹⁴⁰ wa⁴²	nstan¹⁴⁰ wa⁴²
+saq²	V;HAB;PL;1+EXCL	nsaq¹⁴⁰ wa⁴²	nsaq¹⁴⁰ wa⁴
+ntson¹⁴	V;HAB;PL;1+EXCL	ntson¹⁴⁰ wa⁴²	ntson¹⁴⁰ wa⁴²
+nton³	V;HAB;PL;1+EXCL	ntyon¹⁴⁰ wa⁴²	ntyon¹⁴⁰ wa⁴
+nglu³	V;HAB;PL;1+EXCL	nglu¹⁴⁰ wa⁴²	nglu¹⁴⁰ wa⁴²
+ywi⁴²	V;HAB;PL;1+EXCL	ntjwi²⁴ wa⁴²	ntjwi²⁴ wa⁴²
+nkjwi⁴²	V;HAB;PL;1+EXCL	ntyji⁴ wa⁴²	ntyji⁴ wa⁴²a⁴
+nkeq³	V;HAB;PL;1+EXCL	ntkeq¹⁴⁰ wa⁴²	ntkeq¹⁴⁰ wa⁴
+ykwiq⁴	V;HAB;PL;1+EXCL	ntykwiq⁴ wa⁴²	ntykwiq⁴ wa⁴²
+qne¹	V;HAB;PL;1+EXCL	nqne²⁰ wa⁴²	nqne²⁰ wa⁴²
+qan⁴	V;HAB;PL;1+EXCL	ntyqan⁴ wa⁴²	ntyq²n⁴ wa⁴
+qa²⁴	V;HAB;PL;1+EXCL	ntqa²⁴ wa⁴²	ntqa²⁴ wa⁴²
+ntiqi¹	V;HAB;PL;1+EXCL	ntiqi²⁰ wa⁴²	ntiqi²⁰ wa⁴²²
+sqwe²⁴	V;HAB;PL;1+EXCL	nsqwe²⁴ wa⁴²	nsqwe²⁴ wa⁴²⁴
+nchaq⁴²	V;HAB;PL;1+EXCL	nchaq²⁴ wa⁴²	nchaq²⁴ wa⁴²²
+ndlyu¹	V;HAB;PL;1+EXCL	ndlyu²⁰ wa⁴²	ndlyu²⁰ wa⁴²²
+yqo²	V;HAB;PL;1+EXCL	ntyqo¹⁴⁰ wa⁴²	ntyqo¹⁴⁰ wa
+ndyu²	V;HAB;PL;1+EXCL	ndyu² wa⁴²	ndyu² wa⁴²²²
+yjoq⁴	V;HAB;PL;1+EXCL	ntyjoq⁴ wa⁴²	ntyjoq⁴ wa⁴²
+sqya¹	V;HAB;PL;1+EXCL	nxqya²⁰ wa⁴²	nxqya²⁰ wa⁴²
+slya²⁴	V;HAB;PL;1+EXCL	nxlya¹⁴⁰ wa⁴²	nxlya¹⁴⁰ wa⁴²
+qya³	V;HAB;PL;1+EXCL	ntyqya¹⁴⁰ wa⁴²	ntyqya¹⁴⁰ w
+kwa³	V;HAB;PL;1+EXCL	nkwa¹⁴⁰ wa⁴²	ntwa¹a¹ waw
+naq¹⁴	V;HAB;PL;1+EXCL	nnyaq¹⁴⁰ wa⁴²	nnyaq¹⁴⁰ wa⁴
+yo²	V;HAB;PL;1+EXCL	ndyo¹⁴⁰ wa⁴²	ndyo¹⁴⁰ wa⁴
+ngwa²	V;HAB;PL;1+EXCL	ndyga²⁴ wa⁴²	ndywa²  wa⁴²
+nti¹	V;HAB;PL;1+EXCL	nti²⁰ wa⁴²	nti²²⁰wa⁴⁴²
+ntyi¹	V;HAB;PL;1+EXCL	ntyi²⁰ wa⁴²	ntyi²⁰ wa⁴²²
+qen⁴	V;HAB;PL;1+EXCL	ntyqin⁴ wa⁴²	ntyqin⁴ wa⁴
+sqwa¹⁴	V;HAB;PL;1+EXCL	nsqwa¹⁴⁰ wa⁴²	nsqwa¹⁴⁰ wa⁴²
+xka²⁴	V;HAB;PL;1+EXCL	nxka²⁴ wa⁴²	nxka²⁴ wa⁴²⁴
+sne¹⁴	V;HAB;PL;1+EXCL	nsne¹⁴⁰ wa⁴²	nsne¹⁴⁰ wa⁴²
+xlyu⁴²	V;HAB;PL;1+EXCL	nxlyu²⁴ wa⁴²	nxlyu²⁴wa⁴²⁴²
+ytsaq³	V;HAB;PL;1+EXCL	ntsaq¹⁴⁰ wa⁴²	ntsaq¹⁴⁰ wa⁴²
+jen²	V;HAB;PL;1+EXCL	ntyjin¹⁴⁰ wa⁴²	ntyjin¹⁴⁰ w
+skwa³	V;HAB;PL;1+EXCL	nxkwa¹⁴⁰ wa⁴²	nxkwa¹⁴ wa⁴²
+yqwe²	V;HAB;PL;1+EXCL	ntyqwe¹⁴⁰ wa⁴²	ntyqwe¹⁴⁰ wa
+sla¹	V;HAB;PL;1+EXCL	nsla²⁰ wa⁴²	nsla²⁰⁰ w⁴⁴
+yna⁴²	V;HAB;PL;1+EXCL	na²⁴ wa⁴²	na²⁴ wa⁴²a⁴²
+ynaq¹	V;HAB;PL;1+EXCL	nnaq²⁰ wa⁴²	nnaqq⁰ wa⁴²²
+ntsu⁴²	V;HAB;PL;1+EXCL	nchu²⁴ wa⁴²	nchu²⁴ wa⁴²²a
+skwaq¹	V;HAB;PL;1+EXCL	nskwaq²⁰ wa⁴²	nskwaq²⁰ wa⁴²
+xkwan¹⁴	V;HAB;PL;1+EXCL	nxkwan¹⁴⁰ wa⁴²	nxkwan¹⁴⁰ wa⁴
+lo²⁴	V;HAB;PL;1+EXCL	nlo²⁴ wa⁴²	nlo²⁴ wa⁴²²
+slu¹⁴	V;HAB;PL;1+EXCL	nslu¹⁴⁰ wa⁴²	nslu¹⁴⁰ wa⁴²
+nkwa³	V;HAB;PL;1+EXCL	ntykwa³ wa⁴²	ntyka¹⁴⁰ wa⁴
+ngon²	V;HAB;PL;1+EXCL	nxkwan² wa⁴²	nxywan² wa⁴²
+ntsen⁴²	V;HAB;PL;1+EXCL	ntsen²⁴ wa⁴²	ntsen q wa⁴²a
+sqyu¹	V;HAB;PL;1+EXCL	nsqyu²⁰ wa⁴²	nsqyu²⁰ wa⁴²
+ngya⁴²	V;HAB;PL;1+EXCL	ngya²⁴ wa⁴²	ngya²⁴ wa⁴²²a
+ndlyu⁴²	V;HAB;PL;1+EXCL	ndlyu⁴² wa⁴²	ndlyu⁴² wa⁴²a
+ntkonq³	V;HAB;PL;1+EXCL	ntkonq¹⁴⁰ wa⁴²	ntkonq¹⁴⁰ wa⁴
+ntykwen³	V;HAB;PL;1+EXCL	ntykwen¹⁴⁰ wa⁴²	ntykwen¹⁴⁰ wa⁴
+yna³	V;HAB;PL;1+EXCL	na¹⁴⁰ wa⁴²	na¹a¹⁴⁰ wa⁴
+xtyiq¹⁰	V;HAB;PL;1+EXCL	nxtyiq¹⁴⁰ wa⁴²	nxtyiq¹⁴⁰ wa⁴
+xne¹⁰	V;HAB;PL;1+EXCL	nxne¹⁴⁰ wa⁴²	nxne¹⁴⁰ wa⁴²
+ne⁴²	V;HAB;PL;1+EXCL	nne¹⁴ qne⁰ wa⁴²	nne¹⁴ qne⁰ 
+ntyinq³	V;HAB;PL;1+EXCL	ntyinq¹⁴⁰ wa⁴²	ntyinq¹⁴⁰ wa⁴
+ylaq⁴	V;HAB;PL;1+EXCL	nlyaq⁴ wa⁴²	nlyaq⁴ wa⁴²²
+skwan⁴	V;HAB;PL;1+EXCL	nxkwan²⁰ wa⁴²	nxkwan²⁰ wa⁴²
+nxi²	V;HAB;PL;1+EXCL	nxin² wa⁴²	nxin² wa⁴²²
+ntsa²⁴	V;HAB;PL;1+EXCL	ntsa²⁴ wa⁴²	ntsa²⁴ wa⁴²⁴²
+nsuq³	V;HAB;PL;1+EXCL	nsuq¹⁴⁰ wa⁴²	nsuq¹⁴⁰ wa⁴²
+qnyi¹	V;HAB;PL;1+EXCL	nqnyi²⁰ wa⁴²	nqnyi²⁰ wa⁴²
+son³	V;HAB;PL;1+EXCL	nxon²⁰ wa⁴²	nxon²⁰ wa⁴²
+ndywan²	V;HAB;PL;1+EXCL	ndywan² wa⁴²	ndywan² wa⁴²⁴
+yta⁴	V;HAB;PL;1+EXCL	ntan⁴ wa⁴²	ntyn⁴ wa⁴²²
+ykwen²	V;HAB;PL;1+EXCL	ntykwen¹⁴⁰ wa⁴²	ntykwen¹⁴⁰ wa
+sta¹	V;HAB;PL;1+EXCL	nsta²⁰ wa⁴²	nsta²⁰⁰wa⁴²
+ya⁴²	V;HAB;PL;1+EXCL	nkya²⁴ wa⁴²	nkya²⁴ wa⁴²
+nyi¹⁴	V;HAB;PL;1+EXCL	nyi¹⁴⁰ wa⁴²	nyi¹⁴⁰ wa⁴²²
+ntykaq¹	V;HAB;PL;1+EXCL	ntykaq²⁰ wa⁴²	ntykaq²⁰ wa⁴²
+yqu²	V;HAB;PL;1+EXCL	ntyqu² wa⁴²	ntyqu²⁰ w⁴⁴
+yqwi⁴	V;PFV;PL;3	yqwi⁴ renq⁴	yqwi⁴ renq⁴⁴
+yno¹	V;PFV;PL;3	yno¹ renq²⁴	yno¹ renq²⁴
+kwa¹⁴	V;PFV;PL;3	kwa¹⁴ renq⁰	kwa¹⁴ renq⁰²
+sna³	V;PFV;PL;3	sna³ renq²⁴	sna³ renq²⁴
+nten³	V;PFV;PL;3	nten³ renq²⁴	nten³ renq²⁴
+lu¹	V;PFV;PL;3	lu¹ renq²⁴	lu¹ renq²⁴
+skonq³	V;PFV;PL;3	skonq³ renq²⁴	skonq³ renq²
+yqan⁴²	V;PFV;PL;3	yqan⁴² renq⁴	yqan⁴² renq⁴
+ja¹	V;PFV;PL;3	ja¹ renq²⁴	ja¹ renq²⁴
+ykuq²	V;PFV;PL;3	ykuq² renq¹	ykuq² renq¹²
+ntqan¹	V;PFV;PL;3	ntqan¹ renq²⁴	ntqan¹ renq²
+xqwa¹⁰	V;PFV;PL;3	xqwa¹ renq⁰	xqwa¹ renq⁰²
+xin⁴²	V;PFV;PL;3	xin⁴² renq⁴	xin⁴² renq⁴⁴
+ston⁴²	V;PFV;PL;3	ston⁴² renq⁴	ston⁴² renq⁴
+lya¹⁴	V;PFV;PL;3	lya¹⁴ renq⁰	lya¹⁴ renq⁰⁴
+ne¹⁴	V;PFV;PL;3	ni¹⁴ renq⁰	ni¹⁴ renq⁰⁴
+ncha¹	V;PFV;PL;3	ncha¹ renq²⁴	ncha¹ renq²⁴
+qne⁴²	V;PFV;PL;3	qne⁴² renq⁴	qne⁴² renq⁴²
+yla³	V;PFV;PL;3	yla³ renq²⁴	yla³ renq²⁴
+skwen¹	V;PFV;PL;3	skwen¹ renq²⁴	skwen¹ renq²
+la¹	V;PFV;PL;3	yla¹ renq²⁴	yla¹ renq²
+sqan¹	V;PFV;PL;3	sqan¹ renq²⁴	sqan¹ renq²⁴
+sne³	V;PFV;PL;3	sne³ renq²⁴	sne³ renq²⁴
+ntaq³	V;PFV;PL;3	ntaq³ renq²⁴	ntaq³ renq²⁴
+qu¹⁴	V;PFV;PL;3	qu¹⁴ renq⁰	qu¹⁴ renq⁰²
+xta¹	V;PFV;PL;3	stan² renq¹	xta¹ renq²⁴
+ykwenq¹	V;PFV;PL;3	ykwenq¹ renq²⁴	ykwenq¹ renq²
+nlyu¹	V;PFV;PL;3	lyu¹ renq²⁴	lly¹ renq²⁴⁴
+xqan¹	V;PFV;PL;3	xqan¹ renq²⁴	xqan¹ renq²⁴
+nkin²	V;PFV;PL;3	nkin² renq¹	nkin² renq¹³
+ytsen⁴²	V;PFV;PL;3	ne⁴³² qne³²renq⁴	ne⁴³² q e³²re
+xin²	V;PFV;PL;3	xin² renq¹	xin² renq¹⁴
+xyaq²	V;PFV;PL;3	xyaq renq¹	xyaq² renq⁴⁴
+naq¹	V;PFV;PL;3	naq¹ renq²⁴	naq¹ renq²⁴
+kwi¹	V;PFV;PL;3	kwi¹ renq²⁴	kwi¹ renq²⁴
+stan¹⁴	V;PFV;PL;3	stan¹⁴ renq⁰	stan¹⁴ renq⁰
+saq²	V;PFV;PL;3	saq² renq¹	saq² renq¹²
+ntson¹⁴	V;PFV;PL;3	ntson¹⁴ renq⁰	ntson¹⁴ renq⁰
+nton³	V;PFV;PL;3	nton² renq⁴	nton³ renq²⁴
+nglu³	V;PFV;PL;3	nglu³ renq²⁴	nglu³ renq²⁴
+ywi⁴²	V;PFV;PL;3	ywi⁴² renq⁴	ywi⁴² renq⁴⁴
+ntykanq³	V;PFV;PL;3	ntykanq³ renq¹	ntykanq³ renq¹
+kwan¹	V;PFV;PL;3	kwan⁴ renq⁴	kwan¹ renq²⁴
+nkjwi⁴²	V;PFV;PL;3	nkjwi⁴² renq⁴	nkjwi⁴² renq⁴
+ykwiq⁴	V;PFV;PL;3	ykwiq⁴ renq⁴	ykwiq⁴ renq⁴
+ntyqo¹	V;PFV;PL;3	ntyqo¹ renq²⁴	ntyqo¹ renq²
+jlya⁴²	V;PFV;PL;3	jlya⁴² renq³²	jlya⁴² renq³
+qne¹	V;PFV;PL;3	qne¹ renq²⁴	qne¹ renq²⁴
+qan⁴	V;PFV;PL;3	qan⁴ renq⁴	qan⁴ renq⁴⁴
+qa²⁴	V;PFV;PL;3	qa²⁴ renq³²	qa²⁴ renq³²
+ntiqi¹	V;PFV;PL;3	ntiqi¹ renq²⁴	ntiqi¹ renq²
+nchaq⁴²	V;PFV;PL;3	nchaq⁴² renq⁴	nchaq⁴² renq⁴
+ndlyu¹	V;PFV;PL;3	ndlyu¹ renq²⁴	ndlyu¹ renq²
+sqi²	V;PFV;PL;3	sqi² renq¹	sqi² renq¹²
+yqo²	V;PFV;PL;3	yqo² renq¹	yqo² renq¹⁴
+ndyu²	V;PFV;PL;3	ndyu² renq¹	ndyu² renq¹⁴
+yjoq⁴	V;PFV;PL;3	yjoq⁴ renq⁴	yjoq⁴ renq⁴r
+sqya¹	V;PFV;PL;3	sqya¹ renq²⁴	sqya¹ renq²⁴
+sen¹	V;PFV;PL;3	sen⁴² renq⁴	sen⁴² renq⁴
+nge⁴²	V;PFV;PL;3	ngen⁴² renq⁴	nge⁴⁴² renq⁴
+jwi³	V;PFV;PL;3	jwi³ renq²⁴	jwi³ renq²⁴
+slya²⁴	V;PFV;PL;3	slya²⁴ renq³²	slya²⁴ renq³
+kwa³	V;PFV;PL;3	kwa³ renq²⁴	kwa³ renq²⁴
+naq¹⁴	V;PFV;PL;3	naq¹⁴ renq⁰	naq¹⁴ renq⁰⁴
+yo²	V;PFV;PL;3	yo² renq¹	yo² renq¹³
+ntykwan²	V;PFV;PL;3	ntykwan² renq¹	ntykwan² renq¹
+nkqi¹	V;PFV;PL;3	nkqi¹ renq²⁴	nkqi¹ renq²⁴
+nti¹	V;PFV;PL;3	nti¹ renq²⁴	nti¹ renq²⁴
+ntyi¹	V;PFV;PL;3	ntyi¹ renq²⁴	ntyi¹ renq²⁴
+qen⁴	V;PFV;PL;3	qen⁴ renq⁴	qen⁴ renq⁴⁴
+sqwa¹⁴	V;PFV;PL;3	sqwa¹⁴ renq⁰	sqwa¹⁴ renq⁰
+qya⁴²	V;PFV;PL;3	qya⁴² renq⁴	qya⁴² renq⁴²
+ntyja²	V;PFV;PL;3	ntyja² renq¹	ntyja² renq¹
+xka²⁴	V;PFV;PL;3	xka²⁴ renq³²	xka²⁴ renq³²
+sne¹⁴	V;PFV;PL;3	sne¹⁴ renq⁰	sne¹⁴ renq⁰⁴
+xlyu⁴²	V;PFV;PL;3	xlyu⁴² renq⁴	xlyu⁴² renq⁴
+ntykwa⁴	V;PFV;PL;3	ntykwa⁴ renq⁴	ntykwa⁴ renq⁴
+ytsaq³	V;PFV;PL;3	ytsaq³ renq²⁴	ytsaq³ renq²
+ntyqya¹	V;PFV;PL;3	ntyqya¹ renq²⁴	ntyqya¹ renq²
+ngyla³	V;PFV;PL;3	xla³ renq²⁴	xla³ renq²⁴⁴
+ykwanq¹	V;PFV;PL;3	ykwanq¹ renq²⁴	ykwanq¹ renq²
+skwa³	V;PFV;PL;3	skwa³ renq²⁴	skwa³ renq²⁴
+yqwe²	V;PFV;PL;3	yqwe² renq¹	yqwe² renq¹¹
+sla¹	V;PFV;PL;3	sla¹ renq²⁴	sla¹ renq²⁴
+yna⁴²	V;PFV;PL;3	yna⁴² renq⁴	yna⁴² renq⁴q
+ynaq¹	V;PFV;PL;3	ynaq¹ renq²⁴	ynaq¹ renq²⁴
+ntsu⁴²	V;PFV;PL;3	ntsu⁴² renq⁴	ntsu⁴² renq⁴
+skwaq¹	V;PFV;PL;3	skwaq¹ renq²⁴	skwaq¹ renq²
+xkwan¹⁴	V;PFV;PL;3	xkwan¹⁴ renq⁰	xkwan¹⁴ renq⁰
+lo²⁴	V;PFV;PL;3	lo²⁴ renq³²	lo²⁴ renq³²
+slu¹⁴	V;PFV;PL;3	slu¹⁴ renq⁰	slu¹⁴ renq⁰r
+nkwa³	V;PFV;PL;3	nkwa³ renq²⁴	nkwa³ renq²⁴
+ngon²	V;PFV;PL;3	skwan² renq¹	skwan² renq¹
+ntsen⁴²	V;PFV;PL;3	ntsen⁴² renq⁴	ntsen⁴² renq⁴
+sqyu¹	V;PFV;PL;3	sqyu¹ renq²⁴	sqyu¹ renq²⁴
+ndlyu⁴²	V;PFV;PL;3	ndlyu⁴² renq⁴	ndlyu⁴² renq⁴
+ntkonq³	V;PFV;PL;3	ntkonq³ renq²⁴	ntkonq³ renq²
+yku⁴	V;PFV;PL;3	yku⁴ renq⁴	yku⁴ renq⁴¹
+xtyiq¹⁰	V;PFV;PL;3	xtyiq¹ renq⁰	xtyiq¹ renq⁰⁴
+snyaq¹	V;PFV;PL;3	snyaq¹renq²⁴	snyaq¹renq²⁴
+xkwen¹⁴	V;PFV;PL;3	xkwen¹⁴ renq⁰	xkwen¹⁴ renq⁰
+ntyinq³	V;PFV;PL;3	ntyinq³ renq²⁴	ntyinq³ renq²
+ylaq⁴	V;PFV;PL;3	ylaq⁴ renq⁴	ylaq⁴ renq⁴²
+nxi²	V;PFV;PL;3	xin² renq¹	xin² renq¹²
+ntsa²⁴	V;PFV;PL;3	ntsa²⁴ renq³²	ntsa²⁴ renq³
+nsuq³	V;PFV;PL;3	nsuq³ renq²⁴	nsuq³ renq²⁴
+qnyi¹	V;PFV;PL;3	qnyi¹ renq²⁴	qnyi¹ renq²⁴
+son³	V;PFV;PL;3	son³ renq²⁴	son³ renq²⁴
+lqa³	V;PFV;PL;3	lqa³ renq²⁴	lqa³ renq²⁴
+ntqo¹	V;PFV;PL;3	ntqo¹ renq²⁴	ntqo¹ renq²⁴
+swi²⁰	V;PFV;PL;3	swi²⁰ renq²⁴	swi²⁰ renq²⁴
+ndywan²	V;PFV;PL;3	ndywan² renq¹	ndywan² renq¹
+yta⁴	V;PFV;PL;3	yta⁴ renq⁴	yta⁴ renq⁴⁴
+nchuq⁴	V;PFV;PL;3	nchuq⁴ renq⁴	nchuq⁴ renq⁴
+ykwen²	V;PFV;PL;3	ykwen² renq¹	ykwen² renq¹
+sta¹	V;PFV;PL;3	sta¹ renq²⁴	sta¹ renq²⁴
+ntyjyuq¹	V;PFV;PL;3	ntyjyuq¹ renq²⁴	ntyjyuq¹ renq²
+nyi¹⁴	V;PFV;PL;3	nyi¹⁴ renq⁰	nyi¹⁴ renq⁰⁴
+ntykaq¹	V;PFV;PL;3	ntykanq¹ renq²⁴	ntykanq¹ renq
+yqu²	V;PFV;PL;3	yqu² renq¹	yqu² renq¹¹
+nduq⁴²	V;PFV;PL;3	nduq⁴² renq⁴	nduq⁴² renq⁴
+jinyiq²	V;PFV;PL;3	jinyiq² renq¹	jinyiq² renq¹
+yqwi⁴	V;PROG;PL;1+INCL	sqwen²⁴en³²	stween⁴en
+sti⁴	V;PROG;PL;1+INCL	son⁴²on⁴²	sonn²onn
+kwa¹⁴	V;PROG;PL;1+INCL	ntkwan¹⁰	ntkwa¹en¹
+sna³	V;PROG;PL;1+INCL	nsnan²an¹	nsnan¹an
+yja¹	V;PROG;PL;1+INCL	ntyjan¹an¹	ntyjan¹a
+lu¹	V;PROG;PL;1+INCL	nlon¹on¹	nlon¹on¹
+nya¹⁴	V;PROG;PL;1+INCL	nnya¹⁰	nnya¹⁰⁰an
+ntsiq³	V;PROG;PL;1+INCL	ntsenq²en¹	ntsenq²en
+yqan⁴²	V;PROG;PL;1+INCL	ntyqan¹an¹	ntyqan¹an
+ja¹	V;PROG;PL;1+INCL	ntjan¹an¹	ntjan¹an
+ykuq²	V;PROG;PL;1+INCL	ntykonq²on¹	ntykonq²o
+xqwa¹⁰	V;PROG;PL;1+INCL	nxqwan¹⁰	nxqwan¹⁰¹
+ntykonq⁴²	V;PROG;PL;1+INCL	ntykonq¹on¹	ntykonq¹on¹
+ston⁴²	V;PROG;PL;1+INCL	nston¹on¹	nston¹on¹
+lya¹⁴	V;PROG;PL;1+INCL	nlyan¹⁰	nlya¹¹⁰²a
+ne¹⁴	V;PROG;PL;1+INCL	nni¹⁰	nni¹⁰n¹e
+ntyka²	V;PROG;PL;1+INCL	ntykan²an¹	ntykan²an
+ncha¹	V;PROG;PL;1+INCL	nchan¹an¹	nchan¹an¹
+swenq³	V;PROG;PL;1+INCL	nswenq²en¹	nswenq²en
+qne⁴²	V;PROG;PL;1+INCL	nqnen¹en¹	nqnen¹en¹
+skwen¹	V;PROG;PL;1+INCL	nskwen¹en¹	nskwen¹en
+la¹	V;PROG;PL;1+INCL	nla¹an¹	nla¹an¹n
+sqan¹	V;PROG;PL;1+INCL	nsqan¹an¹	nsqan¹an¹
+sne³	V;PROG;PL;1+INCL	nsne²en¹	nsne²en¹
+skanq³	V;PROG;PL;1+INCL	ntskanq²an¹	ntskanq²a
+qu¹⁴	V;PROG;PL;1+INCL	ntqon¹⁰	ntqon¹⁰¹
+nkqwa¹	V;PROG;PL;1+INCL	nkqwan¹an¹	nkqwan¹an
+xta¹	V;PROG;PL;1+INCL	nstan²an¹	nttaa²na
+ykwenq¹	V;PROG;PL;1+INCL	ntykwenq¹en¹	ntykwenq¹e
+nlyu¹	V;PROG;PL;1+INCL	nlyon¹on¹	nlyon¹on¹
+nden⁴²	V;PROG;PL;1+INCL	nden¹en¹	nden¹en¹¹
+xqan¹	V;PROG;PL;1+INCL	ntxqan¹an¹	ntxqan¹an
+nkin²	V;PROG;PL;1+INCL	nkin²en¹	ntin²en¹a
+ytsen⁴²	V;PROG;PL;1+INCL	nne¹en¹	nne¹nn¹n¹¹
+xin²	V;PROG;PL;1+INCL	nxin¹in¹	nxin¹in¹
+nkwi¹	V;PROG;PL;1+INCL	ntkwen¹en¹	ntkwen¹en
+xyaq²	V;PROG;PL;1+INCL	nxyanq²an¹	nxyanq²an
+naq¹	V;PROG;PL;1+INCL	nnaq¹an¹	nnaq¹an¹
+kwi¹	V;PROG;PL;1+INCL	ndwen¹en¹	ndwean¹n
+stan¹⁴	V;PROG;PL;1+INCL	nstan¹⁰	nstan¹¹n¹
+saq²	V;PROG;PL;1+INCL	nsanq²an¹	nsaqq²an
+ytiq⁴	V;PROG;PL;1+INCL	ntenq¹en¹	ntenq¹e¹¹
+nton³	V;PROG;PL;1+INCL	nton²on¹	nton²on¹¹
+nglu³	V;PROG;PL;1+INCL	nglon²on¹	nglon²on¹
+kwan¹	V;PROG;PL;1+INCL	ntkwan¹an¹	ndkwn¹en¹
+nkjwi⁴²	V;PROG;PL;1+INCL	ntyjin¹in¹	ntyjin¹in¹
+nkeq³	V;PROG;PL;1+INCL	ntkenq²en¹	ntkenq²en
+sqwe¹⁴	V;PROG;PL;1+INCL	nsqwen¹⁰	nsqwen¹⁰¹
+ykwiq⁴	V;PROG;PL;1+INCL	ntykwenq¹⁴en¹	ntykwe¹qn
+ntyqo¹	V;PROG;PL;1+INCL	ntyqon¹on¹	ntyqon¹on
+jlya⁴²	V;PROG;PL;1+INCL	ntjlyan¹an¹	ntjly¹n¹¹
+qne¹	V;PROG;PL;1+INCL	nqne¹en¹	nqne¹en¹
+qan⁴	V;PROG;PL;1+INCL	nkqan²⁴an³²	nkqan²⁴a
+qa²⁴	V;PROG;PL;1+INCL	ntqan¹⁰	ntqan¹⁰n
+ntiqi¹	V;PROG;PL;1+INCL	ntqen¹en¹	ntqen¹en¹
+sqwe²⁴	V;PROG;PL;1+INCL	nsqwen³²	nsqwen³²a
+ndlyu¹	V;PROG;PL;1+INCL	ndlyon²⁰on³²	ndlyon²⁰o
+sqi²	V;PROG;PL;1+INCL	ntsqen²en¹	ntsqn¹²n
+ndyu²	V;PROG;PL;1+INCL	ndyon²on¹	ndyon²on¹
+yjoq⁴	V;PROG;PL;1+INCL	ntyjonq¹on¹	ntyjo¹q¹o
+sqya¹	V;PROG;PL;1+INCL	nsqya¹an¹	nsqya¹ann
+nge⁴²	V;PROG;PL;1+INCL	ndyin¹in¹	ndyinnin¹
+slya²⁴	V;PROG;PL;1+INCL	nslyan¹⁴	nslyan¹⁴a
+naq¹⁴	V;PROG;PL;1+INCL	nnaq²an¹	nnaq²an¹a
+yo²	V;PROG;PL;1+INCL	ndyon²on¹	ndyon²on
+ngwa²	V;PROG;PL;1+INCL	ngan¹⁴	ngan¹⁴an¹
+nkqi¹	V;PROG;PL;1+INCL	ntqin¹in¹	ntqin¹in¹
+nti¹	V;PROG;PL;1+INCL	nten¹en¹	nttn¹en¹
+yjaq³	V;PROG;PL;1+INCL	ntjanq¹⁴	ntjanq¹⁴n
+qen⁴	V;PROG;PL;1+INCL	ntqen²⁴en³²	ntqen²⁴n
+ntyja²	V;PROG;PL;1+INCL	ntyjan²an¹	ntyjan²an
+xka²⁴	V;PROG;PL;1+INCL	nxkan¹⁰	nxkaa¹⁰en
+sne¹⁴	V;PROG;PL;1+INCL	nsne¹⁰	nsne¹⁰¹¹n
+xlyu⁴²	V;PROG;PL;1+INCL	nxlyon¹on¹	nxlyon¹on
+ytsaq³	V;PROG;PL;1+INCL	ntsanq²an¹	ntsanq²an
+ntyqya¹	V;PROG;PL;1+INCL	ntyqyan¹an¹	ntyqyan¹an
+jen²	V;PROG;PL;1+INCL	ntjen²en¹	ntjen²en
+yqwe²	V;PROG;PL;1+INCL	ntqwen²en¹	ntqwen²²¹
+sla¹	V;PROG;PL;1+INCL	nslan¹an¹	nslan¹an
+yna⁴²	V;PROG;PL;1+INCL	nan¹an¹	nan¹an¹⁴¹
+ynaq¹	V;PROG;PL;1+INCL	naq¹an¹	naq¹a¹¹a¹
+lo²⁴	V;PROG;PL;1+INCL	nlon¹⁴	nlon¹⁴n¹
+ngon²	V;PROG;PL;1+INCL	nskwan²an¹	nsywan²a¹
+ntsen⁴²	V;PROG;PL;1+INCL	ntsen¹en¹	ntsen¹¹n¹¹
+sqyu¹	V;PROG;PL;1+INCL	nsqyon¹on¹	nsqyon¹on
+ntkonq³	V;PROG;PL;1+INCL	ntkonq²on¹	ntkonq²on¹
+ntykwen³	V;PROG;PL;1+INCL	ntykwen²en¹	ntykwen²en
+yna³	V;PROG;PL;1+INCL	na²an¹	na²aa¹n¹
+xtyiq¹⁰	V;PROG;PL;1+INCL	nxtenq¹⁰	nxtenq¹⁰nn
+xne¹⁰	V;PROG;PL;1+INCL	nxnen²en¹	nxnen²en¹
+snyaq¹	V;PROG;PL;1+INCL	nsnyaq¹an¹	nsnyaq¹an
+xkwen¹⁴	V;PROG;PL;1+INCL	nxkwen¹⁰	nxkwen¹⁰¹¹
+ntyinq³	V;PROG;PL;1+INCL	ntyinq²in¹	ntyinq²in¹
+skwan⁴	V;PROG;PL;1+INCL	nskwan¹an¹	nskwan¹an
+nxi²	V;PROG;PL;1+INCL	nxin²in¹	nxin²in¹
+ntsa²⁴	V;PROG;PL;1+INCL	ntsan¹an¹	ntsan¹an¹
+qnyi¹	V;PROG;PL;1+INCL	nqnyin¹in¹	nqnyin¹in
+nkonq⁴²	V;PROG;PL;1+INCL	ntkonq¹on¹	ntkonq¹onn
+son³	V;PROG;PL;1+INCL	nson¹on³²	nson¹on³
+ntqo¹	V;PROG;PL;1+INCL	ntqon¹on¹	ntqon¹on¹
+ndywan²	V;PROG;PL;1+INCL	ndywan²an¹	ndywan²an¹
+yta⁴	V;PROG;PL;1+INCL	ntan¹an	ntynn¹nn
+styi¹	V;PROG;PL;1+INCL	nstyin¹in¹	nstyin¹in
+nchuq⁴	V;PROG;PL;1+INCL	nchonq¹an¹	nchonq¹an
+sta¹	V;PROG;PL;1+INCL	nstan¹an¹	nstan¹an
+ya⁴²	V;PROG;PL;1+INCL	nkyan¹⁴	nkyan¹⁴⁴
+nyi¹⁴	V;PROG;PL;1+INCL	nnyi¹⁰	nnyi¹⁰n¹²
+ntykaq¹	V;PROG;PL;1+INCL	ntykanq¹an¹	ntykanq¹an
+nduq⁴²	V;PROG;PL;1+INCL	ndonq¹on¹	ndonq¹on¹
+jinyiq²	V;PROG;PL;1+INCL	ynyinq²in¹	ynyinq²in¹
+yqwi⁴	V;HAB;SG;3	ntqwi⁴	ntqwi⁴²
+kwa¹⁴	V;HAB;SG;3	ntykwa¹⁴	ntykwa¹
+sna³	V;HAB;SG;3	nxna¹⁴	nsna¹⁴
+yja¹	V;HAB;SG;3	ntyja²⁰	ntyjaq
+nten³	V;HAB;SG;3	nten¹⁴	nten¹⁴¹
+lu¹	V;HAB;SG;3	nlu²⁰	nlu²⁰⁴
+nya¹⁴	V;HAB;SG;3	nnya¹⁴	nnya¹⁴¹
+ntsiq³	V;HAB;SG;3	ntsiq¹⁴	ntsiq¹⁴
+yqan⁴²	V;HAB;SG;3	ntyqan²⁴	ntyqa⁴²
+ja¹	V;HAB;SG;3	ntja²⁰	ntja²⁰
+ykuq²	V;HAB;SG;3	ntykuq¹⁴	ntykuq¹
+ndon⁴²	V;HAB;SG;3	ndyon²⁴	ndyon²⁴
+xqwa¹⁰	V;HAB;SG;3	nxqwa¹⁰	nxqwa¹⁰
+xin⁴²	V;HAB;SG;3	nxin⁴²	nxin⁴²⁰
+ston⁴²	V;HAB;SG;3	nston²⁴	nston²⁴
+lya¹⁴	V;HAB;SG;3	nlya¹⁴	nlya¹⁴¹
+ntyka²	V;HAB;SG;3	ntyka²	ntyka²²
+ncha¹	V;HAB;SG;3	ncha²⁰	ncha²⁰⁰
+swenq³	V;HAB;SG;3	nswenq¹⁴	nswenq¹
+la¹	V;HAB;SG;3	nla⁴	nla⁴²⁰
+ji¹	V;HAB;SG;3	ntyji²⁰	ntyji²
+sne³	V;HAB;SG;3	nsne¹⁴	nsne¹⁴
+ntaq³	V;HAB;SG;3	ntaq¹⁴	ntaq¹q¹
+qu¹⁴	V;HAB;SG;3	ntqu¹⁴	ntqu¹⁴
+yjwiq²	V;HAB;SG;3	ntjwiq¹⁴	ntjwiq¹
+nkqwa¹	V;HAB;SG;3	ntyqwa²⁰	ntyqwa²
+xta¹	V;HAB;SG;3	nxstan¹⁴	nxstan
+nlyu¹	V;HAB;SG;3	nlyu²⁰	nlyu²⁰⁴
+nden⁴²	V;HAB;SG;3	nden²⁴	nden²⁴¹
+ytsen⁴²	V;HAB;SG;3	ntsen¹⁴	ntsen¹⁴⁴
+xin²	V;HAB;SG;3	nxin¹⁴	nxin¹⁴
+nkwi¹	V;HAB;SG;3	ntykwi²⁰	ntykw⁰³
+naq¹	V;HAB;SG;3	nnaq²⁰	nnaq²⁰
+stan¹⁴	V;HAB;SG;3	nstan¹⁴	nstan¹⁴
+ytiq⁴	V;HAB;SG;3	ntyiq⁴	ntyiq⁴¹
+ntson¹⁴	V;HAB;SG;3	ntson¹⁴	ntson¹⁴⁴
+nton³	V;HAB;SG;3	ntyon¹⁴	ntyon¹⁴
+nglu³	V;HAB;SG;3	nglu¹⁴	nglu¹⁴³
+kwan¹	V;HAB;SG;3	ntkwan⁴	ntkwan⁴
+ylu³	V;HAB;SG;3	ndlyu¹⁴	ndlyu¹
+nkjwi⁴²	V;HAB;SG;3	ntyji⁴	ntyji⁴⁰⁰
+nkeq³	V;HAB;SG;3	ntykeq¹⁴	ntykeq¹
+sqwe¹⁴	V;HAB;SG;3	nsqwe¹⁴	nsqwe¹⁴
+ykwiq⁴	V;HAB;SG;3	ntykwiq⁴	ntykwiq
+ntyqo¹	V;HAB;SG;3	ntyqo²⁰	ntyqo²⁰
+jlya⁴²	V;HAB;SG;3	ntjlya²⁴	ntjlya²
+qne¹	V;HAB;SG;3	nqne²⁰	nqne²⁰
+qan⁴	V;HAB;SG;3	ntyqan⁴	ntyqan
+qa²⁴	V;HAB;SG;3	ntqa²⁴	ntqa²⁴
+ntiqi¹	V;HAB;SG;3	ntiqi²⁰	ntiqi²⁰
+sqi²	V;HAB;SG;3	nchsqi¹⁴	nshsqi
+yqo²	V;HAB;SG;3	ntyqo¹⁴	ntyqo¹
+ndyu²	V;HAB;SG;3	ndyu²	ndyu²²⁰
+yjoq⁴	V;HAB;SG;3	ntyjoq⁴	ntyjoq⁴
+sqna¹	V;HAB;SG;3	nsqna²⁰	nsqna²⁰
+sqya¹	V;HAB;SG;3	nxqya²⁰	nsqya²⁰
+sen¹	V;HAB;SG;3	nsen²⁰	nsyni⁰
+nchin¹	V;HAB;SG;3	nchin²⁰	nchin²⁰
+nge⁴²	V;HAB;SG;3	ndye²⁴	ndye²⁴³
+jwi³	V;HAB;SG;3	ntyji¹⁴	ntyji¹
+slya²⁴	V;HAB;SG;3	nxlya²⁴	nxlya²⁴
+qya³	V;HAB;SG;3	ntyqya¹⁴	ntyqy⁴
+kwa³	V;HAB;SG;3	ntkwa¹⁴	ntkwa¹
+yo²	V;HAB;SG;3	ndyo¹⁴	ndyo¹⁴
+ntykwan²	V;HAB;SG;3	ntykwan²	ntykwan²
+nkya⁴²	V;HAB;SG;3	ngya²⁴	ntyk²⁴²
+nkqi¹	V;HAB;SG;3	ntqi²⁰	ntqi²⁰⁰
+nti¹	V;HAB;SG;3	nti²⁰	nty²⁰⁰
+ntyi¹	V;HAB;SG;3	ntyi²⁰	ntyi²⁰⁰
+yjaq³	V;HAB;SG;3	ntyjaq¹⁴	ntyjaq¹
+qen⁴	V;HAB;SG;3	ntyqin⁴	ntyqin
+sqwa¹⁴	V;HAB;SG;3	nsqwa¹⁴	nsqwa¹⁴
+qya⁴²	V;HAB;SG;3	ntqya²⁴	ntqqa²⁴
+ntyja²	V;HAB;SG;3	ntyja²	ntyja²²
+xka²⁴	V;HAB;SG;3	nxka²⁴	nxka²⁴¹
+xlyu⁴²	V;HAB;SG;3	nxlyu²⁴	nxlyu²⁴
+ntykwa⁴	V;HAB;SG;3	ntykwa⁴	ntykwa⁴⁰
+ytsaq³	V;HAB;SG;3	ntsaq¹⁴	ntsaq¹⁴
+ntyqya¹	V;HAB;SG;3	ntyqya²⁰	ntyqya²⁰
+jen²	V;HAB;SG;3	ntyjin¹⁴	ntyjin
+nna¹	V;HAB;SG;3	nna²⁰	nna²⁰⁰
+ngyla³	V;HAB;SG;3	ngyla³	ngyla³²
+ykwanq¹	V;HAB;SG;3	ntykwanq²⁰	ntykwanq
+yqwe²	V;HAB;SG;3	ntyqwe¹⁴	ntyqwe¹
+sla¹	V;HAB;SG;3	nsla²⁰	nsla²⁰
+yna⁴²	V;HAB;SG;3	na²⁴	na²⁴⁴⁴²
+ynaq¹	V;HAB;SG;3	nnaq²⁰	nnaq²⁰⁴
+ntsu⁴²	V;HAB;SG;3	nchu⁴	nchu⁴⁴⁴
+skwaq¹	V;HAB;SG;3	nchkwaq²⁰	nchkwaq
+xkwan¹⁴	V;HAB;SG;3	nxkwan¹⁴	nxkwan¹⁴
+lo²⁴	V;HAB;SG;3	nlo²⁴	nlo²⁴⁴
+nkwa³	V;HAB;SG;3	ntykwa³	ntykwa³
+nkqwa⁴²	V;HAB;SG;3	ntyqwa²⁴	ntyqwa²⁴
+ndya³	V;HAB;SG;3	ndya³	ndya³²⁰
+ntqen¹	V;HAB;SG;3	ntyqin²⁰	ntyqin²
+ntsen⁴²	V;HAB;SG;3	ntsen²⁴	ntsen¹⁴⁰
+ndlyu⁴²	V;HAB;SG;3	ndlyu⁴²	ndlyu⁴²⁴
+ndiyan³²	V;HAB;SG;3	ndiyan²⁴	ndiyan²⁴
+ndyi⁴	V;HAB;SG;3	ndyi⁴	ndyi²⁴⁰
+ntykwen³	V;HAB;SG;3	ntykwen¹⁴	ntykwen¹
+yku⁴	V;HAB;SG;3	ntyku⁴	ntyku¹
+xtyiq¹⁰	V;HAB;SG;3	nxtyiq¹⁴	nxtyiq¹⁴
+xne¹⁰	V;HAB;SG;3	nxne¹⁴	nxne¹⁴⁰
+snyaq¹	V;HAB;SG;3	nsnyaq²⁰	nsnyaq²
+xkwen¹⁴	V;HAB;SG;3	nxkwen¹⁴	nxkwen¹⁴
+ntsaq⁴²	V;HAB;SG;3	nchaq⁴	nchaq⁴⁴⁴
+ne⁴²	V;HAB;SG;3	nne¹⁴	nne¹⁴⁰
+ntyinq³	V;HAB;SG;3	ntyinq¹⁴	ntyinq¹⁴
+skwan⁴	V;HAB;SG;3	nxkwan²⁰	nxkwan²
+nxi²	V;HAB;SG;3	nxin²	nxin²⁰
+nsuq³	V;HAB;SG;3	nsuq¹⁴	nsuq¹⁴¹
+xoq²	V;HAB;SG;3	nxoq²	nxoq²⁰
+ndywiq³	V;HAB;SG;3	ndywiq¹⁴	ndywiq¹⁴
+lqa³	V;HAB;SG;3	nt/lyqa¹⁴	nt/lyq
+ntqo¹	V;HAB;SG;3	ntyqo²⁰	ntyqo²⁰
+yta⁴	V;HAB;SG;3	ntan⁴	ntan⁴n
+styi¹	V;HAB;SG;3	nstyi²⁰	nsty²²⁰
+nchuq⁴	V;HAB;SG;3	nchuq⁴	nchuq⁴q
+ykwen²	V;HAB;SG;3	ntykwen¹⁴	ntykwen
+xkuq²	V;HAB;SG;3	nxkuq¹⁴	nxkuq²⁴
+ntyjyuq¹	V;HAB;SG;3	ntyjyuq²⁰	ntyjyuq²
+ntykwan¹⁴	V;HAB;SG;3	ntykwan¹⁴	ntykwan¹⁴
+skwan²	V;HAB;SG;3	nxkwan²	nxkwan²
+sqwi¹⁴	V;HAB;SG;3	nsqwi¹⁴	nsqwi¹⁴
+ntykaq¹	V;HAB;SG;3	ntykaq²⁰	ntykaq²⁰
+xtya²⁰	V;HAB;SG;3	nxtya²⁰	nxtya²⁰
+xti²⁰	V;HAB;SG;3	nxti²⁰	nxti²⁰⁴
+yqu²	V;HAB;SG;3	ntyqu¹⁴	ntyqu¹
+nduq⁴²	V;HAB;SG;3	ndyuq²⁴	ndyuq²⁴
+ykwaq⁴	V;HAB;SG;3	ntykwaq⁴	ntykwaq
+xki¹	V;HAB;SG;3	nsxki²⁰	nxxki²
+qen⁴²	V;HAB;SG;3	ntyqen²⁴	ntyqen²
+ntyjanq²	V;HAB;SG;3	ntyjanq¹⁴	ntyjanq¹
+yqwi⁴	V;HAB;PL;1+INCL	ntqwen²⁴en³²	ntqwen²⁴e
+yno¹	V;HAB;PL;1+INCL	nno¹on¹	nno¹on¹nn
+kwa¹⁴	V;HAB;PL;1+INCL	ntykwan¹⁴	ntykwan¹⁴
+sna³	V;HAB;PL;1+INCL	nxnan¹⁴	nxnan¹⁴¹⁴
+yja¹	V;HAB;PL;1+INCL	ntyjan²⁰an³²	ntyjanq⁰a
+lu¹	V;HAB;PL;1+INCL	nlon²⁰on³²	nlon²⁰on³
+skonq³	V;HAB;PL;1+INCL	ntkonq¹⁴	ntkonq¹⁴⁴
+nya¹⁴	V;HAB;PL;1+INCL	nnya¹⁴	nnya¹⁴¹⁴a
+ntsiq³	V;HAB;PL;1+INCL	ntsenq¹⁴	ntsenq¹⁴⁴
+yqan⁴²	V;HAB;PL;1+INCL	ntyqan¹⁴	ntqqan¹⁴e
+ja¹	V;HAB;PL;1+INCL	ntjan²⁰an³²	ntjan²⁰an
+ykuq²	V;HAB;PL;1+INCL	ntykonq¹⁴	ntykonq¹⁴
+ntqan¹	V;HAB;PL;1+INCL	ntqan²⁰an³²	ntqan²⁰an
+xqwa¹⁰	V;HAB;PL;1+INCL	nxqwan¹⁰	nxqwan¹⁰⁰
+xin⁴²	V;HAB;PL;1+INCL	nxin⁴²an⁴²	nxin⁴²an⁴
+ntykonq⁴²	V;HAB;PL;1+INCL	ntykonq¹⁴	ntykonq¹⁴⁴
+lya¹⁴	V;HAB;PL;1+INCL	nlyan¹⁴	nlyan¹⁴¹⁴
+ntyka²	V;HAB;PL;1+INCL	ntykan²an¹	ntykan²an
+ncha¹	V;HAB;PL;1+INCL	nchan²⁰an³²	nchan²⁰an
+swenq³	V;HAB;PL;1+INCL	nswenq¹⁴	nswenq¹⁴a
+qne⁴²	V;HAB;PL;1+INCL	nqnen¹⁴	nqnen¹⁴⁴i
+sqan¹	V;HAB;PL;1+INCL	ntsqan²⁰an³²	ntsqan²⁰a
+skanq³	V;HAB;PL;1+INCL	ntskanq¹⁴	ntskaq¹⁴⁴
+xta¹	V;HAB;PL;1+INCL	nstan¹⁴	nstan¹⁴⁰³
+ykwenq¹	V;HAB;PL;1+INCL	ntykwenq²⁰en³²	ntykwenq²⁰
+nden⁴²	V;HAB;PL;1+INCL	nden¹⁴	nden¹⁴o⁴¹
+xqan¹	V;HAB;PL;1+INCL	ntxqan²⁰an³²	ntxqan²⁰a
+nkin²	V;HAB;PL;1+INCL	ntykin²en¹	ntykin²en
+ytsen⁴²	V;HAB;PL;1+INCL	nne¹⁴	nne¹⁴n⁴⁴en
+nkwi¹	V;HAB;PL;1+INCL	ntykwen²⁰en³²	ntykwen²⁰
+naq¹	V;HAB;PL;1+INCL	nnaq²⁰an³²	nnaq²⁰an³
+kwi¹	V;HAB;PL;1+INCL	ndwen²⁰en³²	ntweannen
+stan¹⁴	V;HAB;PL;1+INCL	nstan¹⁴	nstan¹⁴⁰⁰
+saq²	V;HAB;PL;1+INCL	nsanq¹⁴	nsanq¹⁴n³
+ytiq⁴	V;HAB;PL;1+INCL	ntyenq²⁴en³²	ntyenq²⁴e
+ntson¹⁴	V;HAB;PL;1+INCL	ntson¹⁴	ntson¹⁴⁰on
+nton³	V;HAB;PL;1+INCL	ntyon¹⁴	ntyon¹⁴n¹
+nglu³	V;HAB;PL;1+INCL	nglon¹⁴	nglon¹⁴¹⁰
+ywi⁴²	V;HAB;PL;1+INCL	ntjwen¹⁴	ntjwen¹⁴n
+ntykanq³	V;HAB;PL;1+INCL	ntykanq¹⁴	ntykanq¹⁴⁴
+kwan¹	V;HAB;PL;1+INCL	ntkwan²⁴an³²	ntkwan²⁴a
+ylu³	V;HAB;PL;1+INCL	ndlylon¹⁴	ndlylo⁴¹⁴
+nkjwi⁴²	V;HAB;PL;1+INCL	ntyjin²⁴in³²	ntyjin²⁴in
+nkeq³	V;HAB;PL;1+INCL	ntkinq¹⁴	ntkinq¹⁴⁴
+ykwiq⁴	V;HAB;PL;1+INCL	ntykwenq²⁴en³²	ntykwenq²
+ntyqo¹	V;HAB;PL;1+INCL	ntyqon²⁰on³²	ntyqon²⁰o
+qan⁴	V;HAB;PL;1+INCL	ntyqan²⁴an³²	ntyqan²⁴a
+qa²⁴	V;HAB;PL;1+INCL	ntqan²⁴	ntqan²⁴¹⁴
+nchaq⁴²	V;HAB;PL;1+INCL	nchanq¹⁴	nchanq¹⁴n³
+ndlyu¹	V;HAB;PL;1+INCL	ndlyon²⁰on³²	ndlyon²⁰o
+sqi²	V;HAB;PL;1+INCL	nchsqin¹⁴	nchsqinen
+yqo²	V;HAB;PL;1+INCL	ntyqon¹⁴	ntyqon¹⁴n
+ndyu²	V;HAB;PL;1+INCL	ndyon²on¹	ndyon²on¹
+yjoq⁴	V;HAB;PL;1+INCL	ntyjonq²⁴on³²	ntyjonq²⁴
+sqna¹	V;HAB;PL;1+INCL	nsqna²⁰an³²	nsqna²⁰an
+sqya¹	V;HAB;PL;1+INCL	nxqya²⁰an³²	nxqyan⁰an
+sen¹	V;HAB;PL;1+INCL	nsen²⁰en³²	nsen²⁰en³
+nge⁴²	V;HAB;PL;1+INCL	ndyin¹⁴	ndyin¹⁴⁴o
+slya²⁴	V;HAB;PL;1+INCL	nxlyan¹⁴	nxlyan¹⁴⁴
+kwa³	V;HAB;PL;1+INCL	ntkwan¹⁴	ntkwan¹⁴⁴
+naq¹⁴	V;HAB;PL;1+INCL	nnyaq¹⁴	nnyaq¹⁴n³
+ngwa²	V;HAB;PL;1+INCL	ndygan¹⁴	ndygan²⁴n
+ntykwan²	V;HAB;PL;1+INCL	ntykwan²an¹	ntykwan²an
+nkqi¹	V;HAB;PL;1+INCL	ntqin²⁰on³²	ntqin²⁰on
+nti¹	V;HAB;PL;1+INCL	nten²⁰en³²	ntyen⁰en³
+yjaq³	V;HAB;PL;1+INCL	ntyjanq¹⁴	ntyjanq¹⁴
+qen⁴	V;HAB;PL;1+INCL	ntyqin²⁴in³²	ntyqin²⁴i
+qya⁴²	V;HAB;PL;1+INCL	ntqyan¹⁴	ntqyan¹⁴i
+ntyja²	V;HAB;PL;1+INCL	ntyjan²an¹	ntyjan²an
+xka²⁴	V;HAB;PL;1+INCL	nxkan¹⁴	nxkan¹⁴¹⁴
+sne¹⁴	V;HAB;PL;1+INCL	nsne¹⁴	nsne¹⁴⁴²e
+ntyqya¹	V;HAB;PL;1+INCL	ntyqyan²⁰an³²	ntyqyan²⁰a
+jen²	V;HAB;PL;1+INCL	ntyjin¹⁴	ntyjin¹⁴⁰
+skwa³	V;HAB;PL;1+INCL	nschkwan¹⁴	nschkwan¹
+yna⁴²	V;HAB;PL;1+INCL	nan¹⁴	nan¹⁴n¹⁴a
+ntsu⁴²	V;HAB;PL;1+INCL	nchon²⁴on³²	nchon²⁴on
+skwaq¹	V;HAB;PL;1+INCL	nskwaq²⁰an³²	nskwaq²⁰a
+xkwan¹⁴	V;HAB;PL;1+INCL	nxkwan¹⁴	nxkwan¹⁴n³
+lo²⁴	V;HAB;PL;1+INCL	nlon¹⁴	nlon¹⁴on³
+slu¹⁴	V;HAB;PL;1+INCL	nslon¹⁴	nslon¹⁴¹⁴
+ngon²	V;HAB;PL;1+INCL	nxkwan²an¹	ndkwnn⁴an
+ntqen¹	V;HAB;PL;1+INCL	ntyqin²⁰en³²	ntyqin²⁰e
+sqyu¹	V;HAB;PL;1+INCL	nsqyon²⁰on³²	nsqyon²⁰o
+ngya⁴²	V;HAB;PL;1+INCL	ngyan¹⁴	ngyan¹⁴⁴n
+ntkonq³	V;HAB;PL;1+INCL	ntkonq¹⁴	ntkonq¹⁴³²
+ntykwen³	V;HAB;PL;1+INCL	ntykwen¹⁴	ntykwen¹⁴e
+yku⁴	V;HAB;PL;1+INCL	ntykon²⁴on³²	ntykon²⁴o
+yna³	V;HAB;PL;1+INCL	na¹⁴	nanan¹⁴¹⁴
+xtyiq¹⁰	V;HAB;PL;1+INCL	nxtenq¹⁴	nxtenq¹⁴⁰¹
+xne¹⁰	V;HAB;PL;1+INCL	nxne¹⁴	nxne¹⁴⁰en
+xkwen¹⁴	V;HAB;PL;1+INCL	nxkwen¹⁴	nxkwen¹⁴en
+ne⁴²	V;HAB;PL;1+INCL	nne¹⁴	nne¹⁴²⁴²i
+ntyinq³	V;HAB;PL;1+INCL	ntyinq¹⁴	ntyinq¹⁴⁰⁴
+ylaq⁴	V;HAB;PL;1+INCL	nlyanq²⁴an³²	nlyanq²⁴a
+nxi²	V;HAB;PL;1+INCL	nxin²en¹	nxin²en¹³
+ntsa²⁴	V;HAB;PL;1+INCL	ntsan¹⁴	ntsan¹⁴an
+son³	V;HAB;PL;1+INCL	nxon²⁰on³²	nxon²⁰on³
+nton⁴²	V;HAB;PL;1+INCL	ntyon¹⁴	ntyon¹⁴⁴n
+ntqo¹	V;HAB;PL;1+INCL	ntyqon²⁰on³²	ntyqon²⁰o
+swi²⁰	V;HAB;PL;1+INCL	nswen²⁰en³²	nswen²⁰en
+styi¹	V;HAB;PL;1+INCL	nstyin²⁰in³²	nstyn¹²⁰i
+ya⁴²	V;HAB;PL;1+INCL	nkyan²⁴	nkyan²⁴aa
+ntyjyuq¹	V;HAB;PL;1+INCL	ntyjyonq²⁰on³²	ntyjyonq²⁰
+nyi¹⁴	V;HAB;PL;1+INCL	nyi¹⁴	nyi¹⁴⁴een
+ntykaq¹	V;HAB;PL;1+INCL	ntykanq²⁰an³²	ntykanq²⁰a
+yqu²	V;HAB;PL;1+INCL	ntyqon²on¹	ntyqon²on
+nduq⁴²	V;HAB;PL;1+INCL	ndyonq¹⁴	ndyonq¹⁴⁴
+yqwi⁴	V;HAB;SG;2	ntqwi⁴²	ntywi⁴²
+yno¹	V;HAB;SG;2	nno⁴²	nno⁴²⁰
+sti⁴	V;HAB;SG;2	nstyin⁴²	nstyin
+kwa¹⁴	V;HAB;SG;2	ntykwa²⁰	ntykwa²
+sna³	V;HAB;SG;2	nxna²⁰	nsna²⁰
+nten³	V;HAB;SG;2	nten²⁰	nten²⁰⁴
+lu¹	V;HAB;SG;2	nlu⁴²	nlu⁴²⁰
+skonq³	V;HAB;SG;2	ntkonq²⁰	ntyonq²
+nya¹⁴	V;HAB;SG;2	nnya²⁰	nnya²⁰q
+ntsiq³	V;HAB;SG;2	ntsiq²⁰	ntsiq²⁰
+yqan⁴²	V;HAB;SG;2	ntyqan⁴²	ntyqan⁴
+ja¹	V;HAB;SG;2	ntyja⁴²	ntyja⁴
+ykuq²	V;HAB;SG;2	ntykuq²⁰	ntykuq²
+ndon⁴²	V;HAB;SG;2	ndyon⁴²	ndyon⁴²
+ntqan¹	V;HAB;SG;2	ntqan⁴²	ntqan⁴²
+xin⁴²	V;HAB;SG;2	nxin⁴²	nxin⁴²²
+ntykonq⁴²	V;HAB;SG;2	ntykonq⁴²	ntykonq⁴²
+lya¹⁴	V;HAB;SG;2	nlya²⁰	nlya²⁰a
+ne¹⁴	V;HAB;SG;2	nni²⁰	nni²⁰⁴
+swenq³	V;HAB;SG;2	nswenq²⁰	nswenq²
+qne⁴²	V;HAB;SG;2	nqne⁴²	nqne⁴²²
+yla³	V;HAB;SG;2	ndla²⁰	ndla²⁰
+la¹	V;HAB;SG;2	nla⁴²	nla⁴²⁴
+sqan¹	V;HAB;SG;2	ntsqan⁴²	ntsqan⁴
+sne³	V;HAB;SG;2	nsne²⁰	nsne²⁰
+lkwi¹	V;HAB;SG;2	ntykwi⁴²	ntykwi⁴
+skanq³	V;HAB;SG;2	ntskanq²⁰	ntskan²
+ntaq³	V;HAB;SG;2	ntaq²⁰	ntaqq⁰²
+qu¹⁴	V;HAB;SG;2	ntqu²⁰	ntqu²⁰
+nden⁴²	V;HAB;SG;2	nden⁴²	ndyn⁴²⁴
+xqan¹	V;HAB;SG;2	ntxqan⁴²	ntxqan⁴
+nkin²	V;HAB;SG;2	ntykin²⁰	ntykin²
+ytsen⁴²	V;HAB;SG;2	ntsen⁴⁰	ntsen⁴²⁰
+xin²	V;HAB;SG;2	nxin²⁰	nxin²⁰
+nkwi¹	V;HAB;SG;2	ntykwi⁴²	ntykwi²
+xyaq²	V;HAB;SG;2	nxyaq¹	nxyaq¹²
+naq¹	V;HAB;SG;2	nnaq⁴²	nnaq²²
+stan¹⁴	V;HAB;SG;2	nstan²⁰	nstan²⁰
+saq²	V;HAB;SG;2	nsaq²⁰	nsaq²²
+ytiq⁴	V;HAB;SG;2	ntyiq⁴²	ntyiq⁴²
+ntson¹⁴	V;HAB;SG;2	ntson²⁰	ntson²⁰⁰
+nton³	V;HAB;SG;2	ntyon⁴²	ntyon⁴²
+ywi⁴²	V;HAB;SG;2	ntjwi⁴²	ntjwi²²
+ntykanq³	V;HAB;SG;2	ntykanq²⁰	ntykanq²
+ylu³	V;HAB;SG;2	ndlyu²⁰	ndlyu²
+nkjwi⁴²	V;HAB;SG;2	ntyji⁴²	ntyji⁴²⁰
+nkeq³	V;HAB;SG;2	ntykeq²⁰	ntykeq²
+ykwiq⁴	V;HAB;SG;2	ntykwiq⁴²	ntykwiq
+jlya⁴²	V;HAB;SG;2	ntjlya⁴²	ntylya⁴
+qan⁴	V;HAB;SG;2	ntyqan⁴²	ntyqan
+qa²⁴	V;HAB;SG;2	ntqa⁴²	ntqa⁴²
+ntiqi¹	V;HAB;SG;2	ntiqi⁴⁰	ntiqi⁴⁰
+sqwe²⁴	V;HAB;SG;2	nsqwe⁴²	nsqwe⁴²
+ndlyu¹	V;HAB;SG;2	ndlyu⁴²	ndlyu⁴²
+sqi²	V;HAB;SG;2	nchsqi²⁰	nshq²n
+yqo²	V;HAB;SG;2	ntyqo²⁰	ntyqo²
+sqna¹	V;HAB;SG;2	nsqna⁴²	nsqna⁴²
+sqya¹	V;HAB;SG;2	nxqya⁴²	nxqya²⁴
+nchin¹	V;HAB;SG;2	nchin⁴²	nchin⁴²
+nge⁴²	V;HAB;SG;2	ndye⁴²	ndye⁴²²
+jwi³	V;HAB;SG;2	ntyji²⁰	ntyji⁴
+kwa³	V;HAB;SG;2	ntkwa²⁰	ntkwa²
+naq¹⁴	V;HAB;SG;2	nnyaq²⁰	nnyq²²⁰
+yo²	V;HAB;SG;2	ndyo²⁰	ndyo²⁰
+ngwa²	V;HAB;SG;2	ndyga⁴²	ndyga⁴²
+ntykwan²	V;HAB;SG;2	ntykwan¹	ntykwan¹
+nkqi¹	V;HAB;SG;2	ntyqi⁴²	ntyqi⁴²
+nti¹	V;HAB;SG;2	nti⁴²	nti⁴²²
+ntyi¹	V;HAB;SG;2	ntyi⁴²	ntyi⁴²⁰
+yjaq³	V;HAB;SG;2	ntyjaq²⁰	ntyjaq²
+qen⁴	V;HAB;SG;2	ntyqin⁴²	ntyqin
+sqwa¹⁴	V;HAB;SG;2	nsqwa²⁰	nsqwa²⁰
+qya⁴²	V;HAB;SG;2	ndyuq⁴²	ndyuq⁰⁴
+xlyu⁴²	V;HAB;SG;2	nxlyu⁴²	nxlyu⁴²
+ntykwa⁴	V;HAB;SG;2	ntykwa⁴²	ntykwa⁴²
+ytsaq³	V;HAB;SG;2	ntsaq²⁰	ntsaq²⁰
+jen²	V;HAB;SG;2	ntyjin²⁰	ntyjin
+nna¹	V;HAB;SG;2	nna⁴²	nna⁴²⁰
+ngyla³	V;HAB;SG;2	ngyla¹	ngyla¹²
+ykwanq¹	V;HAB;SG;2	ntykwanq⁴²	ntykwanq
+yqwe²	V;HAB;SG;2	ntyqwe²⁰	ntyqwe²
+sla¹	V;HAB;SG;2	nsla⁴²	nsla²⁰
+yna⁴²	V;HAB;SG;2	na⁴²	na⁴²⁴²²
+ynaq¹	V;HAB;SG;2	nnaq⁴²	nnaqq²⁰
+ntsu⁴²	V;HAB;SG;2	nchu⁴²	nchu⁴²⁰
+skwaq¹	V;HAB;SG;2	nchkwaq⁴²	nchkwaq
+nxin⁴²	V;HAB;SG;2	nxin²⁰	nxin²⁰⁴
+xkwan¹⁴	V;HAB;SG;2	nxkwan²⁰	nxkwan²⁰
+slu¹⁴	V;HAB;SG;2	nslu²⁰	nslu²⁰²
+nkwa³	V;HAB;SG;2	ntkwa¹	ntkwa¹²
+nkqwa⁴²	V;HAB;SG;2	ntyqwa⁴²	ntyqwa⁴²
+ndya³	V;HAB;SG;2	ndyan¹	ndyan¹²
+ntsen⁴²	V;HAB;SG;2	ntsen⁴²	ntsen⁴²²
+ngya⁴²	V;HAB;SG;2	nkya⁴²	nkya⁴²²
+ntykwen³	V;HAB;SG;2	ntykwen²⁰	ntykwen²
+yku⁴	V;HAB;SG;2	ntyku⁴²	ntykun
+xtyiq¹⁰	V;HAB;SG;2	nxtyiq²⁰	nxtyiq²⁰
+xne¹⁰	V;HAB;SG;2	nxne²⁰	nxne²⁰q
+xkwen¹⁴	V;HAB;SG;2	nxkwen²⁰	nxkwen²⁰
+ntsaq⁴²	V;HAB;SG;2	nchaq⁴²	nchaq⁴²⁴
+ntyinq³	V;HAB;SG;2	ntyinq²⁰	ntyinq²⁰
+ylaq⁴	V;HAB;SG;2	nlyaq⁴²	ntyaq⁴²
+skwan⁴	V;HAB;SG;2	nxkwan⁴²	nxkwan⁴
+ntsa²⁴	V;HAB;SG;2	ntsa⁴²	ntsa⁴²⁰
+qnyi¹	V;HAB;SG;2	nqni⁴⁰	nqni⁴⁰²
+xoq²	V;HAB;SG;2	nxoq¹	nxoq¹⁰
+nda³	V;HAB;SG;2	nda⁴²	ndya²²
+ndywiq³	V;HAB;SG;2	ndywiq²⁰	ndywiq²⁰
+son³	V;HAB;SG;2	nxon⁴⁰	nxon⁴⁰
+xla³	V;HAB;SG;2	nchla¹	nxlaa¹
+lqa³	V;HAB;SG;2	nt/lyqa²⁰	nt/lyq
+nton⁴²	V;HAB;SG;2	ntyon²⁰	ntyon²²
+ntqo¹	V;HAB;SG;2	ntyqo⁴²	ntyqo⁴²
+yta⁴	V;HAB;SG;2	ntya⁴²	ntya⁴²
+nchuq⁴	V;HAB;SG;2	nchonq⁴²	nchonq⁴
+ya⁴²	V;HAB;SG;2	nkya⁴²	nkya⁴²
+ntyjyuq¹	V;HAB;SG;2	ntyjyuq⁴²	ntyjyuq⁴
+ntykwan¹⁴	V;HAB;SG;2	ntykwa²⁰	ntykwa²⁰⁰
+nyi¹⁴	V;HAB;SG;2	nnyi²⁰	nnyi²⁰⁰
+sqwi¹⁴	V;HAB;SG;2	nsqwi²⁰	nsqwi²⁰
+ntykaq¹	V;HAB;SG;2	ntykaq⁴²	ntykaq⁴²
+xtya²⁰	V;HAB;SG;2	nxtya⁴²	nxtya⁴²
+xti²⁰	V;HAB;SG;2	nxti⁴²	nxti⁴²⁰
+yqu²	V;HAB;SG;2	ntyqu²⁰	ntyqu²
+nduq⁴²	V;HAB;SG;2	ndyuq⁴²	ndyuq⁴²
+jlyo³²	V;HAB;SG;2	njlyo³²	njlyo³²
+qen⁴²	V;HAB;SG;2	ntqe⁴²	ntqe⁴²²
+ntyjanq²	V;HAB;SG;2	ntyjanq²⁰	ntyjanq²
+yqwi⁴	V;PROSP;SG;2	tyqwi⁴²	tyqwi⁴
+yno¹	V;PROSP;SG;2	kno⁴²	kno⁴²
+sti⁴	V;PROSP;SG;2	xtyi⁴²	xtii⁴
+sna³	V;PROSP;SG;2	xna²⁰	xna²⁰
+yja¹	V;PROSP;SG;2	tyja⁴²	tjja⁴
+nten³	V;PROSP;SG;2	sten²⁰	sten²⁰
+lu¹	V;PROSP;SG;2	klu⁴²	klu⁴
+skonq³	V;PROSP;SG;2	skonq²⁰	skonq²
+nya¹⁴	V;PROSP;SG;2	knya²⁰	kyaa²⁰
+ntsiq³	V;PROSP;SG;2	ktsiq²⁰	ktsiq²
+yqan⁴²	V;PROSP;SG;2	yqan⁴²	yqan⁴²
+ja¹	V;PROSP;SG;2	ja⁴²	ja⁴²
+ykuq²	V;PROSP;SG;2	kuq²⁰	kuq²⁰²
+ndon⁴²	V;PROSP;SG;2	tyon⁴²	tyon⁴²
+xqwa¹⁰	V;PROSP;SG;2	xqwa²⁰	xqwa²⁰
+ntykonq⁴²	V;PROSP;SG;2	tykonq⁴²	tykonq⁴²
+lya¹⁴	V;PROSP;SG;2	jlya²⁰	jlya²⁰
+ne¹⁴	V;PROSP;SG;2	nni²⁰	nni²⁰
+ntyka²	V;PROSP;SG;2	tyka¹	tyka¹⁴
+yla³	V;PROSP;SG;2	kla²⁰	kla²⁰
+ji¹	V;PROSP;SG;2	ji⁴²	ji⁴²
+sqan¹	V;PROSP;SG;2	sqan⁴²	sqan⁴²
+sne³	V;PROSP;SG;2	sne²⁰	sne²⁰
+lkwi¹	V;PROSP;SG;2	tkwi⁴²	tkwi⁴²
+ntaq³	V;PROSP;SG;2	ktaq²⁰	ktaq²⁰
+yjwiq²	V;PROSP;SG;2	kjwiq²⁰	kjwiq²
+nkqwa¹	V;PROSP;SG;2	tyqwa⁴²	tyqwa⁴
+ykwenq¹	V;PROSP;SG;2	tykwenq⁴²	tykwenq
+nlyu¹	V;PROSP;SG;2	tlyu⁴²	tlyu⁴²
+ytsen⁴²	V;PROSP;SG;2	ktsen⁴⁰	ktsen⁴⁰
+xin²	V;PROSP;SG;2	kxin²⁰	kxin²
+xyaq²	V;PROSP;SG;2	xyaq¹	xyaq¹²
+naq¹	V;PROSP;SG;2	knaq⁴²	knaq²
+stan¹⁴	V;PROSP;SG;2	stan²⁰	stan²⁰
+saq²	V;PROSP;SG;2	saq²⁰	saa²⁰
+ntson¹⁴	V;PROSP;SG;2	ktson²⁰	ktson²⁰
+ywi⁴²	V;PROSP;SG;2	kjwi⁴²	kjwi⁴²
+ntykanq³	V;PROSP;SG;2	tykanq²⁰	tykanq²⁰
+kwan¹	V;PROSP;SG;2	kwan⁴²	kwan⁴²
+nkjwi⁴²	V;PROSP;SG;2	kja⁴²	kja⁴²⁴/
+nkeq³	V;PROSP;SG;2	keq²⁰	keq²⁰⁰
+ntyqo¹	V;PROSP;SG;2	tyqo⁴²	tyqo⁴²
+jlya⁴²	V;PROSP;SG;2	jlya⁴²	jlya⁴²
+qa²⁴	V;PROSP;SG;2	qa⁴²	qa⁴²⁴
+ntiqi¹	V;PROSP;SG;2	tiqi⁴⁰	tiqi⁴⁰
+sqwe²⁴	V;PROSP;SG;2	sqwe⁴²	sqwe⁴²
+nchaq⁴²	V;PROSP;SG;2	kchaq⁴²	kchaq⁴²
+sqi²	V;PROSP;SG;2	xqi²⁰	xqi²⁰
+yqo²	V;PROSP;SG;2	kqo²⁰	kqo²⁰
+yjoq⁴	V;PROSP;SG;2	kjoq⁴²	kjoq⁴²
+sqna¹	V;PROSP;SG;2	sqna⁴²	sqna⁴²
+sqya¹	V;PROSP;SG;2	xqya⁴²	sqya⁴²
+sen¹	V;PROSP;SG;2	sen⁴²	sen⁴²
+jwi³	V;PROSP;SG;2	ja²⁰	ja²⁰n
+slya²⁴	V;PROSP;SG;2	xlya³²	xlya³²
+qya³	V;PROSP;SG;2	qya²⁰	qya²⁰
+kwa³	V;PROSP;SG;2	kwa²⁰	kwa²⁰
+naq¹⁴	V;PROSP;SG;2	nyaq²⁰	nyaq²⁰
+ntykwan²	V;PROSP;SG;2	tykwan¹	tykwan¹²
+nkya⁴²	V;PROSP;SG;2	kyan⁴²	kyaa⁴²
+nkqi¹	V;PROSP;SG;2	kqi⁴²	kqi⁴²²
+nti¹	V;PROSP;SG;2	kti⁴²	kti⁴²
+yjaq³	V;PROSP;SG;2	ntyjaq²⁰	ntyjaq
+qen⁴	V;PROSP;SG;2	tyqin⁴²	tyqin
+sqwa¹⁴	V;PROSP;SG;2	sqwa²⁰	sqwa²⁰
+qya⁴²	V;PROSP;SG;2	kqya⁴²	kqya⁴²
+ntyja²	V;PROSP;SG;2	tyja¹	tyja¹⁴
+ntykwa⁴	V;PROSP;SG;2	tykwa⁴²	tykwa⁴²
+ytsaq³	V;PROSP;SG;2	ktsaq²⁰	ktsaq²
+ntyqya¹	V;PROSP;SG;2	tyqya⁴²	tyqya⁴²
+jen²	V;PROSP;SG;2	tyjin²⁰	tyjin
+ngyla³	V;PROSP;SG;2	kila¹	kila¹n
+ykwanq¹	V;PROSP;SG;2	ykwanq⁴²	ykwanq⁴
+sla¹	V;PROSP;SG;2	sla⁴²	sla⁴²
+yna⁴²	V;PROSP;SG;2	kna⁴²	kna²⁴²
+ntsu⁴²	V;PROSP;SG;2	ktsu⁴²	ktsu⁴²
+skwaq¹	V;PROSP;SG;2	skwaq⁴²	skwaq⁴
+nxin⁴²	V;PROSP;SG;2	kxin²⁰	kxin²⁰
+xkwan¹⁴	V;PROSP;SG;2	xkwan²⁰	xkwan²⁰
+lo²⁴	V;PROSP;SG;2	klo⁴²	klo⁴²
+slu¹⁴	V;PROSP;SG;2	slu²⁰	slu²⁰⁰
+nkqwa⁴²	V;PROSP;SG;2	kqwa⁴²	kqwa⁴²²
+ndya³	V;PROSP;SG;2	tyan¹	tyyn¹q
+ntqen¹	V;PROSP;SG;2	tyqin⁴²	tyqin⁴
+ntsen⁴²	V;PROSP;SG;2	ktsen⁴²	ktsen⁴²
+ndlyu⁴²	V;PROSP;SG;2	tlyu⁴²	tlyu⁴²⁰
+ndyi⁴	V;PROSP;SG;2	tyi⁴²	tyi⁴⁴²
+ntykwen³	V;PROSP;SG;2	tykwen²⁰	tykwen²⁰
+yku⁴	V;PROSP;SG;2	ku⁴²	ku⁴²⁴
+xtyiq¹⁰	V;PROSP;SG;2	xtyiq²⁰	xtyiq²⁰
+xne¹⁰	V;PROSP;SG;2	xne²⁰	xne⁴²²
+xkwen¹⁴	V;PROSP;SG;2	xkwen²⁰	xkwen²⁰
+ne⁴²	V;PROSP;SG;2	kne⁴²	kne⁴²
+ntyinq³	V;PROSP;SG;2	ktyinq²⁰	ktyinq²
+skwan⁴	V;PROSP;SG;2	xkwan⁴²	xkwan⁴
+nxi²	V;PROSP;SG;2	kxin¹	kxin¹
+nsuq³	V;PROSP;SG;2	ksuq²⁰	ksuq²⁰
+qnyi¹	V;PROSP;SG;2	knyi⁴⁰	knyi⁴⁰
+nkonq⁴²	V;PROSP;SG;2	konq⁴²	konq⁴²⁰
+nda³	V;PROSP;SG;2	ta⁴²	tya²⁰
+ndywiq³	V;PROSP;SG;2	tywiq²⁰	tywiq²⁰
+xla³	V;PROSP;SG;2	xla¹	xla¹⁰
+lqa³	V;PROSP;SG;2	qa²⁰	qa²⁰⁰
+nton⁴²	V;PROSP;SG;2	kton²⁰	kton²⁰
+swi²⁰	V;PROSP;SG;2	swi⁴²	swi⁴²²
+yta⁴	V;PROSP;SG;2	kta⁴²	kta⁴²
+styi¹	V;PROSP;SG;2	styi⁴²	styi⁴²
+nchuq⁴	V;PROSP;SG;2	kchonq⁴²	kchonq
+sta¹	V;PROSP;SG;2	sta⁴²	sta⁴²
+ntyjyuq¹	V;PROSP;SG;2	kyjyuq⁴²	kyjyuq⁴²
+ntykwan¹⁴	V;PROSP;SG;2	tykwan²⁰	tykwan²⁰
+skwan²	V;PROSP;SG;2	xkwan¹	xkwan¹
+nyi¹⁴	V;PROSP;SG;2	nyi²⁰	nyi²⁰⁰
+sqwi¹⁴	V;PROSP;SG;2	sqwi²⁰	sqwi²⁰
+xku²⁰	V;PROSP;SG;2	xku⁴²	xku⁴²¹
+ntykaq¹	V;PROSP;SG;2	tykaq⁴²	tykaq⁴²
+xtya²⁰	V;PROSP;SG;2	xtya⁴²	xtya⁴²
+xti²⁰	V;PROSP;SG;2	xti⁴²	xti⁴²q
+nduq⁴²	V;PROSP;SG;2	tyuq⁴²	tyuq⁴²
+jlyo³²	V;PROSP;SG;2	jlyo³²	jlyo³²
+sen⁴²	V;PROSP;SG;2	ksen⁴²	ksen⁴²
+ykwaq⁴	V;PROSP;SG;2	tykwaq⁴²	kykwaq
+jinyiq²	V;PROSP;SG;2	jnyiq²⁰	jnyiq²⁰
+qen⁴²	V;PROSP;SG;2	qe⁴²	qe⁴i⁴²
+ntyjanq²	V;PROSP;SG;2	tyjanq²⁰	tyjanq²⁰
+kwa¹⁴	V;HAB;SG;1	ntykwan⁴⁰	ntywna⁴
+sna³	V;HAB;SG;1	nxnan⁴⁰	nxnan⁴⁰
+yja¹	V;HAB;SG;1	ntyjan⁴	ntyjan⁴
+nten³	V;HAB;SG;1	nten⁴⁰	nten⁴⁰⁴
+lu¹	V;HAB;SG;1	nlon⁴	nlon⁴⁴⁰
+skonq³	V;HAB;SG;1	ntkonq⁴⁰	ntkonq⁴⁰
+ntsiq³	V;HAB;SG;1	ntsenq⁴⁰	ntsenq⁴⁰
+yqan⁴²	V;HAB;SG;1	ntyqan²⁴	ntyqan⁴⁴
+ja¹	V;HAB;SG;1	ntjan⁴	ntjann⁴
+ykuq²	V;HAB;SG;1	ntykonq²⁰	ntyknq²
+ntqan¹	V;HAB;SG;1	ntqan⁴	ntqan⁴³²
+xin⁴²	V;HAB;SG;1	nxin⁴²	nxin⁴²⁴
+ntykonq⁴²	V;HAB;SG;1	ntykonq²⁴	ntykonq²⁴
+ston⁴²	V;HAB;SG;1	nston⁴	nston⁴⁰⁴
+lya¹⁴	V;HAB;SG;1	nlyan⁴⁰	nlyan⁴⁰
+ncha¹	V;HAB;SG;1	nchan⁴	nchan⁴⁴
+swenq³	V;HAB;SG;1	nswenq⁴⁰	nswenq⁴⁰
+qne⁴²	V;HAB;SG;1	nqnen²⁰	nqnen²⁰
+yla³	V;HAB;SG;1	ndlan⁴⁰	ndyann⁰
+skwen¹	V;HAB;SG;1	nskwen⁴	nskwennq
+la¹	V;HAB;SG;1	nlan⁴	nlaa⁴⁴q
+ji¹	V;HAB;SG;1	ntyjin⁴	ntyjin⁴
+sqan¹	V;HAB;SG;1	ntsqan⁴	ntsqan⁴
+sne³	V;HAB;SG;1	nsnen⁴⁰	nsnen⁴⁰
+lkwi¹	V;HAB;SG;1	ntykwen⁴	ntykwen
+skanq³	V;HAB;SG;1	ntskanq⁴⁰	ntkkaq⁴⁰
+ntaq³	V;HAB;SG;1	ntanq⁴⁰	ntanqq²
+qu¹⁴	V;HAB;SG;1	ntqon⁴⁰	ntqan⁴⁰
+nkqwa¹	V;HAB;SG;1	ntyqwan⁴	ntyqwan⁴
+xta¹	V;HAB;SG;1	nxstan⁴⁰	nxstan⁴
+ykwenq¹	V;HAB;SG;1	ntykwenq⁴	ntykwenq
+nlyu¹	V;HAB;SG;1	nlyon³²	nlyon³²
+nden⁴²	V;HAB;SG;1	nden⁴	nden⁴⁴n⁴
+nkin²	V;HAB;SG;1	ntykin⁴⁰	ntykin⁴
+ytsen⁴²	V;HAB;SG;1	ntsen⁴	ntsen⁴⁴q
+xin²	V;HAB;SG;1	nxin⁴⁰	nxin⁴⁰²
+nkwi¹	V;HAB;SG;1	ntykwen²⁰	ntykwen
+naq¹	V;HAB;SG;1	nnanq⁴	nnanq⁴²
+kwi¹	V;HAB;SG;1	ndywen²⁰	ndywen²
+stan¹⁴	V;HAB;SG;1	nstan⁴⁰	nstan⁴⁴⁴
+ytiq⁴	V;HAB;SG;1	ntyinq²⁰	ntyinq²
+nton³	V;HAB;SG;1	ntyon⁴⁰	ntyon⁴⁰
+nglu³	V;HAB;SG;1	nglon⁴⁰	nglon⁴⁰
+ywi⁴²	V;HAB;SG;1	ntjwen⁴	ntjwen⁴
+kwan¹	V;HAB;SG;1	ntkwan⁴	ntywan⁴
+ylu³	V;HAB;SG;1	ndylon⁴⁰	ndylon⁴
+ykwiq⁴	V;HAB;SG;1	ntykwenq²⁰	ntykwenq
+jlya⁴²	V;HAB;SG;1	ntjlyan²⁴	ntjlyan²
+qne¹	V;HAB;SG;1	nqnen⁴	nqnen⁴²
+qan⁴	V;HAB;SG;1	ntyqan²⁰	ntyqan²
+qa²⁴	V;HAB;SG;1	ntqan²⁴	ntqan²⁴
+ntiqi¹	V;HAB;SG;1	ntqen⁴	ntqen⁴q²
+sqwe²⁴	V;HAB;SG;1	nsqwen¹⁴	nsqwen¹⁴
+nchaq⁴²	V;HAB;SG;1	nchanq⁴	nchanq⁴⁴
+sqi²	V;HAB;SG;1	nchsqin⁴⁰	nchsqnn
+yqo²	V;HAB;SG;1	ntyqon²⁰	ntyqo⁴²
+ndyu²	V;HAB;SG;1	ndyon⁴⁰	ndyon⁴⁰
+yjoq⁴	V;HAB;SG;1	ntyjonq²⁰	ntyjonq
+sqya¹	V;HAB;SG;1	nxqyan⁴	ntqyan⁴
+sen¹	V;HAB;SG;1	nsen⁴	nsen⁴⁴⁴
+nchin¹	V;HAB;SG;1	nchin⁴	nchin⁴⁴⁰
+jwi³	V;HAB;SG;1	ntyjin⁴⁰	ntyjin⁴
+qya³	V;HAB;SG;1	ntyqyan⁴⁰	ntyqyan
+naq¹⁴	V;HAB;SG;1	nnyanq⁴⁰	nnyan⁴⁴
+yo²	V;HAB;SG;1	ndyon²⁰	ndyon²⁰
+ngwa²	V;HAB;SG;1	ndygan²⁴	ndygan²
+nkya⁴²	V;HAB;SG;1	ngyan²⁰	ntyan²q⁴
+nti¹	V;HAB;SG;1	nten⁴	ntyn⁴⁴⁴
+ntyi¹	V;HAB;SG;1	ntyin⁴	ntyin⁴n
+sqwa¹⁴	V;HAB;SG;1	nsqwan⁴⁰	nsqwan⁴⁰
+ntyja²	V;HAB;SG;1	ntyjan⁴⁰	ntyjan⁴⁰
+xka²⁴	V;HAB;SG;1	nxkan²⁴	nxkan²⁴
+sne¹⁴	V;HAB;SG;1	nsnen⁴⁰	nsnen⁴⁰
+xlyu⁴²	V;HAB;SG;1	nxlyon⁴	nxlyon²⁰
+ntyqya¹	V;HAB;SG;1	ntyqyan⁴	ntyqyan⁴
+nna¹	V;HAB;SG;1	nnan⁴	nnann⁴⁰
+ykwanq¹	V;HAB;SG;1	ntykwanq⁴	ntykwanq
+yqwe²	V;HAB;SG;1	ntyqwen⁴⁰	ntyqwnn
+ntsu⁴²	V;HAB;SG;1	ntson⁴²	ntson⁴²⁰
+skwaq¹	V;HAB;SG;1	nchkwanq⁴	nchkwanq
+nxin⁴²	V;HAB;SG;1	nxin⁴	nxin⁴⁰⁴⁴
+slu¹⁴	V;HAB;SG;1	nslon⁴⁰	nslon⁴⁴
+nkwa³	V;HAB;SG;1	ntkwan⁴⁰	ntywan⁴
+ngon²	V;HAB;SG;1	ndgon⁴⁰	ndgon⁴²
+nkqwa⁴²	V;HAB;SG;1	ntyqwan²⁴	ntyqwan²
+ndya³	V;HAB;SG;1	ndyan³	ndyan³⁴
+ntqen¹	V;HAB;SG;1	ntyqin³²	ntyqin³²
+ntsen⁴²	V;HAB;SG;1	ntsen⁴	ntsen⁴⁴a
+ngya⁴²	V;HAB;SG;1	nkyqan²⁴	nkyqan²⁴
+ndlyu⁴²	V;HAB;SG;1	ndlyon⁴²	ndlyon⁴²
+ndyi⁴	V;HAB;SG;1	ndyin⁴	ndyin⁴⁰
+xtyiq¹⁰	V;HAB;SG;1	nxtenq⁴⁰	nxtenq⁴⁰
+xne¹⁰	V;HAB;SG;1	nxnen⁴⁰	nxnen⁴⁰
+snyaq¹	V;HAB;SG;1	nsnyanq⁴	nsnyanq⁴
+xkwen¹⁴	V;HAB;SG;1	nxkwen⁴⁰	nxkwen⁴⁰
+ne⁴²	V;HAB;SG;1	nnen¹⁴	nnen¹⁴⁴
+ntyinq³	V;HAB;SG;1	ntyinq⁴⁰	ntyinq⁴⁰
+ylaq⁴	V;HAB;SG;1	nlyanq²⁰	nlyanq²
+nxi²	V;HAB;SG;1	nxin⁴⁰	nxin⁴⁰q
+ntsa²⁴	V;HAB;SG;1	ntsan⁴²	ntsan⁴²⁰
+qnyi¹	V;HAB;SG;1	nqnin⁴	nqnin⁴n
+xoq²	V;HAB;SG;1	nxonq⁴⁰	nxonq⁴⁰
+nkonq⁴²	V;HAB;SG;1	ntkonq²⁴	ntkonq²⁴
+son³	V;HAB;SG;1	nxon⁴	nxon⁴⁴⁰
+xla³	V;HAB;SG;1	nchlan³	nxlaan⁴
+lqa³	V;HAB;SG;1	nt/lyxqan⁴⁰	nt/lyx⁴
+nton⁴²	V;HAB;SG;1	ntyon⁴⁰	ntyon⁴⁰⁴
+ntqo¹	V;HAB;SG;1	ntyqon²⁰	ntyqon²
+swi²⁰	V;HAB;SG;1	nswen⁴	nswen⁴n
+styi¹	V;HAB;SG;1	nstyin⁴	nstyn⁴n
+nchuq⁴	V;HAB;SG;1	nchonq²⁰	nchonq²⁰
+xkuq²	V;HAB;SG;1	nxkonq²⁰	nxkonq²
+sta¹	V;HAB;SG;1	nstan⁴	nstan⁴⁰
+ya⁴²	V;HAB;SG;1	ntyqan²⁰	ntyqan²
+ntyjyuq¹	V;HAB;SG;1	ntyjyonq⁴	ntyjyonq
+ntykwan¹⁴	V;HAB;SG;1	ntykwan⁴⁰	ntykwan⁴⁰
+nyi¹⁴	V;HAB;SG;1	nnyin⁴⁰	nnyin⁴⁰
+ntykaq¹	V;HAB;SG;1	ntykanq⁴	ntykanq⁴
+xtya²⁰	V;HAB;SG;1	nxtyan²⁰	nxtyan²⁰
+yqu²	V;HAB;SG;1	ntyqon⁴⁰	ntyqon⁴
+nduq⁴²	V;HAB;SG;1	ndyonq²⁴	ndyonq²⁴
+ykwaq⁴	V;HAB;SG;1	ntykwanq⁴	ntykwanq
+qen⁴²	V;HAB;SG;1	ntqen²⁴	ntqen²⁴

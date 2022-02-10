@@ -1,0 +1,15 @@
+hnọ²ʔtse	V;PRF;2;PST	xkí hnọʔtse	xkí hnọʔts
+häʔti	V;PRF;SG;1;PRS	stá häʔti	stá häʔti
+he²te	V;IPFV;SG;2;PST	ngí hete	ngí hete
+naʔti	V;IPFV;SG;2;PST	ngí naʔti	ngí naʔt
+ʔua²m-t’ä¹²hä	V;PRF;SG;3;PRS	xa ʔuamt’ähä	xa dẹhitheie
+jo¹²ni	V;IPFV;SG;1;PRS	dí joni	dí jonii
+pẹ¹²hni	V;IPFV;SG;3;PRS	pẹhni	pẹhhni
+tsọ²ni	V;IPFV;SG;3;PRS	tsọni	tsọni
+xängi	V;IPFV;SG;3;PRS	xängi	xäni
+ʔba¹²xni	V;IPFV;SG;3;PRS	ʔbaxni	ʔbaxxn
+ña²ti	V;IPFV;SG;3;PST	mí ñati	mí ñati
+tọ²ʔtse	V;IPFV;SG;2;PRS	gí tọʔtse	gí tọʔtse
+ue²n-t’ẹi	V;PRF;3;PST	xki uent’ẹi	xki uenttẹi
+hmäi	V;IPFV;SG;1;PST	ndí hmäi	ndí hmäi
+xei	V;PFV;SG;2	gá xei	gá xei

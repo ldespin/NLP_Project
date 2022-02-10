@@ -1,0 +1,15 @@
+sala	V;SG;1;PST+RMT	ngasala	ngasala
+ngena	V;SG;1;PST+RMT	ngangena	nganhena
+zi	V;SG;1;PST+RMT	ngazi	ngazi
+cula	V;SG;1;PST+RMT	ngacula	ngacula
+thatha	V;SG;1;PST+RMT	ngathatha	ngathanla
+hlala phansi	V;SG;1;FUT	ngiyohlala phansi	ngiyobwaziuisaba
+nza	V;SG;1;FUT	ngiyokwenza	ngiyokwdn
+lahlekelwa	V;SG;1;FUT+IMMED	ngizolahlekelwa	ngizokubauhelaa
+chasisa	V;SG;1;PST+RCT	ngichasise	ngeyhasege
+hlala phansi	V;SG;1;PST+RCT	ngihlale phansi	ngihlalehukeaaa
+ba	V;SG;1;PRS	ngiba	ngilak
+qonda	V;SG;1;PRS	ngiyaqonda	ngilakwaz
+lalela	V;SG;1;PRS	ngilalela	ngiyezand
+wa	V;SG;1;PRS	ngiwa	ngilak
+phuma	V;SG;1;PRS	ngiphuma	ngilakwaz

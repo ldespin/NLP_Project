@@ -1,0 +1,844 @@
+istar	V;NFIN	istar	istar
+tudlo	V;NFIN	tudlo	tudlo
+tapos	V;NFIN	tapos	tapos
+higda	V;NFIN	higda	higda
+baligya	V;NFIN	baligya	balig
+tuon	V;NFIN	tuon	tuong
+tabo/katabo	V;NFIN	tabo	tabosm
+agda	V;NFIN	agda	agdao
+paathag	V;NFIN	paathag	paath
+hular	V;NFIN	hular	hular
+higugma/higugmaon	V;NFIN	higugma	higugma
+byahe	V;NFIN	byahe	byahe
+pamangkot	V;NFIN	pamangkot	pamang
+pili	V;NFIN	pili	pilia
+basa	V;NFIN	basa	basan
+gamit	V;NFIN	gamit	gamit
+daw	V;NFIN	daw	dawla
+bakal	V;NFIN	bakal	bakal
+kanta	V;NFIN	kanta	kanta
+tawag	V;NFIN	tawag	tawag
+baton	V;NFIN	baton	baton
+maneho	V;NFIN	maneho	maneh
+talupangdan/talupangod/talupangdon	V;NFIN	talupangdan	talupangd
+sugod	V;NFIN	sugod	sugod
+uyat/uyatan	V;NFIN	uyat	uyatga
+balik	V;NFIN	balik	balik
+ginhawa	V;NFIN	ginhawa	ginha
+singgit	V;NFIN	singgit	singg
+hibalo/hibaluan	V;NFIN	hibalo	hibalok
+saot	V;NFIN	saot	saotn
+kallimtan	V;NFIN	kallimtan	kallim
+mangin/nangin	V;NFIN	mangin	mangin
+kuha	V;NFIN	kuha	kuhar
+dugang	V;NFIN	dugang	dugan
+sabat	V;NFIN	sabat	sabat
+pakita	V;NFIN	pakita	pakit
+halok/halukan	V;NFIN	halok	halokm
+bulig/buligan	V;NFIN	bulig	buligg
+pungko	V;NFIN	pungko	pungk
+pakilala	V;NFIN	pakilala	pakil
+obra	V;NFIN	obra	obrag
+kadlaw	V;NFIN	kadlaw	kadla
+tandog	V;NFIN	tandog	tando
+kita	V;NFIN	kita	kitan
+kado	V;NFIN	kado	kadoi
+hampang	V;NFIN	hampang	hampa
+bati/batian/pamatian	V;NFIN	bati	batihan
+batyag	V;NFIN	batyag	batya
+abot	V;NFIN	abot	abote
+kaon	V;NFIN	kaon	kaoni
+pamati	V;NFIN	pamati	pamat
+tindog	V;NFIN	tindog	tindo
+tan-aw	V;NFIN	tan-aw	tan-a
+patay/tagumatayon	V;NFIN	patay	patayol
+nagon	V;NFIN	nagon	nagon
+buka	V;NFIN	buka	bukal
+gua	V;NFIN	gua	guang
+siling	V;NFIN	siling	silin
+hatag	V;NFIN	hatag	hatag
+patay	V;NFIN	patay	patay
+himo	V;NFIN	himo	himod
+luto	V;NFIN	luto	luton
+kita/pangita	V;NFIN	kita	kitain
+kinahanglan	V;NFIN	kinahanglan	kinaha
+hulog/kahulog	V;NFIN	hulog	huloga
+maka/naka	V;NFIN	maka	makata
+sarang	V;NFIN	sarang	saran
+na/naga	V;NFIN	na	naont
+istar	V;PRF;FUT	magaistar na	magaistar na
+dalagan	V;PRF;FUT	magadalagan na	magadalagan 
+tudlo	V;PRF;FUT	magatudlo na	magatudlo na
+desisyon	V;PRF;FUT	magadesisyon na	magadesisyon
+tapos	V;PRF;FUT	magataps na	magataps na 
+higda	V;PRF;FUT	magahigda na	magahigda na
+tuon	V;PRF;FUT	magatuon na	magatuon naa
+tabo/katabo	V;PRF;FUT	matabo na	matabo nannan
+agda	V;PRF;FUT	magaagda na	magaagda naa
+paathag	V;PRF;FUT	magapaathag na	magapaathag 
+byahe	V;PRF;FUT	magabyahe na	magabyahe na
+pamangkot	V;PRF;FUT	magapamangkot na	magapamangko
+pili	V;PRF;FUT	magapili na	magapili nan
+basa	V;PRF;FUT	magabasa na	magabasa nag
+gamit	V;PRF;FUT	magagamit na	magagamit na
+lupad	V;PRF;FUT	magalupad na	magalupad na
+kanta	V;PRF;FUT	magakanta na	magakanta na
+tawag	V;PRF;FUT	magatawag na	magatawag na
+baton	V;PRF;FUT	magabaton na	magabaton na
+maneho	V;PRF;FUT	magamaneho na	magamaneho n
+talupangdan/talupangod/talupangdon	V;PRF;FUT	matalupangdan na	matalupangdan n
+uyat/uyatan	V;PRF;FUT	magauyat na	magauyat naot
+istorya	V;PRF;FUT	magaistorya na	magaistorya 
+balik	V;PRF;FUT	magabalik na	magabalik na
+singgit	V;PRF;FUT	magasinggit na	magasinggit 
+buksan	V;PRF;FUT	pagabuksan na	pagabuksan n
+dula	V;PRF;FUT	madula na	madula nanan
+inom	V;PRF;FUT	magainom na	magainom naa
+mangin/nangin	V;PRF;FUT	mangin	manginpnagana
+kuha	V;PRF;FUT	magakuha na	magakuha na 
+gustuhan	V;PRF;FUT	magustuhan na	magustuhan n
+dugang	V;PRF;FUT	magadugang na	magadugang n
+sabat	V;PRF;FUT	magasabat na	magasabat na
+sugata	V;PRF;FUT	magasugata na	magasugata n
+pakita	V;PRF;FUT	magapakita na	magapakita n
+bulig/buligan	V;PRF;FUT	magabulig na	magabulig na 
+pakilala	V;PRF;FUT	magapakilala na	magapakilala
+hangop/hangpan	V;PRF;FUT	mahangpan na	mahangpan nan
+padala	V;PRF;FUT	magapadala na	magapadala n
+butang	V;PRF;FUT	magabutang na	magabutang n
+kadlaw	V;PRF;FUT	magakadlaw na	magakadlaw n
+kita	V;PRF;FUT	makita na	makita na na
+hampang	V;PRF;FUT	magahampang na	magahampang 
+sulit	V;PRF;FUT	magasulit na	magasulit na
+abot	V;PRF;FUT	magaabot na	magaabot naa
+kaon	V;PRF;FUT	magakaon na	magakaon naa
+pamati	V;PRF;FUT	magapamati na	magapamati n
+tindog	V;PRF;FUT	magatindog na	magatindog n
+patay/tagumatayon	V;PRF;FUT	mapatay na	mapatay naan 
+hibi	V;PRF;FUT	magahibi na	magahibi nan
+daog	V;PRF;FUT	magadaog na	magadaog naa
+sira	V;PRF;FUT	magasira na	magasira naa
+sulat	V;PRF;FUT	magasulat na	magasulat na
+lakat	V;PRF;FUT	magalakat na	magalakat na
+nagon	V;PRF;FUT	maganagon na	maganagon na
+buka	V;PRF;FUT	pagabuka na	pagabuka nan
+gua	V;PRF;FUT	magagua na	magagua naan
+hatag	V;PRF;FUT	magahatag na	magahatag na
+patay	V;PRF;FUT	magapatay na	magapatay na
+himo	V;PRF;FUT	magahimo na	magahimo naa
+luto	V;PRF;FUT	magaluto na	magaluto nan
+kita/pangita	V;PRF;FUT	magapangita na	magapangita n
+kinahanglan	V;PRF;FUT	magakinahanglan na	magakinahangl
+istar	V;PRF+PROG;PST	nagistar pa	nagistar pa
+dalagan	V;PRF+PROG;PST	nagdalagan pa	nagdalagan p
+desisyon	V;PRF+PROG;PST	nagdesisyon pa	nagdesisyon 
+tapos	V;PRF+PROG;PST	gintapos pa	gintapos pa
+baligya	V;PRF+PROG;PST	nagbaligya pa	nagbaligya p
+tuon	V;PRF+PROG;PST	nagtuon pa	nagtuon paa
+tabo/katabo	V;PRF+PROG;PST	natabo pa	natabo panp 
+agda	V;PRF+PROG;PST	gin-agda pa	gin-agda pa
+paathag	V;PRF+PROG;PST	nagpaathag pa	nagpaathag p
+yuhom	V;PRF+PROG;PST	nagyuhom pa	nagyuhom pa
+hular	V;PRF+PROG;PST	naghular pa	naghular pa
+pamangkot	V;PRF+PROG;PST	nagpamangkot pa	nagpamangkot
+pili	V;PRF+PROG;PST	nagpili pa	nagpili pao
+gamit	V;PRF+PROG;PST	naggamit pa	naggamit pa
+lupad	V;PRF+PROG;PST	naglupad pa	naglupad pa
+bakal	V;PRF+PROG;PST	nagbakal pa	nagbakal pa
+kanta	V;PRF+PROG;PST	nagkanta pa	nagkanta pa
+tawag	V;PRF+PROG;PST	nagtawag pa	nagtawag pa
+baton	V;PRF+PROG;PST	ginbaton pa	ginbaton pa
+maneho	V;PRF+PROG;PST	nagmaneho pa	nagmaneho p
+talupangdan/talupangod/talupangdon	V;PRF+PROG;PST	gintalupangod pa	gintalupangod pa-
+sugod	V;PRF+PROG;PST	nagsugod pa	nagsugod pa
+uyat/uyatan	V;PRF+PROG;PST	gin-uyatan pa	gin-uyatan p
+balik	V;PRF+PROG;PST	nagbalik pa	nagbalik pa
+hibalo/hibaluan	V;PRF+PROG;PST	ginhibalo pa	ginhibalo paa
+buksan	V;PRF+PROG;PST	ginbuksan pa	ginbuksan p
+dula	V;PRF+PROG;PST	gindula pa	gindula pap
+saot	V;PRF+PROG;PST	nagsaot pa	nagsaot paa
+kallimtan	V;PRF+PROG;PST	ginkallimtan pa	ginkallimtan
+hunahuna	V;PRF+PROG;PST	naghunahuna pa	naghunahuna 
+inom	V;PRF+PROG;PST	nag-inom pa	nag-inom pa
+mangin/nangin	V;PRF+PROG;PST	nangin	nanginpanognd
+kuha	V;PRF+PROG;PST	nagkuha pa	nagkuha paa
+sugata	V;PRF+PROG;PST	nagsugata pa	nagsugata p
+pakita	V;PRF+PROG;PST	nagpakita pa	nagpakita p
+halok/halukan	V;PRF+PROG;PST	ginhalukan pa	ginhalukan pa
+padala	V;PRF+PROG;PST	nagpadala pa	nagpadala p
+butang	V;PRF+PROG;PST	nagbutang pa	nagbutang p
+tandog	V;PRF+PROG;PST	nagtandog pa	nagtandog p
+kita	V;PRF+PROG;PST	nakita pa	nakita papa
+kado	V;PRF+PROG;PST	nagkado pa	nagkado paa
+hampang	V;PRF+PROG;PST	naghampang pa	naghampang p
+bati/batian/pamatian	V;PRF+PROG;PST	ginpamatian pa	ginpamatian pa
+sulit	V;PRF+PROG;PST	ginsulit pa	ginsulit pa
+abot	V;PRF+PROG;PST	nag-abot pa	nag-abot pa
+kaon	V;PRF+PROG;PST	nagkaon pa	nagkaon paa
+pamati	V;PRF+PROG;PST	nagpamati pa	nagpamati p
+tan-aw	V;PRF+PROG;PST	nagtan-aw pa	nagtan-aw p
+patay/tagumatayon	V;PRF+PROG;PST	nagtagumatayon pa	nagtagumatayon
+kabuhi	V;PRF+PROG;PST	nagkabuhi pa	nagkabuhi p
+hibi	V;PRF+PROG;PST	naghibi pa	naghibi pa 
+daog	V;PRF+PROG;PST	nag-daog pa	nag-daog pa
+sira	V;PRF+PROG;PST	ginsira pa	ginsira pap
+sulat	V;PRF+PROG;PST	nagsulat pa	nagsulat pa
+lakat	V;PRF+PROG;PST	naglakat pa	naglakat pa
+tulog	V;PRF+PROG;PST	nagtulog pa	nagtulog pa
+nagon	V;PRF+PROG;PST	nagnagon pa	nagnagon pa
+dumdom	V;PRF+PROG;PST	gindumdom pa	gindumdom p
+gua	V;PRF+PROG;PST	naggua pa	naggua paaa
+siling	V;PRF+PROG;PST	nagsiling pa	nagsiling p
+hatag	V;PRF+PROG;PST	naghatag pa	naghatag pa
+patay	V;PRF+PROG;PST	ginpatay pa	ginpatay pa
+himo	V;PRF+PROG;PST	naghimo pa	naghimo paa
+luto	V;PRF+PROG;PST	nagluto pa	nagluto paa
+hulog/kahulog	V;PRF+PROG;PST	nakagahulog pa	nakagahulog p
+istar	V;PRF+PROG;FUT	magaistar pa	magaistar pa
+dalagan	V;PRF+PROG;FUT	magadalagan pa	magadalagan 
+desisyon	V;PRF+PROG;FUT	magadesisyon pa	magadesisyon
+tapos	V;PRF+PROG;FUT	magataps pa	magataps pap
+higda	V;PRF+PROG;FUT	magahigda pa	magahigda pa
+tuon	V;PRF+PROG;FUT	magatuon pa	magatuon pap
+tabo/katabo	V;PRF+PROG;FUT	matabo pa	matabo pap p
+paathag	V;PRF+PROG;FUT	magapaathag pa	magapaathag 
+yuhom	V;PRF+PROG;FUT	magayuhom pa	magayuhom pa
+hular	V;PRF+PROG;FUT	magahular pa	magahular pa
+byahe	V;PRF+PROG;FUT	magabyahe pa	magabyahe pa
+pili	V;PRF+PROG;FUT	magapili pa	magapili paa
+basa	V;PRF+PROG;FUT	magabasa pa	magabasa paa
+hambal	V;PRF+PROG;FUT	magahambal pa	magahambal p
+gamit	V;PRF+PROG;FUT	magagamit pa	magagamit pa
+lupad	V;PRF+PROG;FUT	magalupad pa	magalupad pa
+away	V;PRF+PROG;FUT	magaaway pa	magaaway paa
+bakal	V;PRF+PROG;FUT	magabakal pa	magabakal pa
+baton	V;PRF+PROG;FUT	magabaton pa	magabaton pa
+maneho	V;PRF+PROG;FUT	magamaneho pa	magamaneho p
+talupangdan/talupangod/talupangdon	V;PRF+PROG;FUT	pagatalupangdon pa	pagatalupangdon
+sugod	V;PRF+PROG;FUT	magasugod pa	magasugod pa
+uyat/uyatan	V;PRF+PROG;FUT	magauyat pa	magauyat pap
+balik	V;PRF+PROG;FUT	magabalik pa	magabalik pa
+singgit	V;PRF+PROG;FUT	magasinggit pa	magasinggit 
+hibalo/hibaluan	V;PRF+PROG;FUT	mahibaluan pa	mahibaluan pa
+dula	V;PRF+PROG;FUT	madula pa	madula pa pa
+hunahuna	V;PRF+PROG;FUT	magahunahuna pa	magahunahuna
+mangin/nangin	V;PRF+PROG;FUT	mangin	manginon pag 
+dugang	V;PRF+PROG;FUT	magadugang pa	magadugang p
+pakita	V;PRF+PROG;FUT	magapakita pa	magapakita p
+bulig/buligan	V;PRF+PROG;FUT	magabulig pa	magabulig pap
+pungko	V;PRF+PROG;FUT	magapungko pa	magapungko p
+hangop/hangpan	V;PRF+PROG;FUT	mahangpan pa	mahangpan paa
+padala	V;PRF+PROG;FUT	magapadala pa	magapadala p
+obra	V;PRF+PROG;FUT	magaobra pa	magaobra pap
+kita	V;PRF+PROG;FUT	makita pa	makita pala 
+kado	V;PRF+PROG;FUT	magakado pa	magakado pa 
+hampang	V;PRF+PROG;FUT	magahampang pa	magahampang 
+sulit	V;PRF+PROG;FUT	magasulit pa	magasulit pa
+kaon	V;PRF+PROG;FUT	magakaon pa	magakaon pa 
+tindog	V;PRF+PROG;FUT	magatindog pa	magatindog p
+tan-aw	V;PRF+PROG;FUT	magatan-aw pa	magatan-aw p
+patay/tagumatayon	V;PRF+PROG;FUT	mapatay pa	mapatay papap
+kabuhi	V;PRF+PROG;FUT	magakabuhi pa	magakabuhi p
+hibi	V;PRF+PROG;FUT	magahibi pa	magahibi pap
+sira	V;PRF+PROG;FUT	magasira pa	magasira pap
+lakat	V;PRF+PROG;FUT	magalakat pa	magalakat pa
+tulog	V;PRF+PROG;FUT	magatulog pa	magatulog pa
+nagon	V;PRF+PROG;FUT	maganagon pa	maganagon pa
+dumdom	V;PRF+PROG;FUT	magadumdom pa	magadumdom p
+siling	V;PRF+PROG;FUT	magasiling pa	magasiling p
+buhin	V;PRF+PROG;FUT	magabuhin pa	magabuhin pa
+himo	V;PRF+PROG;FUT	magahimo pa	magahimo pap
+luto	V;PRF+PROG;FUT	magaluto pa	magaluto pap
+kita/pangita	V;PRF+PROG;FUT	magapangita pa	magapangita p
+hulog/kahulog	V;PRF+PROG;FUT	mahulog pa	mahulog paan 
+istar	V;PRF;PST	nagistar na	nagistar na
+tudlo	V;PRF;PST	nagtudlo na	nagtudlo na
+desisyon	V;PRF;PST	nagdesisyon na	nagdesisyon
+higda	V;PRF;PST	naghigda na	naghigda na
+tabo/katabo	V;PRF;PST	natabo na	natabo naad 
+agda	V;PRF;PST	gin-agda na	gin-agda na
+yuhom	V;PRF;PST	nagyuhom na	nagyuhom na
+hular	V;PRF;PST	naghular na	naghular na
+higugma/higugmaon	V;PRF;PST	ginhigugma na	ginhigugma na
+byahe	V;PRF;PST	nagbyahe na	nagbyahe na
+pamangkot	V;PRF;PST	nagpamangkot na	nagpamangkot
+pili	V;PRF;PST	nagpili na	nagpili naa
+basa	V;PRF;PST	nagbasa na	nagbasa naa
+hambal	V;PRF;PST	naghambal na	naghambal n
+gamit	V;PRF;PST	naggamit na	naggamit na
+lupad	V;PRF;PST	naglupad na	naglupad na
+daw	V;PRF;PST	daw	dawula nag 
+bakal	V;PRF;PST	nagbakal na	nagbakal na
+kanta	V;PRF;PST	nagkanta na	nagkanta na
+tawag	V;PRF;PST	nagtawag na	nagtawag na
+baton	V;PRF;PST	ginbaton na	ginbaton na
+maneho	V;PRF;PST	nagmaneho na	nagmaneho n
+talupangdan/talupangod/talupangdon	V;PRF;PST	natalupangdan na	natalupangdan n
+sugod	V;PRF;PST	nagsugod na	nagsugod na
+balik	V;PRF;PST	nagbalik na	nagbalik na
+ginhawa	V;PRF;PST	nagginhawa na	nagginhawa 
+singgit	V;PRF;PST	nagsinggit na	nagsinggit 
+hibalo/hibaluan	V;PRF;PST	nahibaluan na	nahibaluan na
+buksan	V;PRF;PST	ginbuksan na	ginbuksan n
+dula	V;PRF;PST	nadula na	nadula nak 
+hunahuna	V;PRF;PST	naghunahuna na	naghunahuna
+mangin/nangin	V;PRF;PST	nangin	nanginhnanat
+kuha	V;PRF;PST	nagkuha na	nagkuha naa
+dugang	V;PRF;PST	nagdugang na	nagdugang n
+sabat	V;PRF;PST	ginsabat na	ginsabat na
+sugata	V;PRF;PST	nagsugata na	nagsugata n
+pakita	V;PRF;PST	nagpakita na	nagpakita n
+halok/halukan	V;PRF;PST	ginhalukan na	ginhalukan n
+bulig/buligan	V;PRF;PST	ginbuligan na	ginbuligan n
+pungko	V;PRF;PST	nagpungko na	nagpungko n
+hangop/hangpan	V;PRF;PST	nahangpan na	nahangpan na
+padala	V;PRF;PST	nagpadala na	nagpadala n
+obra	V;PRF;PST	nagobra na	nagobra naa
+butang	V;PRF;PST	nagbutang na	nagbutang n
+aku	V;PRF;PST	gin-aku na	gin-aku nan
+tandog	V;PRF;PST	nagtandog na	nagtandog n
+kado	V;PRF;PST	nagkado na	nagkado nag
+hampang	V;PRF;PST	naghampang na	naghampang 
+bati/batian/pamatian	V;PRF;PST	nabatian na	nabatian nala
+sulit	V;PRF;PST	ginsulit na	ginsulit na
+batyag	V;PRF;PST	nagbatyag na	nagbatyag n
+kaon	V;PRF;PST	nagkaon na	nagkaon naa
+tindog	V;PRF;PST	nagtindog na	nagtindog n
+tan-aw	V;PRF;PST	nagtan-aw na	nagtan-aw n
+patay/tagumatayon	V;PRF;PST	naptay na	naptay naoa n
+kabuhi	V;PRF;PST	nagkabuhi na	nagkabuhi n
+daog	V;PRF;PST	nag-daog na	nag-daog na
+sira	V;PRF;PST	ginsira na	ginsira naa
+sulat	V;PRF;PST	nagsulat na	nagsulat na
+nagon	V;PRF;PST	nagnagon na	nagnagon na
+buka	V;PRF;PST	ginbuka na	ginbuka na 
+dumdom	V;PRF;PST	gindumdom na	gindumdom n
+gua	V;PRF;PST	naggua na	naggua na n
+siling	V;PRF;PST	nagsiling na	nagsiling n
+hatag	V;PRF;PST	naghatag na	naghatag na
+sulod	V;PRF;PST	nagsulod na	nagsulod na
+patay	V;PRF;PST	ginpatay na	ginpatay na
+kinahanglan	V;PRF;PST	nagkinahanglan na	nagkinahangl
+istar	V;PRS	nagaistar	nagaistar
+dalagan	V;PRS	nagadalagan	nagadalag
+tudlo	V;PRS	nagatudlo	nagatudlo
+desisyon	V;PRS	nagadesisyon	nagadesis
+tapos	V;PRS	ginatapos	ginatapos
+baligya	V;PRS	nagabaligya	nagabalig
+tuon	V;PRS	nagatuon	nagatuona
+agda	V;PRS	ginaagda	ginaagdaa
+paathag	V;PRS	nagapaathag	nagapaath
+yuhom	V;PRS	nagayuhom	nagayuhom
+hular	V;PRS	nagahular	nagahular
+higugma/higugmaon	V;PRS	ginahigugma	ginahigugma
+pili	V;PRS	nagapili	nagapilik
+basa	V;PRS	nagabasa	nagabasal
+hambal	V;PRS	nagahambal	nagahamba
+lupad	V;PRS	nagalupad	nagalupad
+away	V;PRS	nagaaway	nagaawayn
+bakal	V;PRS	nagabakal	nagabakal
+kanta	V;PRS	nagakanta	nagakanta
+tawag	V;PRS	nagatawag	nagatawag
+baton	V;PRS	ginabaton	ginabaton
+maneho	V;PRS	nagamaneho	nagamaneh
+talupangdan/talupangod/talupangdon	V;PRS	natalupangdan	natalupangdan
+sugod	V;PRS	nagasugod	nagasugod
+uyat/uyatan	V;PRS	ginauyatan	ginauyatan
+balik	V;PRS	nagabalik	nagabalik
+ginhawa	V;PRS	nagaginhawa	nagaginha
+singgit	V;PRS	nagasinggit	nagasingg
+hibalo/hibaluan	V;PRS	nakahibalo	nakahibalo
+buksan	V;PRS	ginabuksan	ginabuksa
+dula	V;PRS	nadula	nadulalag
+saot	V;PRS	nagasaot	nagasaotm
+mangin/nangin	V;PRS	mangin	manginlagi
+kuha	V;PRS	nagakuha	nagakuhaa
+gustuhan	V;PRS	nagustuhan	nagustuha
+dugang	V;PRS	nagadugang	nagadugan
+pakita	V;PRS	nagapakita	nagapakit
+bulig/buligan	V;PRS	ginabuligan	ginabuliga
+pungko	V;PRS	nagapungko	nagapungk
+pakilala	V;PRS	nagapakilala	nagapakil
+hangop/hangpan	V;PRS	nahangpan	nahangpanm
+padala	V;PRS	nagapadala	nagapadal
+obra	V;PRS	nagaobra	nagaobras
+kadlaw	V;PRS	nagakadlaw	nagakadla
+kita	V;PRS	nakita	nakitapaa
+kado	V;PRS	nagakado	nagakadom
+hampang	V;PRS	nagahampang	nagahampa
+sulit	V;PRS	ginasulit	ginasulit
+batyag	V;PRS	nagabatyag	nagabatya
+abot	V;PRS	nagaabot	nagaaboth
+kaon	V;PRS	nagakaon	nagakaons
+tindog	V;PRS	nagatindog	nagatindo
+tan-aw	V;PRS	nagatan-aw	nagatan-a
+patay/tagumatayon	V;PRS	napatay	napataydlog
+kabuhi	V;PRS	nagakabuhi	nagakabuh
+hibi	V;PRS	nagahibi	nagahibig
+daog	V;PRS	nagadaog	nagadaogd
+sira	V;PRS	ginasira	ginasirad
+sulat	V;PRS	nagasulat	nagasulat
+lakat	V;PRS	nagalakat	nagalakat
+buka	V;PRS	ginabuka	ginabukaa
+dumdom	V;PRS	ginadumdom	ginadumdo
+siling	V;PRS	nagasiling	nagasilin
+sulod	V;PRS	nagasulod	nagasulod
+buhin	V;PRS	nagabuhin	nagabuhin
+kita/pangita	V;PRS	nakita	nakitadlmw
+kinahanglan	V;PRS	nagakinahanglan	nagakinaha
+hulog/kahulog	V;PRS	nagakahulog	nagakahulo
+sarang	V;PRS	makasarang	makasaran
+istar	V;PRF+PROG;PRS	nagaistar pa	nagaistar pa
+dalagan	V;PRF+PROG;PRS	nagadalagan pa	nagadalagan p
+desisyon	V;PRF+PROG;PRS	nagadesisyon pa	nagadesisyon 
+tapos	V;PRF+PROG;PRS	ginatapos pa	ginatapos pa
+agda	V;PRF+PROG;PRS	ginaagda pa	ginaagda pap
+paathag	V;PRF+PROG;PRS	nagapaathag pa	nagapaathag p
+hular	V;PRF+PROG;PRS	nagahular pa	nagahular pa
+pamangkot	V;PRF+PROG;PRS	nagapamangkot pa	nagapamangkot
+pili	V;PRF+PROG;PRS	nagapili pa	nagapili pap
+basa	V;PRF+PROG;PRS	nagabasa pa	nagabasa pap
+hambal	V;PRF+PROG;PRS	nagahambal pa	nagahambal p
+gamit	V;PRF+PROG;PRS	nagagamit pa	nagagamit pa
+lupad	V;PRF+PROG;PRS	nagalupad pa	nagalupad pa
+away	V;PRF+PROG;PRS	nagaaway pa	nagaaway pa 
+kanta	V;PRF+PROG;PRS	nagakanta pa	nagakanta pa
+tawag	V;PRF+PROG;PRS	nagatawag pa	nagatawag pa
+baton	V;PRF+PROG;PRS	ginabaton pa	ginabaton pa
+talupangdan/talupangod/talupangdon	V;PRF+PROG;PRS	ginatalupangod pa	ginatalupangod pa---
+sugod	V;PRF+PROG;PRS	nagasugod pa	nagasugod pa
+uyat/uyatan	V;PRF+PROG;PRS	ginauyatan pa	ginauyatan pap
+balik	V;PRF+PROG;PRS	nagabalik pa	nagabalik pa
+ginhawa	V;PRF+PROG;PRS	nagaginhawa pa	nagaginhawa p
+saot	V;PRF+PROG;PRS	nagasaot pa	nagasaot paa
+kallimtan	V;PRF+PROG;PRS	ginakallimtan pa	ginakallimtan
+hunahuna	V;PRF+PROG;PRS	nagahunahuna pa	nagahunahuna 
+kuha	V;PRF+PROG;PRS	nagakuha pa	nagakuha pap
+dugang	V;PRF+PROG;PRS	nagadugang pa	nagadugang p
+sugata	V;PRF+PROG;PRS	nagasugata pa	nagasugata p
+halok/halukan	V;PRF+PROG;PRS	ginahalukan pa	ginahalukan pa
+bulig/buligan	V;PRF+PROG;PRS	ginabuligan pa	ginabuligan pa
+pungko	V;PRF+PROG;PRS	nagapungko pa	nagapungko p
+pakilala	V;PRF+PROG;PRS	nagapakilala pa	nagapakilala 
+obra	V;PRF+PROG;PRS	nagaobra pa	nagaobra pan
+butang	V;PRF+PROG;PRS	nagabutang pa	nagabutang p
+kadlaw	V;PRF+PROG;PRS	nagakadlaw pa	nagakadlaw p
+aku	V;PRF+PROG;PRS	ginaaku pa	ginaaku papa
+kita	V;PRF+PROG;PRS	nakita pa	nakita pa pa
+hampang	V;PRF+PROG;PRS	nagahampang pa	nagahampang p
+bati/batian/pamatian	V;PRF+PROG;PRS	ginpamatian pa	ginpamatian papa
+sulit	V;PRF+PROG;PRS	ginasulit pa	ginasulit pa
+kaon	V;PRF+PROG;PRS	nagakaon pa	nagakaon paa
+pamati	V;PRF+PROG;PRS	nagapamati pa	nagapamati p
+tan-aw	V;PRF+PROG;PRS	nagatan-aw pa	nagatan-aw p
+patay/tagumatayon	V;PRF+PROG;PRS	nagatagumatayon pa	nagatagumatayon
+hibi	V;PRF+PROG;PRS	nagahibi pa	nagahibi pa 
+daog	V;PRF+PROG;PRS	nagadaog pa	nagadaog pap
+sulat	V;PRF+PROG;PRS	nagasulat pa	nagasulat pa
+dumdom	V;PRF+PROG;PRS	ginadumdom pa	ginadumdom p
+gua	V;PRF+PROG;PRS	nagagua pa	nagagua papa
+siling	V;PRF+PROG;PRS	nagasiling pa	nagasiling p
+hatag	V;PRF+PROG;PRS	nagahatag pa	nagahatag pa
+buhin	V;PRF+PROG;PRS	nagabuhin pa	nagabuhin pa
+patay	V;PRF+PROG;PRS	ginapatay pa	ginapatay pa
+himo	V;PRF+PROG;PRS	nagahimo pa	nagahimo pan
+luto	V;PRF+PROG;PRS	nagaluto pa	nagaluto paa
+kita/pangita	V;PRF+PROG;PRS	ginapangita pa	ginapangita pa
+hulog/kahulog	V;PRF+PROG;PRS	nagakahulog pa	nagakahulog pa
+istar	V;PRF;PRS	nagaistar na	nagaistar na
+tudlo	V;PRF;PRS	nagatudlo na	nagatudlo na
+desisyon	V;PRF;PRS	nagadesisyon na	nagadesisyon
+tapos	V;PRF;PRS	ginatapos na	ginatapos na
+higda	V;PRF;PRS	nagahigda na	nagahigda na
+baligya	V;PRF;PRS	nagabaligya na	nagabaligya 
+tuon	V;PRF;PRS	nagatuon na	nagatuon naa
+tabo/katabo	V;PRF;PRS	nagakatabo na	nagakatabo na
+agda	V;PRF;PRS	ginaagda na	ginaagda nan
+paathag	V;PRF;PRS	nagapaathag na	nagapaathag 
+hular	V;PRF;PRS	nagahular na	nagahular na
+byahe	V;PRF;PRS	nagabyahe na	nagabyahe na
+hambal	V;PRF;PRS	nagahambal na	nagahambal n
+gamit	V;PRF;PRS	nagagamit na	nagagamit na
+lupad	V;PRF;PRS	nagalupad na	nagalupad na
+bakal	V;PRF;PRS	nagabakal na	nagabakal na
+maneho	V;PRF;PRS	nagamaneho na	nagamaneho n
+talupangdan/talupangod/talupangdon	V;PRF;PRS	natalupangdan na	natalupangdan n
+sugod	V;PRF;PRS	nagasugod na	nagasugod na
+uyat/uyatan	V;PRF;PRS	ginauyatan na	ginauyatan na
+istorya	V;PRF;PRS	nagaistorya na	nagaistorya 
+ginhawa	V;PRF;PRS	nagaginhawa na	nagaginhawa 
+hibalo/hibaluan	V;PRF;PRS	nahibaluan na	nahibaluan na
+buksan	V;PRF;PRS	ginabuksan na	ginabuksan n
+saot	V;PRF;PRS	nagasaot na	nagasaot nan
+kallimtan	V;PRF;PRS	ginakallimtan na	ginakallimta
+mangin/nangin	V;PRF;PRS	nangin	nanginkog nan
+kuha	V;PRF;PRS	nagakuha na	nagakuha nan
+dugang	V;PRF;PRS	nagadugang na	nagadugang n
+sabat	V;PRF;PRS	ginasabat na	ginasabat na
+sugata	V;PRF;PRS	nagasugata na	nagasugata n
+pakita	V;PRF;PRS	nagapakita na	nagapakita n
+pungko	V;PRF;PRS	nagapungko na	nagapungko n
+pakilala	V;PRF;PRS	nagapakilala na	nagapakilala
+padala	V;PRF;PRS	nagapadala na	nagapadala n
+obra	V;PRF;PRS	nagaobra na	nagaobra na 
+butang	V;PRF;PRS	nagabutang na	nagabutang n
+kadlaw	V;PRF;PRS	nagakadlaw na	nagakadlaw n
+aku	V;PRF;PRS	ginaaku na	ginaaku naaa
+tandog	V;PRF;PRS	nagatandog na	nagatandog n
+kita	V;PRF;PRS	nakita na	nakita na ta
+hampang	V;PRF;PRS	nagahampang na	nagahampang 
+bati/batian/pamatian	V;PRF;PRS	nabatian na	nabatian nana
+sulit	V;PRF;PRS	ginasulit na	ginasulit na
+batyag	V;PRF;PRS	nagabatyag na	nagabatyag n
+abot	V;PRF;PRS	nagaabot na	nagaabot nan
+kaon	V;PRF;PRS	nagakaon na	nagakaon naa
+tan-aw	V;PRF;PRS	nagatan-aw na	nagatan-aw n
+patay/tagumatayon	V;PRF;PRS	napatay na	napatay nan n
+kabuhi	V;PRF;PRS	nagakabuhi na	nagakabuhi n
+hibi	V;PRF;PRS	nagahibi na	nagahibi naa
+daog	V;PRF;PRS	nagadaog na	nagadaog naa
+sira	V;PRF;PRS	ginasira na	ginasira naa
+sulat	V;PRF;PRS	nagasulat na	nagasulat na
+lakat	V;PRF;PRS	nagalakat na	nagalakat na
+tulog	V;PRF;PRS	nagatulog na	nagatulog na
+nagon	V;PRF;PRS	naganagon na	naganagon na
+buka	V;PRF;PRS	ginabuka na	ginabuka nan
+dumdom	V;PRF;PRS	ginadumdom na	ginadumdom n
+gua	V;PRF;PRS	nagagua na	nagagua nang
+siling	V;PRF;PRS	nagasiling na	nagasiling n
+hatag	V;PRF;PRS	nagahatag na	nagahatag na
+buhin	V;PRF;PRS	nagabuhin na	nagabuhin na
+patay	V;PRF;PRS	ginapatay na	ginapatay na
+himo	V;PRF;PRS	nagahimo na	nagahimo naa
+luto	V;PRF;PRS	nagaluto na	nagaluto naa
+kita/pangita	V;PRF;PRS	nakita na	nakita nana n
+kinahanglan	V;PRF;PRS	nagakinahanglan na	nagakinahangl
+dalagan	V;PROG;PST	nagdalagan	nagdalag
+tapos	V;PROG;PST	gintapos	gintapos
+baligya	V;PROG;PST	nagbaligya	nagbalig
+tabo/katabo	V;PROG;PST	natabo	natabotdo
+agda	V;PROG;PST	gin-agda	gin-agda
+yuhom	V;PROG;PST	nagyuhom	nagyuhom
+hular	V;PROG;PST	naghular	naghular
+byahe	V;PROG;PST	nagbyahe	nagbyahe
+pamangkot	V;PROG;PST	nagpamangkot	nagpamang
+pili	V;PROG;PST	nagpili	nagpilit
+basa	V;PROG;PST	nagbasa	nagbasam
+gamit	V;PROG;PST	naggamit	naggamit
+lupad	V;PROG;PST	naglupad	naglupad
+bakal	V;PROG;PST	nagbakal	nagbakal
+kanta	V;PROG;PST	nagkanta	nagkanta
+baton	V;PROG;PST	ginbaton	ginbaton
+maneho	V;PROG;PST	nagmaneho	nagmaneh
+talupangdan/talupangod/talupangdon	V;PROG;PST	gintalupangod	gintalupangod-
+sugod	V;PROG;PST	nagsugod	nagsugod
+uyat/uyatan	V;PROG;PST	gin-uyatan	gin-uyata
+balik	V;PROG;PST	nagbalik	nagbalik
+hibalo/hibaluan	V;PROG;PST	ginhibalo	ginhibaloa
+dula	V;PROG;PST	gindula	gindulaa
+kallimtan	V;PROG;PST	ginkallimtan	ginkallim
+hunahuna	V;PROG;PST	naghunahuna	naghunahu
+inom	V;PROG;PST	nag-inom	nag-inom
+mangin/nangin	V;PROG;PST	nangin	nanginonak
+kuha	V;PROG;PST	nagkuha	nagkuhar
+gustuhan	V;PROG;PST	nagustuhan	nagustuha
+dugang	V;PROG;PST	nagdugang	nagdugan
+sabat	V;PROG;PST	ginsabat	ginsabat
+sugata	V;PROG;PST	nagsugata	nagsugat
+pakita	V;PROG;PST	nagpakita	nagpakit
+halok/halukan	V;PROG;PST	ginhalukan	ginhalukan
+bulig/buligan	V;PROG;PST	ginbuligan	ginbuligan
+pungko	V;PROG;PST	nagpungko	nagpungk
+padala	V;PROG;PST	nagpadala	nagpadal
+butang	V;PROG;PST	nagbutang	nagbutan
+kadlaw	V;PROG;PST	nagkadlaw	nagkadla
+aku	V;PROG;PST	nag-aku	nag-akun
+tandog	V;PROG;PST	nagtandog	nagtando
+kita	V;PROG;PST	nakita	nakitaan
+kado	V;PROG;PST	nagkado	nagkadoa
+hampang	V;PROG;PST	naghampang	naghampa
+bati/batian/pamatian	V;PROG;PST	ginpamantian	ginpamantia
+kaon	V;PROG;PST	nagkaon	nagkaonh
+pamati	V;PROG;PST	nagpamati	nagpamat
+tindog	V;PROG;PST	nagtindog	nagtindo
+tan-aw	V;PROG;PST	nagtan-aw	nagtan-a
+kabuhi	V;PROG;PST	nagkabuhi	nagkabuh
+hibi	V;PROG;PST	naghibi	naghibin
+sira	V;PROG;PST	ginsira	ginsiran
+sulat	V;PROG;PST	nagsulat	nagsulat
+lakat	V;PROG;PST	naglakat	naglakat
+tulog	V;PROG;PST	nagtulog	nagtulog
+nagon	V;PROG;PST	nagnagon	nagnagon
+gua	V;PROG;PST	naggua	nagguaha
+siling	V;PROG;PST	nagsiling	nagsilin
+hatag	V;PROG;PST	naghatag	naghatag
+buhin	V;PROG;PST	nagbuhin	nagbuhin
+patay	V;PROG;PST	ginpatay	ginpatay
+himo	V;PROG;PST	naghimo	naghimol
+luto	V;PROG;PST	nagluto	naglutoa
+hulog/kahulog	V;PROG;PST	nagakahulog	nagakahulo
+maka/naka	V;PROG;PST	naka	nakaitang
+dalagan	V;PROG;FUT	magadalagan	magadalag
+desisyon	V;PROG;FUT	magadesisyon	magadesis
+tapos	V;PROG;FUT	magataps	magatapsk
+baligya	V;PROG;FUT	magabaligya	magabalig
+tuon	V;PROG;FUT	magatuon	magatuone
+agda	V;PROG;FUT	magaagda	magaagdat
+paathag	V;PROG;FUT	magapaathag	magapaath
+hular	V;PROG;FUT	magahular	magahular
+byahe	V;PROG;FUT	magabyahe	magabyahe
+pili	V;PROG;FUT	magapili	magapilin
+basa	V;PROG;FUT	magabasa	magabasan
+hambal	V;PROG;FUT	magahambal	magahamba
+gamit	V;PROG;FUT	magagamit	magagamit
+lupad	V;PROG;FUT	magalupad	magalupad
+kanta	V;PROG;FUT	magakanta	magakanta
+tawag	V;PROG;FUT	magatawag	magatawag
+baton	V;PROG;FUT	magabaton	magabaton
+talupangdan/talupangod/talupangdon	V;PROG;FUT	pagatalupangdon	pagatalupangdo
+sugod	V;PROG;FUT	magasugod	magasugod
+istorya	V;PROG;FUT	magaistorya	magaistor
+balik	V;PROG;FUT	magabalik	magabalik
+ginhawa	V;PROG;FUT	magaginhawa	magaginha
+hibalo/hibaluan	V;PROG;FUT	mahibaluan	mahibaluann
+buksan	V;PROG;FUT	pagabuksan	pagabuksa
+dula	V;PROG;FUT	madula	madulaase
+saot	V;PROG;FUT	magasaot	magasaott
+kallimtan	V;PROG;FUT	pagakallimtan	pagakallim
+inom	V;PROG;FUT	magainom	magainomg
+kuha	V;PROG;FUT	magakuha	magakuhaa
+gustuhan	V;PROG;FUT	magustuhan	magustuha
+dugang	V;PROG;FUT	magadugang	magadugan
+sabat	V;PROG;FUT	magasabat	magasabat
+sugata	V;PROG;FUT	magasugata	magasugat
+pakita	V;PROG;FUT	magapakita	magapakit
+halok/halukan	V;PROG;FUT	magahalok	magahalokt
+bulig/buligan	V;PROG;FUT	magabulig	magabuligy
+pungko	V;PROG;FUT	magapungko	magapungk
+pakilala	V;PROG;FUT	magapakilala	magapakil
+aku	V;PROG;FUT	magaaku	magaakuag
+hampang	V;PROG;FUT	magahampang	magahampa
+bati/batian/pamatian	V;PROG;FUT	pagapamatian	pagapamatia
+batyag	V;PROG;FUT	magabatyag	magabatya
+abot	V;PROG;FUT	magaabot	magaabota
+kaon	V;PROG;FUT	magakaon	magakaona
+tan-aw	V;PROG;FUT	magatan-aw	magatan-a
+patay/tagumatayon	V;PROG;FUT	mapatay	mapatayogya
+kabuhi	V;PROG;FUT	magakabuhi	magakabuh
+hibi	V;PROG;FUT	magahibi	magahibik
+daog	V;PROG;FUT	magadaog	magadaoga
+sira	V;PROG;FUT	magasira	magasirat
+lakat	V;PROG;FUT	magalakat	magalakat
+nagon	V;PROG;FUT	maganagon	maganagon
+buka	V;PROG;FUT	pagabuka	pagabukao
+dumdom	V;PROG;FUT	magadumdom	magadumdo
+siling	V;PROG;FUT	magasiling	magasilin
+hatag	V;PROG;FUT	magahatag	magahatag
+sulod	V;PROG;FUT	magasulod	magasulod
+buhin	V;PROG;FUT	magabuhin	magabuhin
+patay	V;PROG;FUT	magapatay	magapatay
+luto	V;PROG;FUT	magaluto	magalutod
+kita/pangita	V;PROG;FUT	magapangita	magapangit
+hulog/kahulog	V;PROG;FUT	mahulog	mahulogada
+maka/naka	V;PROG;FUT	maka	makalaotri
+dalagan	V;PST	nagdalagan	nagdalag
+tudlo	V;PST	nagtudlo	nagtudlo
+desisyon	V;PST	nagdesisyon	nagdesisy
+tapos	V;PST	gintapos	gintapos
+higda	V;PST	naghigda	naghigda
+tabo/katabo	V;PST	natabo	nataboiha
+agda	V;PST	gin-agda	gin-agda
+paathag	V;PST	nagpaathag	nagpaath
+yuhom	V;PST	nagyuhom	nagyuhom
+hular	V;PST	naghular	naghular
+higugma/higugmaon	V;PST	ginhigugma	ginhigugma
+byahe	V;PST	nagbyahe	nagbyahe
+pamangkot	V;PST	nagpamangkot	nagpamang
+pili	V;PST	nagpili	nagpilin
+hambal	V;PST	naghambal	naghamba
+gamit	V;PST	naggamit	naggamit
+lupad	V;PST	naglupad	naglupad
+away	V;PST	nag-away	nag-away
+daw	V;PST	daw	dawbubbh
+bakal	V;PST	nagbakal	nagbakal
+baton	V;PST	ginbaton	ginbaton
+maneho	V;PST	nagmaneho	nagmaneh
+talupangdan/talupangod/talupangdon	V;PST	natalupangdan	natalupangdan
+balik	V;PST	nagbalik	nagbalik
+hibalo/hibaluan	V;PST	nahibaluan	nahibaluan
+saot	V;PST	nagsaot	nagsaoth
+hunahuna	V;PST	naghunahuna	naghunahu
+inom	V;PST	nag-inom	nag-inom
+mangin/nangin	V;PST	nangin	nanginotm
+gustuhan	V;PST	nagustuhan	nagustuha
+dugang	V;PST	nagdugang	nagdugan
+sabat	V;PST	ginsabat	ginsabat
+sugata	V;PST	nagsugata	nagsugat
+pakita	V;PST	nagpakita	nagpakit
+bulig/buligan	V;PST	ginbuligan	ginbuliga
+pungko	V;PST	nagpungko	nagpungk
+pakilala	V;PST	nagpakilala	nagpakila
+padala	V;PST	nagpadala	nagpadal
+butang	V;PST	nagbutang	nagbutan
+kadlaw	V;PST	nagkadlaw	nagkadla
+aku	V;PST	nag-aku	nag-akua
+tandog	V;PST	nagtandog	nagtando
+kado	V;PST	nagkado	nagkadoh
+hampang	V;PST	naghampang	naghampa
+batyag	V;PST	nagbatyag	nagbatya
+abot	V;PST	nag-abot	nag-abot
+pamati	V;PST	nagpamati	nagpamat
+tan-aw	V;PST	nagtan-aw	nagtan-a
+patay/tagumatayon	V;PST	napatay	napataygan
+kabuhi	V;PST	nagkabuhi	nagkabuh
+daog	V;PST	nag-daog	nag-daog
+sulat	V;PST	nagsulat	nagsulat
+tulog	V;PST	nagtulog	nagtulog
+nagon	V;PST	nagnagon	nagnagon
+buka	V;PST	ginbuka	ginbukaa
+dumdom	V;PST	gindumdom	gindumdo
+gua	V;PST	naggua	nagguaah
+siling	V;PST	nagsiling	nagsilin
+sulod	V;PST	nagsulod	nagsulod
+buhin	V;PST	nagbuhin	nagbuhin
+patay	V;PST	ginpatay	ginpatay
+himo	V;PST	naghimo	naghimoa
+luto	V;PST	nagluto	naglutol
+kinahanglan	V;PST	nagkinahanglan	nagkinaha
+hulog/kahulog	V;PST	nahulog	nahuloggl
+sarang	V;PST	nakasarang	nakasara
+gusto/gustuhan	V;PST	nagustuhan	nagustuhan
+na/naga	V;PST	na	nag-ykoe
+tudlo	V;FUT	magatudlo	magatudlo
+desisyon	V;FUT	magadesisyon	magadesis
+higda	V;FUT	magahigda	magahigda
+baligya	V;FUT	magabaligya	magabalig
+tuon	V;FUT	magatuon	magatuonk
+tabo/katabo	V;FUT	matabo	matabotoan
+yuhom	V;FUT	magayuhom	magayuhom
+higugma/higugmaon	V;FUT	pagahigugmaon	pagahigugma
+byahe	V;FUT	magabyahe	magabyahe
+pamangkot	V;FUT	magapamangkot	magapamang
+pili	V;FUT	magapili	magapilis
+basa	V;FUT	magabasa	magabasal
+hambal	V;FUT	magahambal	magahamba
+gamit	V;FUT	magagamit	magagamit
+lupad	V;FUT	magalupad	magalupad
+away	V;FUT	magaaway	magaawayt
+bakal	V;FUT	magabakal	magabakal
+tawag	V;FUT	magatawag	magatawag
+baton	V;FUT	magabaton	magabaton
+maneho	V;FUT	magamaneho	magamaneh
+talupangdan/talupangod/talupangdon	V;FUT	matalupangdon	matalupangdon
+sugod	V;FUT	magasugod	magasugod
+uyat/uyatan	V;FUT	magauyat	magauyatty
+istorya	V;FUT	magaistorya	magaistor
+balik	V;FUT	magabalik	magabalik
+ginhawa	V;FUT	magaginhawa	magaginha
+singgit	V;FUT	magasinggit	magasingg
+hibalo/hibaluan	V;FUT	mahibaluan	mahibaluan
+dula	V;FUT	madula	maduladao
+saot	V;FUT	magasaot	magasaota
+hunahuna	V;FUT	magahunahuna	magahunah
+mangin/nangin	V;FUT	mangin	manginuato
+kuha	V;FUT	magakuha	magakuhat
+gustuhan	V;FUT	magustuhan	magustuha
+sugata	V;FUT	magasugata	magasugat
+pakita	V;FUT	magapakita	magapakit
+pungko	V;FUT	magapungko	magapungk
+pakilala	V;FUT	magapakilala	magapakil
+hangop/hangpan	V;FUT	mahangpan	mahangpany
+obra	V;FUT	magaobra	magaobraa
+butang	V;FUT	magabutang	magabutan
+aku	V;FUT	magaaku	magaakuht
+tandog	V;FUT	magatandog	magatando
+kita	V;FUT	makita	makitanuh
+kado	V;FUT	magakado	magakadon
+hampang	V;FUT	magahampang	magahampa
+sulit	V;FUT	magasulit	magasulit
+abot	V;FUT	magaabot	magaabotm
+tindog	V;FUT	magatindog	magatindo
+tan-aw	V;FUT	magatan-aw	magatan-a
+patay/tagumatayon	V;FUT	mapatay	mapatayodnl
+kabuhi	V;FUT	magakabuhi	magakabuh
+hibi	V;FUT	magahibi	magahibis
+daog	V;FUT	magadaog	magadaogn
+sira	V;FUT	magasira	magasiraa
+sulat	V;FUT	magasulat	magasulat
+lakat	V;FUT	magalakat	magalakat
+tulog	V;FUT	magatulog	magatulog
+nagon	V;FUT	maganagon	maganagon
+buka	V;FUT	pagabuka	pagabukam
+dumdom	V;FUT	magadumdom	magadumdo
+hatag	V;FUT	magahatag	magahatag
+sulod	V;FUT	magasulod	magasulod
+tudlo	V;PROG;PRS	nagatudlo	nagatudlo
+higda	V;PROG;PRS	nagahigda	nagahigda
+baligya	V;PROG;PRS	nagabaligya	nagabaligy
+tuon	V;PROG;PRS	nagatuon	nagatuonb
+tabo/katabo	V;PROG;PRS	nagakatabo	nagakataboa
+agda	V;PROG;PRS	ginaagda	ginaagdan
+paathag	V;PROG;PRS	nagapaathag	nagapaatha
+yuhom	V;PROG;PRS	nagayuhom	nagayuhom
+hular	V;PROG;PRS	nagahular	nagahular
+higugma/higugmaon	V;PROG;PRS	ginahigugma	ginahigugman
+pili	V;PROG;PRS	nagapili	nagapilik
+hambal	V;PROG;PRS	nagahambal	nagahamba
+lupad	V;PROG;PRS	nagalupad	nagalupad
+away	V;PROG;PRS	nagaaway	nagaawayd
+kanta	V;PROG;PRS	nagakanta	nagakanta
+tawag	V;PROG;PRS	nagatawag	nagatawag
+baton	V;PROG;PRS	ginabaton	ginabaton
+maneho	V;PROG;PRS	nagamaneho	nagamaneh
+talupangdan/talupangod/talupangdon	V;PROG;PRS	ginatalupangod	ginatalupangod--
+sugod	V;PROG;PRS	nagasugod	nagasugod
+istorya	V;PROG;PRS	nagaistorya	nagaistory
+balik	V;PROG;PRS	nagabalik	nagabalik
+ginhawa	V;PROG;PRS	nagaginhawa	nagaginhaw
+singgit	V;PROG;PRS	nagasinggit	nagasinggi
+hibalo/hibaluan	V;PROG;PRS	ginahibalo	ginahibalol
+buksan	V;PROG;PRS	ginabuksan	ginabuksa
+kallimtan	V;PROG;PRS	ginakallimtan	ginakallim
+hunahuna	V;PROG;PRS	nagahunahuna	nagahunahu
+mangin/nangin	V;PROG;PRS	mangin	manginlitia
+kuha	V;PROG;PRS	nagakuha	nagakuhag
+dugang	V;PROG;PRS	nagadugang	nagadugan
+sabat	V;PROG;PRS	ginasabat	ginasabat
+sugata	V;PROG;PRS	nagasugata	nagasugat
+pakita	V;PROG;PRS	nagapakita	nagapakit
+halok/halukan	V;PROG;PRS	ginahalukan	ginahalukan
+bulig/buligan	V;PROG;PRS	ginabuligan	ginabuligan
+pungko	V;PROG;PRS	nagapungko	nagapungk
+pakilala	V;PROG;PRS	nagapakilala	nagapakila
+hangop/hangpan	V;PROG;PRS	ginahangop	ginahangopt
+padala	V;PROG;PRS	nagapadala	nagapadal
+obra	V;PROG;PRS	nagaobra	nagaobraa
+butang	V;PROG;PRS	nagabutang	nagabutan
+kadlaw	V;PROG;PRS	nagakadlaw	nagakadla
+aku	V;PROG;PRS	nagaaku	nagaakunn
+kita	V;PROG;PRS	nakita	nakitaoso
+kado	V;PROG;PRS	nagakado	nagakadol
+hampang	V;PROG;PRS	nagahampang	nagahampan
+bati/batian/pamatian	V;PROG;PRS	ginpamantian	ginpamantiano
+abot	V;PROG;PRS	nagaabot	nagaabotd
+kaon	V;PROG;PRS	nagakaon	nagakaonh
+pamati	V;PROG;PRS	nagapamati	nagapamat
+tindog	V;PROG;PRS	nagatindog	nagatindo
+patay/tagumatayon	V;PROG;PRS	nagatagumatayon	nagatagumata
+kabuhi	V;PROG;PRS	nagakabuhi	nagakabuh
+hibi	V;PROG;PRS	nagahibi	nagahibit
+sira	V;PROG;PRS	ginasira	ginasirao
+sulat	V;PROG;PRS	nagasulat	nagasulat
+lakat	V;PROG;PRS	nagalakat	nagalakat
+tulog	V;PROG;PRS	nagatulog	nagatulog
+buka	V;PROG;PRS	ginabuka	ginabukah
+gua	V;PROG;PRS	nagagua	nagaguaod
+siling	V;PROG;PRS	nagasiling	nagasilin
+hatag	V;PROG;PRS	nagahatag	nagahatag
+sulod	V;PROG;PRS	nagasulod	nagasulod
+buhin	V;PROG;PRS	nagabuhin	nagabuhin
+patay	V;PROG;PRS	ginapatay	ginapatay
+himo	V;PROG;PRS	nagahimo	nagahimoa
+kita/pangita	V;PROG;PRS	ginapangita	ginapangita
+kinahanglan	V;PROG;PRS	nagakinahanglan	nagakinahan
+hulog/kahulog	V;PROG;PRS	nagakahulog	nagakahulog

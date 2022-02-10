@@ -1,0 +1,15 @@
+santisa 	V;PRS	ke santisa 	ke santisa 
+seloka	V;NFIN	kuseloka	kuseloka
+tuka 	V;NFIN	kutuka 	kutukau
+sa	V;FUT	ta kusa	ta kusa
+sabula	V;FUT	ta kusabula	ta kusabula
+nwa	V;FUT	ta kunwa	ta koswa
+sonikina	V;PST	sonikinaka	sonikinaka
+sevisa	V;PST	sevisaka	sevisaka
+sekula	V;PST	sekulaka	sekulaka
+tunga	V;PST	tungaka	tungaka
+sungika	V;PST	sungikaka	sungikaka
+tanguna 	V;PST	tanguna ka	tanguna ka
+senda	V;PST	sendaka	sendaka
+sobasana	V;PST	sobasanaka	sobasanaka
+simbidila	V;PST	simbidilaka	simbidilaka

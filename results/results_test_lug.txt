@@ -1,0 +1,15 @@
+laba	V;INTEN;PL;3;FUT	tebannalaba	tebannalaba
+labika nga	V;PL;1;PST+RMT	twalabika nga	twalkbikaanaa
+fuluma	V;PL;2;PRS	mufuluma	mufulama
+wulira	V;PL;2;PST+RCT	muwulidde	mujjukyen
+yogera	V;PL;2;PST+RCT	mwogedde	mujjukyen
+wa	V;PL;3;PST+RCT	bawadde	bameny
+komawo	V;PL;3;PST+RCT	bakomyevo	bamenykaa
+labika	V;PROG;1;PRS	nkyalabika	nkyalabika
+gula	V;1;PST+RMT	nagula	nagula
+lamaga	V;PROG;2;PRS	okyalamaga	okyalamaae
+baawo	V;PROG;2;PRS	okyabaawo	okyabaaao
+soma	V;3;FUT+IMMED	anaasoma	anaasoma
+teka	V;2;PST+RMT	wateeka	wateka
+sobola	V;PROG;PL;2;PST	mwakasobola	mwakasobala
+tunda	V;PL;2;FUT+RMT	mulitunda	mulitunda

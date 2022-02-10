@@ -1,0 +1,15 @@
+sensen	V;HAB+PROG;NEG;PRS	rennsensen	rennsenken
+tow	V;HAB+PROG;NEG;PRS	renntow	renntow
+yew	V;PROG;NEG;PRS;LGSPEC1	rennkɔyew	rennkɔyew
+boa	V;PRF;PST+IMMED	nna abɛboa	nna abɛboa
+hunti	V;PRF;NEG;PST+IMMED	nna mmbɛhuntiee	nna mmbɛhuneiue
+gu nsu	V;HAB+PROG;PRS	regu nsu	regu nsu
+serew	V;NFIN	serew	serew
+ma	V;PROG;PRS;LGSPEC1	rekɔma	rekɔma
+tie	V;HAB;PRS	tie	tie
+tow	V;SBJV;NEG;PRS	mma nntow	mma nntow
+bobɔw	V;PRF;PRS;LGSPEC1	akɔbobɔw	akɔbosɔw
+ku	V;HAB+PRF;NEG;PST	nna nnkuee	nna nnkuee
+da	V;PROG;PST+IMMED	nna rebɛda	nna rebɛda
+kekamu	V;HAB+PRF;PST	nna akekamu	nna akeoamu
+hwɛ	V;HAB+PRF;PST	nna ahwɛ	nna ahwɛ

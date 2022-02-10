@@ -1,0 +1,15 @@
+äldre- och folkhälsominister	N;GEN;INDF;PL	äldre- och folkhälsoministrars	äöaoosaaerarsrersssarsngsrsrsi
+pacifist	N;NOM;INDF;SG	pacifist	pacifist
+filter	N;NOM;INDF;SG	filter	filter
+ylande	N;NOM;INDF;SG	ylande	ylande
+ättling	N;GEN;DEF;PL	ättlingarnas	ättlingarna
+nejlika	N;GEN;DEF;SG	nejlikans	nejlikanss
+fruktträd	N;GEN;INDF;SG	fruktträds	fruktträds
+farao	N;GEN;INDF;SG	faraos	faraos
+glada	N;NOM;INDF;PL	glador	gladar
+tidstecken	N;NOM;INDF;PL	tidstecken	tidsteckene
+lotsa	V.CVB;ACT	lotsat	lotsat
+amputera	V;IND;PST;PASS	amputerades	amputerades
+homogen	ADJ;INDF;PL	homogena	homogena
+brittisk	ADJ;INDF;MASC+FEM;SG	brittisk	brittisk
+våldsam	ADJ;COMPV;INDF;MASC;SG	våldsammare	våldsammar

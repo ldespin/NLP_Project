@@ -1,0 +1,15 @@
+beskriiw	V;IND;DU;1;FUT;LGSPEC1	skel beskriiw	skelblskriiwe'
+drainke	V;PRF;IND;DU;1;PST+RMT	häin drunken	hid  baawend
+wees	V;IND;PL;2;FUT;LGSPEC1	skel wees	wellweesd
+jeewe	V;PFV;IND;PL;3;PST	jäifen	jäinnt
+düünj	V;PRF;IND;PL;3;PST+RMT	häin dänj	heinbgnnewt
+gripe	V;PRF;IND;PL;1;PST	hääwe gram	saa graawen
+baag	V;PRF;IND;PL;2;PST	haa beegen	haa dabanj
+breeg	V;IND;SG;3;FUT;LGSPEC1	wal breeg	skal breeg
+breeg	V;PRF;IND;SG;3;PST	hee breegen	hee gbaawg
+haa	V;PRF;IND;DU;2;PST+RMT	hed hed	häindbaan
+wel	V;PRF;IND;DU;1;PST	haa wulen	haa gidew
+frååge	V;PFV;IND;SG;3;PST	frååged	frogc
+jeewe	V;PFV;IND;SG;3;PST	jäif	luuch
+ferliise	V;PRF;IND;SG;1;PST+RMT	häi ferlääsen	wiar feelen'
+du	V;IND;PL;1;FUT;LGSPEC1	wel du	skeldfu
