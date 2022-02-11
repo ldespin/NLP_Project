@@ -1,160 +1,12 @@
-sanisina	V;PRS	ke sanisina	ke sanisina
-nwa	V;PRS	ke nwa	ke nwa
-teta	V;PRS	ke teta	ke teta
-sasula	V;PRS	ke sasula	ke sasula
-sompisa	V;PRS	ke sompisa	ke sompisa
-ta	V;PRS	ke ta	ke ta
-tonganana	V;PRS	ke tonganana	ke tonganana
-dia	V;PRS	ke dia	ke dia
-tuika	V;PRS	ke tuika	ke tuika
-pamuka	V;PRS	ke pamuka	ke pamuka
-tanguna 	V;PRS	ke tanguna 	ke tanguna 
-sobasana	V;PRS	ke sobasana	ke sobasana
-simbidila	V;PRS	ke simbidila	ke simbidila
-tina	V;PRS	ke tina	ke tina
-tangisa	V;PRS	ke tangisa	ke tangisa
-sekisa	V;PRS	ke sekisa	ke sekisa
-vambana	V;PRS	ke vambana	ke vambana
-toma	V;PRS	ke toma	ke toma
-tengola	V;PRS	ke tengola	ke tengola
-sosila	V;PRS	ke sosila	ke sosila
-pisuka	V;PRS	ke pisuka	ke pisuka
-sadila	V;PRS	ke sadila	ke sadila
-zieta	V;PRS	ke zieta	ke zieta
-sampuka	V;PRS	ke sampuka	ke sampuka
-tengika	V;PRS	ke tengika	ke tengika
-klikia	V;PRS	ke klikia	ke klikia
-susumuka	V;PRS	ke susumuka	ke susumuka
-sakana	V;PRS	ke sakana	ke sakana
-tuela	V;PRS	ke tuela	ke tuela
-tilumuka	V;PRS	ke tilumuka	ke tilumuka
-tomisa	V;PRS	ke tomisa	ke tomisa
-singa	V;PRS	ke singa	ke singa
-tengama	V;PRS	ke tengama	ke tengama
-panza	V;PRS	ke panza	ke panza
-tambudila	V;PRS	ke tambudila	ke tambudila
-tutisa	V;PRS	ke tutisa	ke tutisa
-sabula	V;PRS	ke sabula	ke sabula
-tatika 	V;PRS	ke tatika 	ke tatika 
-samuna 	V;PRS	ke samuna 	ke samuna 
-toloka	V;PRS	ke toloka	ke toloka
-sindisa	V;PRS	ke sindisa	ke sindisa
-tsoka	V;PRS	ke tsoka	ke tsoka
-songa	V;PRS	ke songa	ke songa
-simbisa	V;PRS	ke simbisa	ke simbisa
-suama	V;PRS	ke suama	ke suama
-tutana	V;PRS	ke tutana	ke tutana
-timbula	V;PRS	ke timbula	ke timbula
-tsubuka	V;PRS	ke tsubuka	ke tsubuka
-tunta	V;PRS	ke tunta	ke tunta
-sakumuna	V;PRS	ke sakumuna	ke sakumuna
-tinguna	V;PRS	ke tinguna	ke tinguna
-tedika	V;PRS	ke tedika	ke tedika
-tekita	V;PRS	ke tekita	ke tekita
-tumama	V;PRS	ke tumama	ke tumama
-sasa	V;PRS	ke sasa	ke sasa
-tuadisa	V;PRS	ke tuadisa	ke tuadisa
-sonika	V;PRS	ke sonika	ke sonika
-sana	V;PRS	ke sana	ke sana
-tolola	V;PRS	ke tolola	ke tolola
-pitakasa	V;PRS	ke pitakasa	ke pitakasa
-sinzila	V;PRS	ke sinzila	ke sinzila
-tanina 	V;PRS	ke tanina 	ke tanina 
-tonta	V;PRS	ke tonta	ke tonta
-tsona 	V;PRS	ke tsona 	ke tsona 
-tambika	V;PRS	ke tambika	ke tambika
-tumbula	V;PRS	ke tumbula	ke tumbula
-pamuna	V;PRS	ke pamuna	ke pamuna
-seka	V;PRS	ke seka	ke seka
-tabula	V;PRS	ke tabula	ke tabula
-vwata	V;PRS	ke vwata	ke vwata
-tekila	V;PRS	ke tekila	ke tekila
-tenda	V;PRS	ke tenda	ke tenda
-sonikisa	V;PRS	ke sonikisa	ke sonikisa
-sangana 	V;PRS	ke sangana 	ke sangana 
-temoka	V;PRS	ke temoka	ke temoka
-tsamuna	V;PRS	ke tsamuna	ke tsamuna
-pola	V;PRS	ke pola	ke pola
-sueka	V;PRS	ke sueka	ke sueka
-tatula	V;PRS	ke tatula	ke tatula
-tensika	V;PRS	ke tensika	ke tensika
-pasula	V;PRS	ke pasula	ke pasula
-soba	V;PRS	ke soba	ke soba
-sekula	V;PRS	ke sekula	ke sekula
-sikimisa	V;PRS	ke sikimisa	ke sikimisa
-timba	V;PRS	ke timba	ke timba
-suasuanisa	V;PRS	ke suasuanisa	ke suasuanisa
-sanduka	V;PRS	ke sanduka	ke sanduka
-seva	V;PRS	ke seva	ke seva
-songisa	V;PRS	ke songisa	ke songisa
-tota	V;PRS	ke tota	ke tota
-sasuka	V;PRS	ke sasuka	ke sasuka
-sisa	V;PRS	ke sisa	ke sisa
-tulula	V;PRS	ke tulula	ke tulula
-soka	V;PRS	ke soka	ke soka
-pungula	V;PRS	ke pungula	ke pungula
-enda	V;PRS	ke enda	ke enda
-sika	V;PRS	ke sika	ke sika
-sevisa	V;PRS	ke sevisa	ke sevisa
-tuka 	V;PRS	ke tuka 	ke tuka 
-panzana	V;PRS	ke panzana	ke panzana
-tatuka 	V;PRS	ke tatuka 	ke tatuka 
-tsuma	V;PRS	ke tsuma	ke tsuma
-saka	V;PRS	ke saka	ke saka
-sikama	V;PRS	ke sikama	ke sikama
-temona	V;PRS	ke temona	ke temona
-sompa	V;PRS	ke sompa	ke sompa
-tua	V;PRS	ke tua	ke tua
-tekisa	V;PRS	ke tekisa	ke tekisa
-sikila 	V;PRS	ke sikila 	ke sikila 
-palangana	V;PRS	ke palangana	ke palangana
-sengula	V;PRS	ke sengula	ke sengula
-sielumuka	V;PRS	ke sielumuka	ke sielumuka
-semba	V;PRS	ke semba	ke semba
-teka	V;PRS	ke teka	ke teka
-sa	V;PRS	ke sa	ke sa
-tentika	V;PRS	ke tentika	ke tentika
-totoka	V;PRS	ke totoka	ke totoka
-puluka	V;PRS	ke puluka	ke puluka
-samba	V;PRS	ke samba	ke samba
-sadisa	V;PRS	ke sadisa	ke sadisa
-pulusa	V;PRS	ke pulusa	ke pulusa
-tanga	V;PRS	ke tanga	ke tanga
-sola	V;PRS	ke sola	ke sola
-kuiza	V;PRS	ke kuiza	ke kuiza
-telama	V;PRS	ke telama	ke telama
-tomba	V;PRS	ke tomba	ke tomba
-tambusa	V;PRS	ke tambusa	ke tambusa
-tanda	V;PRS	ke tanda	ke tanda
-tula	V;PRS	ke tula	ke tula
-teza	V;PRS	ke teza	ke teza
-pusa	V;PRS	ke pusa	ke pusa
-sindika	V;PRS	ke sindika	ke sindika
-vambasa	V;PRS	ke vambasa	ke vambasa
-tuta	V;PRS	ke tuta	ke tuta
-pasuka	V;PRS	ke pasuka	ke pasuka
-sunzula	V;PRS	ke sunzula	ke sunzula
-sukula	V;PRS	ke sukula	ke sukula
-tsamuka 	V;PRS	ke tsamuka 	ke tsamuka 
-tiaba	V;PRS	ke tiaba	ke tiaba
-suka	V;PRS	ke suka	ke suka
-siamisa	V;PRS	ke siamisa	ke siamisa
-salama 	V;PRS	ke salama 	ke salama 
-simba	V;PRS	ke simba	ke simba
-tola	V;PRS	ke tola	ke tola
-sutuka	V;PRS	ke sutuka	ke sutuka
 sanisina	V;NFIN	kusanisina	kusanisina
 nwa	V;NFIN	kunwa	kunwa
 teta	V;NFIN	kuteta	kuteta
-sasula	V;NFIN	kusasula	kusasula
 ta	V;NFIN	kuta	kuta
-tunga	V;NFIN	kutunga	kutunga
 dia	V;NFIN	kudia	kudia
 tuika	V;NFIN	kutuika	kutuika
 tatamana	V;NFIN	kutatamana	kutatamana
 pamuka	V;NFIN	kupamuka	kupamuka
 tanguna 	V;NFIN	kutanguna 	kutanguna 
-sobasana	V;NFIN	kusobasana	kusobasana
 tina	V;NFIN	kutina	kutina
 tangisa	V;NFIN	kutangisa	kutangisa
 vambana	V;NFIN	kuvambana	kuvambana
@@ -162,11 +14,8 @@ toma	V;NFIN	kutoma	kutoma
 tengola	V;NFIN	kutengola	kutengola
 sosila	V;NFIN	kososila	kusosila
 sadila	V;NFIN	kusadila	kusadila
-sivika	V;NFIN	kusivika	kusivika
 tengika	V;NFIN	kutengika	kutengika
-klikia	V;NFIN	kuklikia	kuklikia
 susumuka	V;NFIN	kususumuka	kususumuka
-sakana	V;NFIN	kusakana	kusakana
 sungama	V;NFIN	kusungama	kusungama
 tuela	V;NFIN	kutuela	kutuela
 tilumuka	V;NFIN	kutilumuka	kutilumuka
@@ -179,7 +28,6 @@ tutisa	V;NFIN	kututisa	kututisa
 sabula	V;NFIN	kusabula	kusabula
 samuna 	V;NFIN	kusamuna 	kusamuna 
 toloka	V;NFIN	kutoloka	kutoloka
-sakalala	V;NFIN	kusakalala	kusakalala
 sindisa	V;NFIN	kusindisa	kusindisa
 tsoka	V;NFIN	kutsoka	kutsoka
 songa	V;NFIN	kusonga	kusonga
@@ -190,10 +38,8 @@ tutana	V;NFIN	kotutana	kotutana
 timbula	V;NFIN	kutimbula	kutimbula
 tsubuka	V;NFIN	kutsubuka	kutsubuka
 tunta	V;NFIN	kutunta	kutunta
-tuba	V;NFIN	kutuba	kutuba
 tedika	V;NFIN	kutedika	kutedika
 sonikina	V;NFIN	kusonikina	kusonikina
-tekita	V;NFIN	kutekita	kutekita
 santisa 	V;NFIN	kusantisa 	kusantisa 
 savukisa 	V;NFIN	kusavukisa 	kusavukisa 
 tala	V;NFIN	kutala	kutala
@@ -201,12 +47,10 @@ sasa	V;NFIN	kusasa	kusasa
 tafuna	V;NFIN	kutafuna	kutafuna
 tuadisa	V;NFIN	kutuadisa	kutuadisa
 sonika	V;NFIN	kusonika	kusonika
-tambula	V;NFIN	kutambula	kutambula
 tolola	V;NFIN	kutolola	kutolola
 pitakasa	V;NFIN	kupitakasa	kupitakasa
 sinzila	V;NFIN	kusinzila	kusinzila
 sisila	V;NFIN	kusisila	kusisila
-tanina 	V;NFIN	kutanina 	kutanina 
 tonta	V;NFIN	kutonta	kutonta
 sambisa	V;NFIN	kusambisa	kusambisa
 tuma	V;NFIN	kutuma	kutuma
@@ -215,19 +59,15 @@ tumbula	V;NFIN	kutumbula	kutumbula
 sinsana	V;NFIN	kusinsana	kusinsana
 seka	V;NFIN	kuseka	kuseka
 vwata	V;NFIN	kuvwata	kuvwata
-tekila	V;NFIN	kutekila	kutekila
 tenda	V;NFIN	kutenda	kutenda
 sonikisa	V;NFIN	kusonikisa	kusonikisa
 sangana 	V;NFIN	kusangana 	kusangana 
-temoka	V;NFIN	kutemoka	kutemoka
 sunda	V;NFIN	kusunda	kusunda
 sumuna	V;NFIN	kusumuna	kusumuna
 sueka	V;NFIN	kusueka	kusueka
 tatula	V;NFIN	kutatula	kutatula
 pasula	V;NFIN	kupasula	kupasula
 soba	V;NFIN	kusoba	kusoba
-sekula	V;NFIN	kusekula	kusekula
-sansa	V;NFIN	kusansa	kusansa
 timba	V;NFIN	kutimba	kutimba
 vova	V;NFIN	kuvova	kuvova
 suasuanisa	V;NFIN	kusuasuanisa	kusuasuanisa
@@ -241,6 +81,7 @@ enda	V;NFIN	kuenda	kuenda
 sika	V;NFIN	kusika	kusika
 sevisa	V;NFIN	kusevisa	kusevisa
 tsoma	V;NFIN	kutsoma	kutsoma
+tuka 	V;NFIN	kutuka 	kutuka 
 tobola	V;NFIN	kutobola	kutobola
 panzana	V;NFIN	kupanzana	kupanzana
 telemisa	V;NFIN	kutelemisa	kutelemisa
@@ -248,9 +89,6 @@ tatuka 	V;NFIN	kutatuka 	kutatuka
 tsuma	V;NFIN	kutsuma	kutsuma
 saka	V;NFIN	kusaka	kusaka
 sumba	V;NFIN	kusumba	kusumba
-sikama	V;NFIN	kusikama	kusikama
-sompa	V;NFIN	kusompa	kusompa
-tua	V;NFIN	kutua	kutua
 sikila 	V;NFIN	kusikila 	kusikila 
 palangana	V;NFIN	kupalangana	kupalangana
 sielumuka	V;NFIN	kusielumuka	kusielumuka
@@ -261,23 +99,20 @@ tentika	V;NFIN	kutentika	kutentika
 tonda	V;NFIN	kutonda	kutonda
 samba	V;NFIN	kusamba	kusamba
 pulusa	V;NFIN	kupulusa	kupulusa
-tadisa	V;NFIN	kutadisa	kutadisa
 sola	V;NFIN	kusola	kusola
 sema	V;NFIN	kusema	kusema
 telama	V;NFIN	kutelama	kutelama
 tsuba	V;NFIN	kutsuba	kutsuba
 tambusa	V;NFIN	kutambusa	kutambusa
-salasana	V;NFIN	kusalasana	kusalasana
 tanda	V;NFIN	kutanda	kutanda
 tula	V;NFIN	kutula	kutula
-pusa	V;NFIN	kupusa	kupusa
 vambasa	V;NFIN	kuvambasa	kuvambasa
 tima	V;NFIN	kutima	kutima
 tombola	V;NFIN	kutombola	kutombola
 sunzula	V;NFIN	kusunzula	kusunzula
 sabuka	V;NFIN	kusabuka	kusabuka
 sungika	V;NFIN	kusungika	kusungika
-tsamuka 	V;NFIN	kutsamuka 	kutsamuka 
+seloka	V;NFIN	kuseloka	kuseloka
 teleka	V;NFIN	kuteleka	kuteleka
 fonga	V;NFIN	kufonga	kufonga
 suka	V;NFIN	kusuka	kusuka
@@ -289,34 +124,26 @@ sambila	V;NFIN	kusambila	kusambila
 tambikisa	V;NFIN	kutambikisa	kutambikisa
 siama	V;NFIN	kusiama	kusiama
 sanisina	V;FUT	ta kusanisina	ta kusanisina
-teta	V;FUT	ta kuteta	ta kuteta
+nwa	V;FUT	ta kunwa	ta kunwa
 sasula	V;FUT	ta kusasula	ta kusasula
-sompisa	V;FUT	ta kusompisa	ta kusompisa
 tonganana	V;FUT	ta kutonganana	ta kutonganana
-tunga	V;FUT	ta kutunga	ta kutunga
-tuika	V;FUT	ta kutuika	ta kutuika
 tatamana	V;FUT	ta kutatamana	ta kutatamana
 pamuka	V;FUT	ta kupamuka	ta kupamuka
 tanguna 	V;FUT	ta kutanguna 	ta kutanguna 
 sobasana	V;FUT	ta kusobasana	ta kusobasana
 simbidila	V;FUT	ta kusimbidila	ta kusimbidila
 tina	V;FUT	ta kutina	ta kutina
-tangisa	V;FUT	ta kutangisa	ta kutangisa
 sekisa	V;FUT	ta kusekisa	ta kusekisa
 vambana	V;FUT	ta kuvambana	ta kuvambana
 toma	V;FUT	ta kutoma	ta kutoma
 tengola	V;FUT	ta kutengola	ta kutengola
-sosila	V;FUT	ta kososila	ta kusosila
+sosila	V;FUT	ta kososila	ta kososila
 pisuka	V;FUT	ta kupisuka	ta kupisuka
 sadila	V;FUT	ta kusadila	ta kusadila
 zieta	V;FUT	ta kuzieta	ta kuzieta
-sampuka	V;FUT	ta kusampuka	ta kusampuka
-sivika	V;FUT	ta kusivika	ta kusivika
 tengika	V;FUT	ta kutengika	ta kutengika
 klikia	V;FUT	ta kuklikia	ta kuklikia
 susumuka	V;FUT	ta kususumuka	ta kususumuka
-sakana	V;FUT	ta kusakana	ta kusakana
-sungama	V;FUT	ta kusungama	ta kusungama
 tomisa	V;FUT	ta kutomisa	ta kutomisa
 singa	V;FUT	ta kusinga	ta kusinga
 tengama	V;FUT	ta kutengama	ta kutengama
@@ -324,39 +151,33 @@ toboka	V;FUT	ta kutoboka	ta kutoboka
 panza	V;FUT	ta kupanza	ta kupanza
 tambudila	V;FUT	ta kutambudila	ta kutambudila
 tutisa	V;FUT	ta kututisa	ta kututisa
+sabula	V;FUT	ta kusabula	ta kusabula
 tatika 	V;FUT	ta kutatika 	ta kutatika 
 samuna 	V;FUT	ta kusamuna 	ta kusamuna 
 sakalala	V;FUT	ta kusakalala	ta kusakalala
 sindisa	V;FUT	ta kusindisa	ta kusindisa
 tsoka	V;FUT	ta kutsoka	ta kutsoka
 songa	V;FUT	ta kusonga	ta kusonga
-simbisa	V;FUT	ta kusimbisa	ta kusimbisa
 suasuana	V;FUT	ta kusuasuana	ta kusuasuana
 tutana	V;FUT	ta kotutana	ta kotutana
 timbula	V;FUT	ta kutimbula	ta kutimbula
 tsubuka	V;FUT	ta kutsubuka	ta kutsubuka
 tunta	V;FUT	ta kutunta	ta kutunta
-sakumuna	V;FUT	ta kusakumuna	ta kusakumuna
 tinguna	V;FUT	ta kutinguna	ta kutinguna
 tedika	V;FUT	ta kutedika	ta kutedika
 sonikina	V;FUT	ta kusonikina	ta kusonikina
 tekita	V;FUT	ta kutekita	ta kutekita
 santisa 	V;FUT	ta kusantisa 	ta kusantisa 
 tumama	V;FUT	ta kutumama	ta kutumama
-tala	V;FUT	ta kutala	ta kutala
-tafuna	V;FUT	ta kutafuna	ta kutafuna
 tuadisa	V;FUT	ta kutuadisa	ta kutuadisa
 sonika	V;FUT	ta kusonika	ta kusonika
 tambula	V;FUT	ta kutambula	ta kutambula
 sana	V;FUT	ta kusana	ta kusana
 tolola	V;FUT	ta kutolola	ta kutolola
 sinzila	V;FUT	ta kusinzila	ta kusinzila
-sisila	V;FUT	ta kusisila	ta kusisila
 tanina 	V;FUT	ta kutanina 	ta kutanina 
-tonta	V;FUT	ta kutonta	ta kutonta
 tuma	V;FUT	ta kutuma	ta kutuma
 tambika	V;FUT	ta kutambika	ta kutambika
-sinsana	V;FUT	ta kusinsana	ta kusinsana
 seka	V;FUT	ta kuseka	ta kuseka
 vwata	V;FUT	ta kuvwata	ta kuvwata
 tenda	V;FUT	ta kutenda	ta kutenda
@@ -367,15 +188,10 @@ sumuna	V;FUT	ta kusumuna	ta kusumuna
 pola	V;FUT	ta kupola	ta kupola
 tatula	V;FUT	ta kutatula	ta kutatula
 pasula	V;FUT	ta kupasula	ta kupasula
-suba	V;FUT	ta kusuba	ta kusuba
 sekula	V;FUT	ta kusekula	ta kusekula
 sansa	V;FUT	ta kusansa	ta kusansa
-sikimisa	V;FUT	ta kusikimisa	ta kusikimisa
-timba	V;FUT	ta kutimba	ta kutimba
 vova	V;FUT	ta kuvova	ta kuvova
-suasuanisa	V;FUT	ta kusuasuanisa	ta kusuasuanisa
-sanduka	V;FUT	ta kusanduka	ta kusanduka
-senda	V;FUT	ta kusenda	ta kusenda
+	V;FUT		ta kositbnka aa
 tungulula	V;FUT	ta kutungulula	ta kutungulula
 songisa	V;FUT	ta kusongisa	ta kusongisa
 sisa	V;FUT	ta kusisa	ta kusisa
@@ -393,55 +209,161 @@ sumba	V;FUT	ta kusumba	ta kusumba
 sikama	V;FUT	ta kusikama	ta kusikama
 sompa	V;FUT	ta kusompa	ta kusompa
 tungisa 	V;FUT	ta kutungisa 	ta kutungisa 
-sikila 	V;FUT	ta kusikila 	ta kusikila 
 palangana	V;FUT	ta kupalangana	ta kupalangana
 sengula	V;FUT	ta kusengula	ta kusengula
 sielumuka	V;FUT	ta kusielumuka	ta kusielumuka
-semba	V;FUT	ta kusemba	ta kusemba
 teka	V;FUT	ta kuteka	ta kuteka
+sa	V;FUT	ta kusa	ta kusa
 tentika	V;FUT	ta kutentika	ta kutentika
 totoka	V;FUT	ta kutotoka	ta kutotoka
-tonda	V;FUT	ta kutonda	ta kutonda
 samba	V;FUT	ta kusamba	ta kusamba
 sadisa	V;FUT	ta kusadisa	ta kusadisa
-pulusa	V;FUT	ta kupulusa	ta kupulusa
 tanga	V;FUT	ta kutanga	ta kutanga
 telama	V;FUT	ta kutelama	ta kutelama
 sumuka	V;FUT	ta kusumuka	ta kusumuka
 tambusa	V;FUT	ta kutambusa	ta kutambusa
 salasana	V;FUT	ta kusalasana	ta kusalasana
-tula	V;FUT	ta kutula	ta kutula
 tima	V;FUT	ta kutima	ta kutima
 sabuka	V;FUT	ta kusabuka	ta kusabuka
 sungika	V;FUT	ta kusungika	ta kusungika
-tsamuka 	V;FUT	ta kutsamuka 	ta kutsamuka 
 fonga	V;FUT	ta kufonga	ta kufonga
 tiaba	V;FUT	ta kutiaba	ta kutiaba
 sala	V;FUT	ta kusala	ta kusala
 salama 	V;FUT	ta kusalama 	ta kusalama 
 simba	V;FUT	ta kusimba	ta kusimba
-tambikisa	V;FUT	ta kutambikisa	ta kutambikisa
+nwa	V;PRS	ke nwa	ke nwa
+teta	V;PRS	ke teta	ke teta
+sompisa	V;PRS	ke sompisa	ke sompisa
+tonganana	V;PRS	ke tonganana	ke tonganana
+dia	V;PRS	ke dia	ke dia
+tuika	V;PRS	ke tuika	ke tuika
+pamuka	V;PRS	ke pamuka	ke pamuka
+sobasana	V;PRS	ke sobasana	ke sobasana
+simbidila	V;PRS	ke simbidila	ke simbidila
+tina	V;PRS	ke tina	ke tina
+tangisa	V;PRS	ke tangisa	ke tangisa
+sekisa	V;PRS	ke sekisa	ke sekisa
+tengola	V;PRS	ke tengola	ke tengola
+sosila	V;PRS	ke sosila	ke sosila
+pisuka	V;PRS	ke pisuka	ke pisuka
+sadila	V;PRS	ke sadila	ke sadila
+zieta	V;PRS	ke zieta	ke zieta
+sampuka	V;PRS	ke sampuka	ke sampuka
+klikia	V;PRS	ke klikia	ke klikia
+susumuka	V;PRS	ke susumuka	ke susumuka
+sakana	V;PRS	ke sakana	ke sakana
+tuela	V;PRS	ke tuela	ke tuela
+tilumuka	V;PRS	ke tilumuka	ke tilumuka
+tomisa	V;PRS	ke tomisa	ke tomisa
+singa	V;PRS	ke singa	ke singa
+tengama	V;PRS	ke tengama	ke tengama
+panza	V;PRS	ke panza	ke panza
+tambudila	V;PRS	ke tambudila	ke tambudila
+tutisa	V;PRS	ke tutisa	ke tutisa
+sabula	V;PRS	ke sabula	ke sabula
+samuna 	V;PRS	ke samuna 	ke samuna 
+toloka	V;PRS	ke toloka	ke toloka
+sindisa	V;PRS	ke sindisa	ke sindisa
+tsoka	V;PRS	ke tsoka	ke tsoka
+songa	V;PRS	ke songa	ke songa
+simbisa	V;PRS	ke simbisa	ke simbisa
+suama	V;PRS	ke suama	ke suama
+tutana	V;PRS	ke tutana	ke tutana
+tsubuka	V;PRS	ke tsubuka	ke tsubuka
+tunta	V;PRS	ke tunta	ke tunta
+tinguna	V;PRS	ke tinguna	ke tinguna
+tedika	V;PRS	ke tedika	ke tedika
+tekita	V;PRS	ke tekita	ke tekita
+santisa 	V;PRS	ke santisa 	ke santisa 
+sonika	V;PRS	ke sonika	ke sonika
+sana	V;PRS	ke sana	ke sana
+pitakasa	V;PRS	ke pitakasa	ke pitakasa
+sinzila	V;PRS	ke sinzila	ke sinzila
+tanina 	V;PRS	ke tanina 	ke tanina 
+tonta	V;PRS	ke tonta	ke tonta
+tsona 	V;PRS	ke tsona 	ke tsona 
+tambika	V;PRS	ke tambika	ke tambika
+tumbula	V;PRS	ke tumbula	ke tumbula
+tabula	V;PRS	ke tabula	ke tabula
+tekila	V;PRS	ke tekila	ke tekila
+sonikisa	V;PRS	ke sonikisa	ke sonikisa
+sangana 	V;PRS	ke sangana 	ke sangana 
+temoka	V;PRS	ke temoka	ke temoka
+pola	V;PRS	ke pola	ke pola
+tatula	V;PRS	ke tatula	ke tatula
+tensika	V;PRS	ke tensika	ke tensika
+pasula	V;PRS	ke pasula	ke pasula
+soba	V;PRS	ke soba	ke soba
+sekula	V;PRS	ke sekula	ke sekula
+sikimisa	V;PRS	ke sikimisa	ke sikimisa
+timba	V;PRS	ke timba	ke timba
+suasuanisa	V;PRS	ke suasuanisa	ke suasuanisa
+sanduka	V;PRS	ke sanduka	ke sanduka
+seva	V;PRS	ke seva	ke seva
+songisa	V;PRS	ke songisa	ke songisa
+sasuka	V;PRS	ke sasuka	ke sasuka
+sisa	V;PRS	ke sisa	ke sisa
+tulula	V;PRS	ke tulula	ke tulula
+soka	V;PRS	ke soka	ke soka
+sika	V;PRS	ke sika	ke sika
+sevisa	V;PRS	ke sevisa	ke sevisa
+tuka 	V;PRS	ke tuka 	ke tuka 
+panzana	V;PRS	ke panzana	ke panzana
+tatuka 	V;PRS	ke tatuka 	ke tatuka 
+tsuma	V;PRS	ke tsuma	ke tsuma
+saka	V;PRS	ke saka	ke saka
+sikama	V;PRS	ke sikama	ke sikama
+temona	V;PRS	ke temona	ke temona
+sompa	V;PRS	ke sompa	ke sompa
+tua	V;PRS	ke tua	ke tua
+tekisa	V;PRS	ke tekisa	ke tekisa
+sengula	V;PRS	ke sengula	ke sengula
+sielumuka	V;PRS	ke sielumuka	ke sielumuka
+teka	V;PRS	ke teka	ke teka
+sa	V;PRS	ke sa	ke sa
+tentika	V;PRS	ke tentika	ke tentika
+samba	V;PRS	ke samba	ke samba
+sadisa	V;PRS	ke sadisa	ke sadisa
+pulusa	V;PRS	ke pulusa	ke pulusa
+tanga	V;PRS	ke tanga	ke tanga
+sola	V;PRS	ke sola	ke sola
+kuiza	V;PRS	ke kuiza	ke kuiza
+telama	V;PRS	ke telama	ke telama
+tomba	V;PRS	ke tomba	ke tomba
+tula	V;PRS	ke tula	ke tula
+teza	V;PRS	ke teza	ke teza
+pusa	V;PRS	ke pusa	ke pusa
+sindika	V;PRS	ke sindika	ke sindika
+vambasa	V;PRS	ke vambasa	ke vambasa
+tuta	V;PRS	ke tuta	ke tuta
+pasuka	V;PRS	ke pasuka	ke pasuka
+sunzula	V;PRS	ke sunzula	ke sunzula
+sukula	V;PRS	ke sukula	ke sukula
+tiaba	V;PRS	ke tiaba	ke tiaba
+suka	V;PRS	ke suka	ke suka
+siamisa	V;PRS	ke siamisa	ke siamisa
+simba	V;PRS	ke simba	ke simba
+tola	V;PRS	ke tola	ke tola
+sutuka	V;PRS	ke sutuka	ke sutuka
 teta	V;PST	tetaka	tetaka
 sasula	V;PST	sasulaka	sasulaka
 sompisa	V;PST	sompisaka	sompisaka
-ta	V;PST	taka	taka
-tonganana	V;PST	tongananaka	tongananaka
+tunga	V;PST	tungaka	tungaka
 dia	V;PST	diaka	diaka
 tuika	V;PST	tuikaka	tuikaka
-tatamana	V;PST	tatamanaka	tatamanaka
 pamuka	V;PST	pamukaka	pamukaka
+tanguna 	V;PST	tanguna ka	tanguna ka
+simbidila	V;PST	simbidilaka	simbidilaka
 tangisa	V;PST	tangisaka	tangisaka
 sekisa	V;PST	sekisaka	sekisaka
 vambana	V;PST	vambanaka	vambanaka
 tengola	V;PST	tengolaka	tengolaka
 pisuka	V;PST	pisukaka	pisukaka
 zieta	V;PST	zietaka	zietaka
-sampuka	V;PST	sampukaka	sampukaka
 sivika	V;PST	sivikaka	sivikaka
 tengika	V;PST	tengikaka	tengikaka
 klikia	V;PST	klikiaka	klikiaka
 sakana	V;PST	sakanaka	sakanaka
-tuela	V;PST	tuelaka	tuelaka
 tomisa	V;PST	tomisaka	tomisaka
 tengama	V;PST	tengamaka	tengamaka
 panza	V;PST	panzaka	panzaka
@@ -449,20 +371,17 @@ tambudila	V;PST	tambudilaka	tambudilaka
 tutisa	V;PST	tutisaka	tutisaka
 sabula	V;PST	sabulaka	sabulaka
 samuna 	V;PST	samuna ka	samuna ka
-toloka	V;PST	tolokaka	tolokaka
 sakalala	V;PST	sakalalaka	sakalalaka
 sindisa	V;PST	sindisaka	sindisaka
 tsoka	V;PST	tsokaka	tsokaka
-simbisa	V;PST	simbisaka	simbisaka
 suasuana	V;PST	suasuanaka	suasuanaka
 suama	V;PST	suamaka	suamaka
-tsubula	V;PST	tsubulaka	tsubulaka
 tsubuka	V;PST	tsubukaka	tsubukaka
 sakumuna	V;PST	sakumunaka	sakumunaka
 tinguna	V;PST	tingunaka	tingunaka
 tuba	V;PST	tubaka	tubaka
+sonikina	V;PST	sonikinaka	sonikinaka
 tekita	V;PST	tekitaka	tekitaka
-tilumuna	V;PST	tilumunaka	tilumunaka
 santisa 	V;PST	santisa ka	santisa ka
 savukisa 	V;PST	savukisa ka	savukisa ka
 tala	V;PST	talaka	talaka
@@ -483,14 +402,13 @@ pamuna	V;PST	pamunaka	pamunaka
 seka	V;PST	sekaka	sekaka
 tabula	V;PST	tabulaka	tabulaka
 tekila	V;PST	tekilaka	tekilaka
-sonikisa	V;PST	sonikisaka	sonikisaka
 temoka	V;PST	temokaka	temokaka
 sunda	V;PST	sundaka	sundaka
 tsamuna	V;PST	tsamunaka	tsamunaka
 pola	V;PST	polaka	polaka
 tatula	V;PST	tatulaka	tatulaka
 tensika	V;PST	tensikaka	tensikaka
-sansa	V;PST	sansaka	sansaka
+sekula	V;PST	sekulaka	sekulaka
 timba	V;PST	timbaka	timbaka
 suasuanisa	V;PST	suasuanisaka	suasuanisaka
 seva	V;PST	sevaka	sevaka
@@ -503,7 +421,6 @@ enda	V;PST	endaka	endaka
 sika	V;PST	sikaka	sikaka
 tsoma	V;PST	tsomaka	tsomaka
 tuka 	V;PST	tuka ka	tuka ka
-sokumuna	V;PST	sokumunaka	sokumunaka
 telemisa	V;PST	telemisaka	telemisaka
 tatuka 	V;PST	tatuka ka	tatuka ka
 tsuma	V;PST	tsumaka	tsumaka
@@ -519,14 +436,12 @@ palangana	V;PST	palanganaka	palanganaka
 sengula	V;PST	sengulaka	sengulaka
 sielumuka	V;PST	sielumukaka	sielumukaka
 teka	V;PST	tekaka	tekaka
-sa	V;PST	saka	saka
 tentika	V;PST	tentikaka	tentikaka
 totoka	V;PST	totokaka	totokaka
 puluka	V;PST	pulukaka	pulukaka
 samba	V;PST	sambaka	sambaka
 sadisa	V;PST	sadisaka	sadisaka
 pulusa	V;PST	pulusaka	pulusaka
-sola	V;PST	solaka	solaka
 sema	V;PST	semaka	semaka
 telama	V;PST	telamaka	telamaka
 sumuka	V;PST	sumukaka	sumukaka
@@ -541,13 +456,10 @@ sabuka	V;PST	sabukaka	sabukaka
 sukula	V;PST	sukulaka	sukulaka
 tomboka	V;PST	tombokaka	tombokaka
 seloka	V;PST	selokaka	selokaka
-tsamuka 	V;PST	tsamuka ka	tsamuka ka
 teleka	V;PST	telekaka	telekaka
 fonga	V;PST	fongaka	fongaka
 tiaba	V;PST	tiabaka	tiabaka
-siamisa	V;PST	siamisaka	siamisaka
 sesa	V;PST	sesaka	sesaka
 sambila	V;PST	sambilaka	sambilaka
 tola	V;PST	tolaka	tolaka
 sutuka	V;PST	sutukaka	sutukaka
-tambikisa	V;PST	tambikisaka	tambikisaka

@@ -68,6 +68,24 @@ def dict_to_frame(Dict: dict, Type: str):
     
     return df
 
+def extracting_test_sets_per_classes(df, Values):
+    # Encoding
+    encoded_df = encode_tags_dataset(df)
+    encoded_df['model_class'] = encoded_df.apply(
+        lambda x: assign_class_test(x[categories].values, Values, []), axis=1
+    )
+
+    test_sets_per_classes = {}
+    for i in range(len(Values)):
+            test_set = encoded_df[
+                encoded_df["model_class"] == i
+            ][["bundle", "form", "lemma"]].reset_index(drop=True)
+            
+            if not test_set.empty:
+                test_sets_per_classes[i] = test_set
+    
+    return test_sets_per_classes
+
 def extracting_train_input_models(df: pd.DataFrame):
     '''
     Extract from non encoded dataframe Values and Non-encoded values of bundles, 
@@ -102,33 +120,12 @@ def extracting_train_input_models(df: pd.DataFrame):
     
     return Values, Non_encoded_Values, Indexes, sets_per_classes
 
-def extracting_test_sets_per_classes(df, Values):
-    # Encoding
-    encoded_df = encode_tags_dataset(df)
-    encoded_df['model_class'] = encoded_df.apply(
-        lambda x: assign_class_test(x[categories].values, Values, []), axis=1
-    )
-
-    test_sets_per_classes = {}
-    for i in range(len(Values)):
-            test_set = encoded_df[
-                encoded_df["model_class"] == i
-            ][["bundle", "form", "lemma"]].reset_index(drop=True)
-            
-            if not test_set.empty:
-                test_sets_per_classes[i] = test_set
-    
-    return test_sets_per_classes
-
 
 
 ########## Encoding forms and lemmas ##########
 
 
 def get_longest(df):
-    '''
-    Return the length of the longest word observed in the dataset
-    '''
     max = 0
     for word in df["form"]:
         if len(word)>max:
@@ -140,9 +137,6 @@ def get_longest(df):
 
 
 def encode_data(df, charac_dict, M):
-    '''
-    Encode data with one hot vectors, based on the dictionary of characters previously defined
-    '''
     N = len(df["lemma"].values)
     T = len(charac_dict)
     
@@ -255,7 +249,7 @@ def assign_class_test(test_bundle: np.array, Values: dict, categories_to_drop: l
         
         bundle_class_candidates = np.where(distances_indicator == min(distances_indicator))[0]
         
-        if len(bundle_class_candidates) == 1:
+        if len(bundle_class_candidates) <= 1:
             bundle_class = bundle_class_candidates[0]
         else:
             distances = [
@@ -280,9 +274,6 @@ def train_linear_reg(
     M_max
 ):
     '''
-    Trains one linear regression model per class of bundles, to predict an encoded form, from an encoded lemma
-    returns a dictionary containing the trained models for each class,
-    and a dictionary containing the encoded lemmas and forms, for each class
     '''
     
     X_train = {}
@@ -311,9 +302,6 @@ def train_len_words(
     training_sets_per_classes: dict, 
 ):
     '''
-    Trains a linear regression per class of bundle, to predict the length of a form from the length of a lemma
-    returns a dictionary containing the trained models for each class,
-    and a dictionary containing the lengths of lemmas and forms, for each class
     '''
     
     X_train = {}
@@ -407,11 +395,10 @@ def predict_and_save(X, Y, sets_per_classes, models, models_len, M, T, char_dict
             avg_distance.append(distance(form[j],form_hat[j]))
             f.write(f"{lemma[j]}\t{bundle}\t{form[j]}\t{form_hat[j]}\n")
     f.close()
-    return np.mean(avg_distance)
+    return avg_distance
 
 def decode_vector(X, char_dict):
     '''
-    Translate and encoded lemma or form into a string
     '''
     idx_dict = {char_dict[k]:k for k in char_dict}
     words = []
@@ -428,7 +415,6 @@ def decode_vector(X, char_dict):
 
 def convert_pred(Y_pred):
     '''
-    Convert the predicted encoded form into a proper encoded version composed of one-hot vectors
     '''
     Y_pred_converted = np.zeros(Y_pred.shape)
     (Nc,Mc,_) = Y_pred.shape
@@ -439,8 +425,6 @@ def convert_pred(Y_pred):
 
 def convert_pred_limit(Y_pred, M):
     '''
-    Convert the predicted encoded form into a proper encoded version composed of one-hot vectors,
-    limiting to the predicted length of the form
     '''
     Y_pred_converted = np.zeros(Y_pred.shape)
     (Nc,Mc,_) = Y_pred.shape

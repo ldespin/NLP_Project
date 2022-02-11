@@ -1,15 +1,558 @@
-sensen	V;HAB+PROG;NEG;PRS	rennsensen	rennsenken
-tow	V;HAB+PROG;NEG;PRS	renntow	renntow
-yew	V;PROG;NEG;PRS;LGSPEC1	rennkɔyew	rennkɔyew
-boa	V;PRF;PST+IMMED	nna abɛboa	nna abɛboa
-hunti	V;PRF;NEG;PST+IMMED	nna mmbɛhuntiee	nna mmbɛhuneiue
-gu nsu	V;HAB+PROG;PRS	regu nsu	regu nsu
-serew	V;NFIN	serew	serew
-ma	V;PROG;PRS;LGSPEC1	rekɔma	rekɔma
-tie	V;HAB;PRS	tie	tie
-tow	V;SBJV;NEG;PRS	mma nntow	mma nntow
-bobɔw	V;PRF;PRS;LGSPEC1	akɔbobɔw	akɔbosɔw
+ma so	V;PST+IMMED	bɛma soee	bɛma wywe
+bisa	V;PST+IMMED	bɛbisaee	bɛbisaee
+pepa	V;PST+IMMED	bɛpepaee	bɛpeeeye
+suma	V;PST+IMMED	bɛsumaee	bɛsumeee
+tare	V;PST+IMMED	bɛtaree	bɛtaraee
+di nkonim	V;PST+IMMED	bɛdi nkonimee	bɛdi nreeeaee
+tie	V;PST+IMMED	bɛtiee	bɛtieee
+ma so	V;PST+IMMED	bɛma soee	bɛma wywe
+fow	V;PST+IMMED	bɛfowee	bɛfowee
+da	V;PST+IMMED	bɛdaee	bɛdaee
+bɔ nsamu	V;PST+IMMED	bɛbɔ nsamuee	bɛbɔ nseeeue
+hata	V;PST+IMMED	bɛhataee	bɛhateee
+sensen	V;PST+IMMED	bɛsensenee	bɛseneeɛee
+kyia	V;IMP;NEG;PRS	mma nnkyia	mma nnkyia
+tare	V;IMP;NEG;PRS	mma nntare	mma nntare
+tow	V;IMP;NEG;PRS	mma nntow	mma nntow
+kɔ tiefi	V;IMP;NEG;PRS	mma nnkɔ tiefi	mma nnkɔ tieni
+huruw	V;IMP;NEG;PRS	mma nnhuruw	mma nnhuruw
+hunti	V;IMP;NEG;PRS	mma nnhunti	mma nnhunti
+di	V;IMP;NEG;PRS	mma nndi	mma nndi
+tare	V;IMP;NEG;PRS	mma nntare	mma nntare
+wie	V;HAB+PROG;NEG;PRS	rennwie	rennwie
+we	V;HAB+PROG;NEG;PRS	rennwe	rennwe
+hohoro	V;HAB+PROG;NEG;PRS	rennhohoro	rennho oko
+siw	V;HAB+PROG;NEG;PRS	rennsiw	rennsiw
+su	V;HAB+PROG;NEG;PRS	rennsu	rennsu
+siw	V;HAB+PROG;NEG;PRS	rennsiw	rennsiw
+mene	V;HAB+PROG;NEG;PRS	remmmene	remmmene
+tow .. mu	V;HAB+PROG;NEG;PRS	renntow .. mu	renntow mseum
+saw	V;HAB+PROG;NEG;PRS	rennsaw	rennsaw
+da ase	V;HAB+PROG;NEG;PRS	rennda ase	rennda ase
+dum	V;HAB+PROG;NEG;PRS	renndum	renndum
+fow	V;HAB+PROG;NEG;PRS	remmfow	remmfow
+di nkonim	V;PROG;NEG;PRS;LGSPEC1	rennkɔdi nkonim	rennkɔdi nrofia
+tu nguan	V;PROG;NEG;PRS;LGSPEC1	rennkɔtu nguan	rennkɔtu nsufi
+suma	V;PROG;NEG;PRS;LGSPEC1	rennkɔsuma	rennkɔsuma
+ka	V;PROG;NEG;PRS;LGSPEC1	rennkɔka	rennkɔka
+pepa	V;PROG;NEG;PRS;LGSPEC1	rennkɔpepa	rennkɔsema
+hwɛ	V;PROG;NEG;PRS;LGSPEC1	rennkɔhwɛ	rennkɔhwɛ
+tutu	V;PROG;NEG;PRS;LGSPEC1	rennkɔtutu	rennkɔturu
+hyɛ ase	V;PROG;NEG;PRS;LGSPEC1	rennkɔhyɛ ase	rennkɔhyɛnane
+tutu	V;PROG;NEG;PRS;LGSPEC1	rennkɔtutu	rennkɔturu
+siw	V;PROG;NEG;PRS;LGSPEC1	rennkɔsiw	rennkɔsiw
+hyɛ ase	V;PROG;NEG;PRS;LGSPEC1	rennkɔhyɛ ase	rennkɔhyɛnane
+wo	V;PROG;NEG;PRS;LGSPEC1	rennkɔwo	rennkɔwo
+pia	V;PROG;NEG;PRS;LGSPEC1	rennkɔpia	rennkɔsia
+tew	V;PROG;NEG;PRS;LGSPEC1	rennkɔtew	rennkɔtew
+dum	V;PROG;NEG;PRS;LGSPEC1	rennkɔdum	rennkɔdum
+yi	V;PROG;NEG;PRS;LGSPEC1	rennkɔyi	rennkɔyi
+mene	V;PROG;NEG;PRS;LGSPEC1	rennkɔmene	rennkɔmene
+soɛr	V;HAB;NEG;PRS	nnsoɛr	nnsoɛr
+hunti	V;HAB;NEG;PRS	nnhunti	nnhunti
+bɔ nsamu	V;HAB;NEG;PRS	mmbɔ nsamu	mmbɔ nsaen
+kenkan	V;HAB;NEG;PRS	nnkenkan	nnkentaw
+ka	V;HAB;NEG;PRS	nnka	nnka
+tɔn	V;HAB;NEG;PRS	nntɔn	nntɔn
+kasa	V;HAB;NEG;PRS	nnkasa	nnkasa
+suma	V;HAB;NEG;PRS	nnsuma	nnsuta
+bisa	V;HAB;NEG;PRS	mmbisa	mmbisa
+soɛr	V;HAB;NEG;PRS	nnsoɛr	nnsoɛr
+te ase	V;HAB;NEG;PRS	nnte ase	nnte ase
+soɛr	V;HAB;NEG;PRS	nnsoɛr	nnsoɛr
+tintim	V;HAB;NEG;PRS	nntintim	nntintiw
+yɛ	V;HAB;NEG;PRS	nnyɛ	nnyɛ
+dum	V;HAB;NEG;PRS	nndum	nndue
+fra	V;HAB;NEG;PRS	mmfra	mmfra
+gu nsu	V;HAB;NEG;PST	anngu nsu	anngu nse
+kasa	V;HAB;NEG;PST	annkasa	annkaka
+kae	V;HAB;NEG;PST	annkae	annkae
+hua	V;HAB;NEG;PST	annhua	annhua
+tu nguan	V;HAB;NEG;PST	anntu nguan	anntu nkuum
+suma	V;HAB;NEG;PST	annsuma	annsuka
+bue	V;HAB;NEG;PST	ammbue	ammbue
+tew	V;HAB;NEG;PST	anntew	anntew
+tintim	V;HAB;NEG;PST	anntintim	anntinrie
+pepa	V;HAB;NEG;PST	ammpepa	ammpeka
+wie	V;PRF;PST+IMMED	nna abɛwie	nna abɛwie
+hwehwɛ	V;PRF;PST+IMMED	nna abɛhwehwɛ	nna abɛhweɔwɛ
+tare	V;PRF;PST+IMMED	nna abɛtare	nna abɛtare
+ku	V;PRF;PST+IMMED	nna abɛku	nna abɛku
+ba	V;PRF;PST+IMMED	nna abɛba	nna abɛba
+bɔ waw	V;PRF;PST+IMMED	nna abɛbɔ waw	nna abɛbɔ taw
+tow	V;PRF;PST+IMMED	nna abɛtow	nna abɛtow
+san	V;PRF;PST+IMMED	nna abɛsan	nna abɛsan
+siw	V;PRF;PST+IMMED	nna abɛsiw	nna abɛsiw
+hunti	V;PRF;PST+IMMED	nna abɛhunti	nna abɛhunti
+dum	V;PRF;PST+IMMED	nna abɛdum	nna abɛdu 
+su	V;PRF;PST+IMMED	nna abɛsu	nna abɛsu
+kae	V;PST;LGSPEC1	kɔkaee	kɔkaeee
+hu	V;PST;LGSPEC1	kɔhuee	kɔhuee
+yew	V;PST;LGSPEC1	kɔyewee	kɔyewee
+hwɛ	V;PST;LGSPEC1	kɔhwɛee	kɔhwɛre
+kɔ tiefi	V;PST;LGSPEC1	kɔkɔ tiefiee	kɔkɔ eioeeee
+dum	V;PST;LGSPEC1	kɔdumee	kɔduenw
+siw	V;PST;LGSPEC1	kɔsiwee	kɔsiwee
+bɔ nsamu	V;PST;LGSPEC1	kɔbɔ nsamuee	kɔbɔ esaeeee
+yew	V;PST;LGSPEC1	kɔyewee	kɔyewee
+kyereɛw	V;PST;LGSPEC1	kɔkyereɛwee	kɔkyeryeeee
+tutu	V;PST;LGSPEC1	kɔtutuee	kɔtueeew
+kasa	V;PST;LGSPEC1	kɔkasaee	kɔkasaee
+hwɛ	V;PST;LGSPEC1	kɔhwɛee	kɔhwɛre
+bɔ nsamu	V;HAB;FUT	bɛbɔ nsamu	bɛbɔ nsufi
+di	V;HAB;FUT	bɛdi	bɛdi
+ku	V;HAB;FUT	bɛku	bɛku
+bobɔw	V;HAB;FUT	bɛbobɔw	bɛboshw
+su	V;HAB;FUT	bɛsu	bɛsu
+tow	V;HAB;FUT	bɛtow	bɛtow
+kasa	V;HAB;FUT	bɛkasa	bɛkasa
+fa	V;HAB;FUT	bɛfa	bɛfa
+tɔn	V;HAB;FUT	bɛtɔn	bɛtɔn
+kasa	V;HAB;FUT	bɛkasa	bɛkasa
+yɛ	V;HAB;FUT	bɛyɛ	bɛyɛ
+hohoro	V;HAB;FUT	bɛhohoro	bɛhosoko
+bɔ nsamu	V;HAB;FUT	bɛbɔ nsamu	bɛbɔ nsufi
+kyiri	V;HAB;FUT	bɛkyiri	bɛkyiri
+pia	V;HAB;FUT	bɛpia	bɛpia
+san	V;HAB;PST	sanee	sanee
+bɔ mpae	V;HAB;PST	bɔ mpaee	bɔ meeeee
+hyina	V;HAB;PST	hyinaee	hyinaee
+kenkan	V;HAB;PST	kenkanee	keneeeee
+pɛ	V;HAB;PST	pɛee	yɛee
+kenkan	V;HAB;PST	kenkanee	keneeeee
+da	V;HAB;PST	daee	daee
+guare	V;HAB;PST	guaree	guareew
+hia	V;HAB;PST	hiaee	hiaee
+fow	V;HAB;PST	fowee	bowee
+hyɛ ase	V;HAB;PST	hyɛ asee	hyɛ eeeeu
+ba	V;HAB;PST	baee	baee
+kɔ	V;HAB;PST	kɔee	kɔee
+wie	V;HAB;PST	wiee	wieee
+kɔ tiefi	V;HAB;PST	kɔ tiefiee	kɔ timeime
+so dae	V;HAB;PST	so daee	so eswee
+kekamu	V;PROG;NEG;PST+IMMED	nna remmbɛkekamu	nna remmbɛketawu
+san	V;PROG;NEG;PST+IMMED	nna remmbɛsan	nna remmbɛsan
+sua	V;PROG;NEG;PST+IMMED	nna remmbɛsua	nna remmbɛsua
+kekamu	V;PROG;NEG;PST+IMMED	nna remmbɛkekamu	nna remmbɛketawu
+wosow	V;PROG;NEG;PST+IMMED	nna remmbɛwosow	nna remmbɛwobow
+hia	V;PROG;NEG;PST+IMMED	nna remmbɛhia	nna remmbɛhia
+suo mu	V;PROG;NEG;PST+IMMED	nna remmbɛsuo mu	nna remmbɛsuw gu
+nyim	V;PROG;NEG;PST+IMMED	nna remmbɛnyim	nna remmbɛkyim
+san	V;PROG;NEG;PST+IMMED	nna remmbɛsan	nna remmbɛsan
+tɔn	V;PROG;NEG;PST+IMMED	nna remmbɛtɔn	nna remmbɛtɔn
+dua	V;PROG;NEG;PST+IMMED	nna remmbɛdua	nna remmbɛdua
+ka	V;PROG;NEG;PST+IMMED	nna remmbɛka	nna remmbɛka
+hunti	V;PROG;NEG;PST+IMMED	nna remmbɛhunti	nna remmbɛhunti
+tɔ nko	V;PROG;PST;LGSPEC1	nna rekɔtɔ nko	nna rekɔtɔ nko
+yi	V;PROG;PST;LGSPEC1	nna rekɔyi	nna rekɔyi
+so dae	V;PROG;PST;LGSPEC1	nna rekɔso dae	nna rekɔso wae
+saw	V;PROG;PST;LGSPEC1	nna rekɔsaw	nna rekɔsaw
+hwɛ	V;PROG;PST;LGSPEC1	nna rekɔhwɛ	nna rekɔhwɛ
+bɔ nsamu	V;PROG;PST;LGSPEC1	nna rekɔbɔ nsamu	nna rekɔbɔ nsunm
+ma	V;PROG;PST;LGSPEC1	nna rekɔma	nna rekɔma
+saw	V;PROG;PST;LGSPEC1	nna rekɔsaw	nna rekɔsaw
+twe	V;PROG;PST;LGSPEC1	nna rekɔtwe	nna rekɔtwe
+ka	V;PROG;PST;LGSPEC1	nna rekɔka	nna rekɔka
+kyiri	V;PROG;PST;LGSPEC1	nna rekɔkyiri	nna rekɔkyirɛ
+nom	V;PROG;PST;LGSPEC1	nna rekɔnom	nna rekɔnom
+yi	V;PROG;PST;LGSPEC1	nna rekɔyi	nna rekɔyi
+bisa	V;PROG;PST;LGSPEC1	nna rekɔbisa	nna rekɔbisa
+bɔ mpae	V;PROG;PST;LGSPEC1	nna rekɔbɔ mpae	nna rekɔbɔ msre
+kyereɛw	V;PROG;PST;LGSPEC1	nna rekɔkyereɛw	nna rekɔkyereɛw
+te ase	V;HAB+PROG;PRS	rete ase	rete ase
+huruw	V;HAB+PROG;PRS	rehuruw	rehuruw
+kekamu	V;HAB+PROG;PRS	rekekamu	reke asu
+da ase	V;HAB+PROG;PRS	reda ase	reda ase
+huruw	V;HAB+PROG;PRS	rehuruw	rehuruw
+gye	V;HAB+PROG;PRS	regye	regye
+mene	V;HAB+PROG;PRS	remene	remene
+hata	V;HAB+PROG;PRS	rehata	rehata
+fa	V;HAB+PROG;PRS	refa	refa
+bɔ nsamu	V;HAB+PROG;PRS	rebɔ nsamu	rebɔ nsuem
+hyɛ ase	V;HAB+PROG;PRS	rehyɛ ase	rehyɛmare
+ka	V;HAB+PROG;PRS	reka	reka
+suo mu	V;HAB+PROG;PRS	resuo mu	resu  su
+huruw	V;HAB+PROG;PRS	rehuruw	rehuruw
+tɔ nko	V;HAB+PROG;PRS	retɔ nko	retɔ nro
+hyɛ ase	V;HAB+PROG;PRS	rehyɛ ase	rehyɛmare
+di nkonim	V;HAB+PROG;PRS	redi nkonim	redi nrowma
+sensen	V;HAB+PROG;PRS	resensen	resenken
+sua	V;HAB+PROG;PRS	resua	resua
+nyim	V;NFIN	nyim	nyim
+twa	V;NFIN	twa	twa
+huruw	V;NFIN	huruw	huruw
+te ase	V;NFIN	te ase	te ase
+yi	V;NFIN	yi	yi
+tafeere	V;NFIN	tafeere	ta eese
+wosow	V;NFIN	wosow	noaow
+yɛ adwuma	V;NFIN	yɛ adwuma	yɛ akw mu
+ba	V;NFIN	ba	ba
+kyerɛ	V;NFIN	kyerɛ	kyeri
+ma	V;NFIN	ma	ma
+tintim	V;NFIN	tintim	tintie
+twerɛw	V;NFIN	twerɛw	tweraw
+wo	V;NFIN	wo	no
+pepa	V;SBJV;PRS	mpepa	mpe a
+sensen	V;SBJV;PRS	nsensen	nsensew
+twa	V;SBJV;PRS	ntwa	ntwa
+ka	V;SBJV;PRS	nka	nka
+da	V;SBJV;PRS	nda	nda
+bɔ	V;SBJV;PRS	mbɔ	mbɔ
+bɔ	V;SBJV;PRS	mbɔ	mbɔ
+sensen	V;SBJV;PRS	nsensen	nsensew
+wie	V;PROG;NEG;PRS+IMMED	remmbɛwie	remmbɛwie
+yew	V;PROG;NEG;PRS+IMMED	remmbɛyew	remmbɛyew
+yɛ adwuma	V;PROG;NEG;PRS+IMMED	remmbɛyɛ adwuma	remmbɛyɛ aɛwan.
+we	V;PROG;NEG;PRS+IMMED	remmbɛwe	remmbɛwe
+ku	V;PROG;NEG;PRS+IMMED	remmbɛku	remmbɛku
+bɔ nsamu	V;PROG;NEG;PRS+IMMED	remmbɛbɔ nsamu	remmbɛbɔ nsean
+tintim	V;PROG;NEG;PRS+IMMED	remmbɛtintim	remmbɛtintiu
+su	V;PROG;NEG;PRS+IMMED	remmbɛsu	remmbɛsu
+pepa	V;PROG;NEG;PRS+IMMED	remmbɛpepa	remmbɛpesa
+ka	V;PROG;NEG;PRS+IMMED	remmbɛka	remmbɛka
+kɔ	V;PROG;NEG;PRS+IMMED	remmbɛkɔ	remmbɛkɔ
+nyim	V;IMP;PRS	nyim	dyim
+hwɛ	V;IMP;PRS	hwɛ	hwɛ
+hyɛ ase	V;IMP;PRS	hyɛ ase	hyɛware
+bue	V;IMP;PRS	bue	bue
+di	V;IMP;PRS	di	di
+nom	V;IMP;PRS	nom	dom
+sensen	V;IMP;PRS	sensen	senser
+kenkan	V;IMP;PRS	kenkan	kenwae
+tweɔn	V;IMP;PRS	tweɔn	twehr
+gye	V;IMP;PRS	gye	gye
+nom	V;IMP;PRS	nom	dom
+hunti	V;IMP;PRS	hunti	hunti
+di	V;IMP;PRS	di	di
+nom	V;IMP;PRS	nom	dom
+kekamu	V;IMP;PRS	kekamu	ke agu
+kyerɛ	V;IMP;PRS	kyerɛ	kyerɛ
+di nkonim	V;IMP;PRS	di nkonim	di nkofi.
+nyim	V;IMP;PRS	nyim	dyim
+te ase	V;IMP;PRS	te ase	te aae
+mia	V;IMP;PRS	mia	mia
+gye	V;PRF;NEG;PRS;LGSPEC1	nnkɔgyee	nnkɔnyeee
+pɛ	V;PRF;NEG;PRS;LGSPEC1	nnkɔpɛee	nnkɔdɛee
+pɛ	V;PRF;NEG;PRS;LGSPEC1	nnkɔpɛee	nnkɔdɛee
+dum	V;PRF;NEG;PRS;LGSPEC1	nnkɔdumee	nnkɔdumee
+pɛ	V;PRF;NEG;PRS;LGSPEC1	nnkɔpɛee	nnkɔdɛee
+kenkan	V;PRF;NEG;PRS;LGSPEC1	nnkɔkenkanee	nnkɔkeneaeee
+tu nguan	V;PRF;NEG;PRS;LGSPEC1	nnkɔtu nguanee	nnkɔtu nmueeee
+sua	V;PRF;NEG;PRS;LGSPEC1	nnkɔsuaee	nnkɔsuaee
+dum	V;PRF;NEG;PRS;LGSPEC1	nnkɔdumee	nnkɔdumee
+kenkan	V;PRF;NEG;PRS;LGSPEC1	nnkɔkenkanee	nnkɔkeneaeee
+di nkonim	V;PRF;NEG;PRS;LGSPEC1	nnkɔdi nkonimee	nnkɔdi nreeieee
+hua	V;PRF;NEG;PRS;LGSPEC1	nnkɔhuaee	nnkɔhuaee
+hunti	V;PRF;NEG;PRS;LGSPEC1	nnkɔhuntiee	nnkɔhuntime
+ba	V;PRF;NEG;PRS;LGSPEC1	nnkɔbaee	nnkɔbaee
+we	V;PRF;NEG;PRS;LGSPEC1	nnkɔwee	nnkɔweee
+we	V;PRF;NEG;PRS;LGSPEC1	nnkɔwee	nnkɔweee
+frɛ	V;PRF;NEG;PRS;LGSPEC1	nnkɔfrɛee	nnkɔfrɛee
+nyam	V;PRS;LGSPEC1	kɔnyam	kɔnyam
+yi	V;PRS;LGSPEC1	kɔyi	kɔyi
+nantew	V;PRS;LGSPEC1	kɔnantew	kɔnantew
+da ase	V;PRS;LGSPEC1	kɔda ase	kɔda ase
+tɔ	V;PRS;LGSPEC1	kɔtɔ	kɔtɔ
+hua	V;PRS;LGSPEC1	kɔhua	kɔhua
+we	V;PRS;LGSPEC1	kɔwe	kɔwe
+kenkan	V;PRS;LGSPEC1	kɔkenkan	kɔkendas
+fra	V;PRS;LGSPEC1	kɔfra	kɔfua
+kae	V;HAB;PRS	kae	kae
+tena	V;HAB;PRS	tena	tena
+kae	V;HAB;PRS	kae	kae
+pepa	V;HAB;PRS	pepa	pera
+frɛ	V;HAB;PRS	frɛ	frɛ
+nantew	V;HAB;PRS	nantew	nantew
+nyam	V;HAB;PRS	nyam	nyam
+gye	V;HAB;PRS	gye	gye
+di nkonim	V;HAB;PRS	di nkonim	di nkofiu
+pepa	V;HAB;PRS	pepa	pera
+hyina	V;HAB;PRS	hyina	hyina
+yew	V;HAB;PRS	yew	yew
+nantew	V;HAB;PRS	nantew	nantew
+te ase	V;HAB+PRF;PRS	ate ase	ate ase
+ma	V;HAB+PRF;PRS	ama	ama
+huruw	V;HAB+PRF;PRS	ahuruw	ahuruw
+sua	V;HAB+PRF;PRS	asua	asua
+di	V;HAB+PRF;PRS	adi	adi
+fa	V;HAB+PRF;PRS	afa	afa
+huane	V;HAB+PRF;PRS	ahuane	ahuane
+kenkan	V;HAB+PRF;PRS	akenkan	akensan
+twerɛw	V;HAB+PRF;PRS	atwerɛw	atwerɛw
+tafeere	V;HAB+PRF;PRS	atafeere	ata eeae
+boro	V;HAB+PRF;PRS	aboro	aboro
+so dae	V;PRF;PST;LGSPEC1	nna akɔso dae	nna akɔso waw
+tu nguan	V;PRF;PST;LGSPEC1	nna akɔtu nguan	nna akɔtu nsuni
+hua	V;PRF;PST;LGSPEC1	nna akɔhua	nna akɔhua
+ma	V;PRF;PST;LGSPEC1	nna akɔma	nna akɔma
+yɛ adwuma	V;PRF;PST;LGSPEC1	nna akɔyɛ adwuma	nna akɔyɛ a.w mu
+hua	V;PRF;PST;LGSPEC1	nna akɔhua	nna akɔhua
+pia	V;PRF;PST;LGSPEC1	nna akɔpia	nna akɔpia
+da ase	V;PRF;PST;LGSPEC1	nna akɔda ase	nna akɔda asu
+gye	V;PRF;PST;LGSPEC1	nna akɔgye	nna akɔgye
+tɔ nko	V;PRF;PST;LGSPEC1	nna akɔtɔ nko	nna akɔtɔ nko
+hua	V;PRF;PST;LGSPEC1	nna akɔhua	nna akɔhua
+wo	V;PRF;PST;LGSPEC1	nna akɔwo	nna akɔwo
+bɔ	V;PRF;PST;LGSPEC1	nna akɔbɔ	nna akɔbɔ
+ma so	V;PRF;PST;LGSPEC1	nna akɔma so	nna akɔma sy
+bɔ mpae	V;PRF;PST;LGSPEC1	nna akɔbɔ mpae	nna akɔbɔ msae
+pia	V;PRF;PST;LGSPEC1	nna akɔpia	nna akɔpia
+sensen	V;HAB+PRF;NEG;PRS	nnsensenee	nnsenkeeee
+kɔ tiefi	V;HAB+PRF;NEG;PRS	nnkɔ tiefiee	nnkɔ tieeime
+sua	V;HAB+PRF;NEG;PRS	nnsuaee	nnsuaee
+san	V;HAB+PRF;NEG;PRS	nnsanee	nnsanee
+yɛ	V;HAB+PRF;NEG;PRS	nnyɛee	nnyɛee
+bobɔw	V;HAB+PRF;NEG;PRS	mmbobɔwee	mmboeenee
+yɛ adwuma	V;HAB+PRF;NEG;PRS	nnyɛ adwumaee	nnyɛ ayweeuee
+yi	V;HAB+PRF;NEG;PRS	nnyiee	nnyiee
+yi	V;HAB+PRF;NEG;PRS	nnyiee	nnyiee
+hwehwɛ	V;HAB+PRF;NEG;PRS	nnhwehwɛee	nnhweeeɛwe
+kyerɛ	V;HAB+PRF;NEG;PRS	nnkyerɛee	nnkyereɛe
+wosow	V;HAB+PRF;NEG;PRS	nnwosowee	nnwoseeu 
+fa	V;HAB+PRF;NEG;PRS	mmfaee	mmfaee
+nyam	V;HAB+PRF;NEG;PRS	nnnyamee	nnnyaeew
+huane	V;SBJV;NEG;PRS	mma nnhuane	mma nnhuane
+hata	V;SBJV;NEG;PRS	mma nnhata	mma nnhata
+kyereɛw	V;SBJV;NEG;PRS	mma nnkyereɛw	mma nnkyerese
+kasa	V;SBJV;NEG;PRS	mma nnkasa	mma nnkasa
+hwehwɛ	V;SBJV;NEG;PRS	mma nnhwehwɛ	mma nnhweɔwe
+kyia	V;SBJV;NEG;PRS	mma nnkyia	mma nnkyia
+dum	V;SBJV;NEG;PRS	mma nndum	mma nndus
+bɔ waw	V;SBJV;NEG;PRS	mma mmbɔ waw	mma mmbɔ dae
+hyina	V;SBJV;NEG;PRS	mma nnhyina	mma nnhyina
+soɛr	V;SBJV;NEG;PRS	mma nnsoɛr	mma nnsoɛr
+mene	V;SBJV;NEG;PRS	mma mmmene	mma mmmene
+kyerɛ	V;SBJV;NEG;PRS	mma nnkyerɛ	mma nnkyeri
+bɔ nsamu	V;PRF;NEG;PST+IMMED	nna mmbɛbɔ nsamuee	nna mmbɛbɔ eseee..
+tutu	V;PRF;NEG;PST+IMMED	nna mmbɛtutuee	nna mmbɛtuteeu
+fa	V;PRF;NEG;PST+IMMED	nna mmbɛfaee	nna mmbɛfaee
+boro	V;PRF;NEG;PST+IMMED	nna mmbɛboroee	nna mmbɛboreeo
+wie	V;PRF;NEG;PST+IMMED	nna mmbɛwiee	nna mmbɛwieew
+bobɔw	V;PRF;NEG;PST+IMMED	nna mmbɛbobɔwee	nna mmbɛboeewee
+hwehwɛ	V;PRF;NEG;PST+IMMED	nna mmbɛhwehwɛee	nna mmbɛhweeweee
+bobɔw	V;PRF;NEG;PST+IMMED	nna mmbɛbobɔwee	nna mmbɛboeewee
+hwɛ	V;PRF;NEG;PST+IMMED	nna mmbɛhwɛee	nna mmbɛhwe a
+bɔ mpae	V;PRF;NEG;PST+IMMED	nna mmbɛbɔ mpaee	nna mmbɛbɔ eoeeee
+nyim	V;PRF;NEG;PST+IMMED	nna mmbɛnyimee	nna mmbɛnyemee
+kyerɛ	V;PROG;PRS;LGSPEC1	rekɔkyerɛ	rekɔkyera
+hia	V;PROG;PRS;LGSPEC1	rekɔhia	rekɔhia
+we	V;PROG;PRS;LGSPEC1	rekɔwe	rekɔwe
+tafeere	V;PROG;PRS;LGSPEC1	rekɔtafeere	rekɔtareene
+twerɛw	V;PROG;PRS;LGSPEC1	rekɔtwerɛw	rekɔtweriɛ
+di nkonim	V;PROG;PRS;LGSPEC1	rekɔdi nkonim	rekɔdi nkofiu
+tintim	V;PROG;PRS;LGSPEC1	rekɔtintim	rekɔtintin
+suo mu	V;PROG;PRS;LGSPEC1	rekɔsuo mu	rekɔsuk mu
+tu nguan	V;PROG;PRS;LGSPEC1	rekɔtu nguan	rekɔtu nkowi
+twe	V;PROG;PRS;LGSPEC1	rekɔtwe	rekɔtwe
+pɛ	V;PROG;PRS;LGSPEC1	rekɔpɛ	rekɔpɛ
+hwehwɛ	V;PROG;PRS;LGSPEC1	rekɔhwehwɛ	rekɔhwetwɛ
+wo	V;PROG;PRS;LGSPEC1	rekɔwo	rekɔwo
+boro	V;PROG;PRS;LGSPEC1	rekɔboro	rekɔbore
+su	V;HAB+PROG;PST	nna resu	nna resu
+mene	V;HAB+PROG;PST	nna remene	nna remene
+yi ayɛw	V;HAB+PROG;PST	nna reyi ayɛw	nna reyi awɛu
+tɔn	V;HAB+PROG;PST	nna retɔn	nna retɔn
+fra	V;HAB+PROG;PST	nna refra	nna refea
+su	V;HAB+PROG;PST	nna resu	nna resu
+serew	V;HAB+PROG;PST	nna reserew	nna reserew
+hunti	V;HAB+PROG;PST	nna rehunti	nna rehunti
+tie	V;HAB+PROG;PST	nna retie	nna retie
+sensen	V;HAB+PROG;PST	nna resensen	nna resenken
+huruw	V;HAB+PROG;PST	nna rehuruw	nna rehurew
+da	V;HAB+PROG;PST	nna reda	nna reda
+bɔ waw	V;HAB+PROG;PST	nna rebɔ waw	nna rebɔ daw
+dua	V;HAB;NEG;FUT	renndua	renndua
+boro	V;HAB;NEG;FUT	remmboro	remmboru
+wosow	V;HAB;NEG;FUT	rennwosow	rennwosmw
+nyim	V;HAB;NEG;FUT	rennnyim	rennnyim
+saw	V;HAB;NEG;FUT	rennsaw	rennsaw
+pepa	V;HAB;NEG;FUT	remmpepa	remmpe a
+yi	V;HAB;NEG;FUT	rennyi	rennyi
+kɔ tiefi	V;HAB;NEG;FUT	rennkɔ tiefi	rennkɔ tieni
+wie	V;HAB;NEG;FUT	rennwie	rennwie
+te ase	V;HAB;NEG;FUT	rennte ase	rennte ase
+tɔ nko	V;HAB;NEG;FUT	renntɔ nko	renntɔ nko
+ka	V;HAB;NEG;FUT	rennka	rennka
+sensen	V;HAB;NEG;FUT	rennsensen	rennsenken
+dua	V;HAB;NEG;FUT	renndua	renndua
+hia	V;PRF;PRS;LGSPEC1	akɔhia	akɔhia
+yɛ	V;PRF;PRS;LGSPEC1	akɔyɛ	akɔyɛ
+yɛ	V;PRF;PRS;LGSPEC1	akɔyɛ	akɔyɛ
+tɔ nko	V;PRF;PRS;LGSPEC1	akɔtɔ nko	akɔtɔ nko
+bɔ nsamu	V;PRF;PRS;LGSPEC1	akɔbɔ nsamu	akɔbɔ nsuwi
+hua	V;PRF;PRS;LGSPEC1	akɔhua	akɔhua
+hata	V;PRF;PRS;LGSPEC1	akɔhata	akɔhasa
+te ase	V;PRF;PRS;LGSPEC1	akɔte ase	akɔte ase
+kyereɛw	V;PRF;PRS;LGSPEC1	akɔkyereɛw	akɔkyereɛw
+kyia	V;PRF;PRS;LGSPEC1	akɔkyia	akɔkyia
+tie	V;PRF;PRS;LGSPEC1	akɔtie	akɔtie
+wie	V;PRF;PRS;LGSPEC1	akɔwie	akɔwie
+hua	V;PRF;PRS;LGSPEC1	akɔhua	akɔhua
+wo	V;PRF;PRS;LGSPEC1	akɔwo	akɔwo
+kɔ tiefi	V;PRF;PRS;LGSPEC1	akɔkɔ tiefi	akɔkɔ tieni
+tutu	V;PRF;PRS;LGSPEC1	akɔtutu	akɔturu
+guare	V;NEG;PST;LGSPEC1	ammkɔguare	ammkɔguare
+da ase	V;NEG;PST;LGSPEC1	ammkɔda ase	ammkɔda ase
+fra	V;NEG;PST;LGSPEC1	ammkɔfra	ammkɔfra
+gye	V;NEG;PST;LGSPEC1	ammkɔgye	ammkɔgye
+tutu	V;NEG;PST;LGSPEC1	ammkɔtutu	ammkɔturu
+suo mu	V;NEG;PST;LGSPEC1	ammkɔsuo mu	ammkɔsu  gu
+dua	V;NEG;PST;LGSPEC1	ammkɔdua	ammkɔdua
+tie	V;NEG;PST;LGSPEC1	ammkɔtie	ammkɔtie
+mene	V;NEG;PST;LGSPEC1	ammkɔmene	ammkɔmene
+kae	V;NEG;PST;LGSPEC1	ammkɔkae	ammkɔkae
+pɛ	V;NEG;PST;LGSPEC1	ammkɔpɛ	ammkɔpɛ
+huane	V;NEG;PST;LGSPEC1	ammkɔhuane	ammkɔhuane
+tutu	V;NEG;PST;LGSPEC1	ammkɔtutu	ammkɔturu
+pɛ	V;NEG;PST;LGSPEC1	ammkɔpɛ	ammkɔpɛ
+da ase	V;NEG;PST;LGSPEC1	ammkɔda ase	ammkɔda ase
+huane	V;PRF;NEG;PST;LGSPEC1	nna nnkɔhuanee	nna nnkɔhuaeeee
+bɔ nsamu	V;PRF;NEG;PST;LGSPEC1	nna nnkɔbɔ nsamuee	nna nnkɔbɔ nsueee.
+nantew	V;PRF;NEG;PST;LGSPEC1	nna nnkɔnantewee	nna nnkɔnanmeeee
+kyiri	V;PRF;NEG;PST;LGSPEC1	nna nnkɔkyiriee	nna nnkɔkyiriee
+dua	V;PRF;NEG;PST;LGSPEC1	nna nnkɔduaee	nna nnkɔduaee
+kenkan	V;PRF;NEG;PST;LGSPEC1	nna nnkɔkenkanee	nna nnkɔkensaeee
+pɛ	V;PRF;NEG;PST;LGSPEC1	nna nnkɔpɛee	nna nnkɔpipe
+tweɔn	V;PRF;NEG;PST;LGSPEC1	nna nnkɔtweɔnee	nna nnkɔtweeeea
+hia	V;PRF;NEG;PST;LGSPEC1	nna nnkɔhiaee	nna nnkɔhiaee
+boro	V;PRF;NEG;PST;LGSPEC1	nna nnkɔboroee	nna nnkɔboeees
+hata	V;PRF;NEG;PST;LGSPEC1	nna nnkɔhataee	nna nnkɔhataee
+da ase	V;PRF;NEG;PST;LGSPEC1	nna nnkɔda asee	nna nnkɔda aeeee
+kasa	V;PRF;NEG;PST;LGSPEC1	nna nnkɔkasaee	nna nnkɔkaeaee
+bobɔw	V;PRF;NEG;PST;LGSPEC1	nna nnkɔbobɔwee	nna nnkɔboeewee
+bisa	V;PRF;NEG;PST;LGSPEC1	nna nnkɔbisaee	nna nnkɔbieaee
+nom	V;PRF;NEG;PST;LGSPEC1	nna nnkɔnomee	nna nnkɔnomee
+hua	V;PRF;NEG;PST;LGSPEC1	nna nnkɔhuaee	nna nnkɔhuaee
+twerɛw	V;PRF;NEG;PST;LGSPEC1	nna nnkɔtwerɛwee	nna nnkɔtwerɛeen
+bɔ waw	V;HAB+PRF;NEG;PST	nna mmbɔ wawee	nna mmbɔ eawee
+da	V;HAB+PRF;NEG;PST	nna nndaee	nna nndaee
+ma	V;HAB+PRF;NEG;PST	nna mmmaee	nna mmmaes
+di nkonim	V;HAB+PRF;NEG;PST	nna nndi nkonimee	nna nndi nkoeea..
+nom	V;HAB+PRF;NEG;PST	nna nnnomee	nna nnnomme
+yɛ	V;HAB+PRF;NEG;PST	nna nnyɛee	nna nnyɛee
+kɔ tiefi	V;HAB+PRF;NEG;PST	nna nnkɔ tiefiee	nna nnkɔ esweeu.
+da	V;HAB+PRF;NEG;PST	nna nndaee	nna nndaee
+hyɛ ase	V;HAB+PRF;NEG;PST	nna nnhyɛ asee	nna nnhyɛdereeu
+tintim	V;HAB+PRF;NEG;PST	nna nntintimee	nna nntineewee
 ku	V;HAB+PRF;NEG;PST	nna nnkuee	nna nnkuee
-da	V;PROG;PST+IMMED	nna rebɛda	nna rebɛda
-kekamu	V;HAB+PRF;PST	nna akekamu	nna akeoamu
-hwɛ	V;HAB+PRF;PST	nna ahwɛ	nna ahwɛ
+da	V;HAB+PRF;NEG;PST	nna nndaee	nna nndaee
+hyina	V;HAB+PRF;NEG;PST	nna nnhyinaee	nna nnhyieee 
+bɔ	V;HAB+PRF;NEG;PST	nna mmbɔee	nna mmbɔee
+saw	V;PROG;PRS+IMMED	rebɛsaw	rebɛsaw
+wie	V;PROG;PRS+IMMED	rebɛwie	rebɛwie
+di	V;PROG;PRS+IMMED	rebɛdi	rebɛdi
+da	V;PROG;PRS+IMMED	rebɛda	rebɛda
+tɔn	V;PROG;PRS+IMMED	rebɛtɔn	rebɛtɔn
+bɔ waw	V;PROG;PRS+IMMED	rebɛbɔ waw	rebɛbɔ kae
+twerɛw	V;PROG;PRS+IMMED	rebɛtwerɛw	rebɛtwerɛɛ
+sua	V;PROG;PRS+IMMED	rebɛsua	rebɛsua
+yɛ adwuma	V;PROG;PRS+IMMED	rebɛyɛ adwuma	rebɛyɛ ay. mu
+mene	V;PROG;PRS+IMMED	rebɛmene	rebɛmene
+bobɔw	V;PRF;PRS+IMMED	abɛbobɔw	abɛborɔw
+tie	V;PRF;PRS+IMMED	abɛtie	abɛtie
+we	V;PRF;PRS+IMMED	abɛwe	abɛwe
+tew	V;PRF;PRS+IMMED	abɛtew	abɛtew
+guare	V;PRF;PRS+IMMED	abɛguare	abɛnuare
+serew	V;PRF;PRS+IMMED	abɛserew	abɛserew
+hua	V;PRF;PRS+IMMED	abɛhua	abɛhua
+dum	V;PRF;PRS+IMMED	abɛdum	abɛdum
+dua	V;PRF;PRS+IMMED	abɛdua	abɛdua
+tɔ	V;PRF;PRS+IMMED	abɛtɔ	abɛtɔ
+tie	V;PRF;PRS+IMMED	abɛtie	abɛtie
+boro	V;PRF;PRS+IMMED	abɛboro	abɛboro
+wie	V;PRF;PRS+IMMED	abɛwie	abɛwie
+bɔ mpae	V;PRF;PRS+IMMED	abɛbɔ mpae	abɛbɔ msae
+boro	V;PRF;PRS+IMMED	abɛboro	abɛboro
+ba	V;PRF;PRS+IMMED	abɛba	abɛba
+hwɛ	V;NEG;PST+IMMED	ammbɛhwɛ	ammbɛhwi
+yi ayɛw	V;NEG;PST+IMMED	ammbɛyi ayɛw	ammbɛyi aoee
+tie	V;NEG;PST+IMMED	ammbɛtie	ammbɛtie
+boa	V;NEG;PST+IMMED	ammbɛboa	ammbɛboa
+suma	V;NEG;PST+IMMED	ammbɛsuma	ammbɛsuma
+hyɛ ase	V;NEG;PST+IMMED	ammbɛhyɛ ase	ammbɛhyimare
+soɛr	V;NEG;PST+IMMED	ammbɛsoɛr	ammbɛso r
+boro	V;NEG;PST+IMMED	ammbɛboro	ammbɛboro
+tɔ nko	V;NEG;PST+IMMED	ammbɛtɔ nko	ammbɛtɔ nko
+tena	V;HAB+PROG;NEG;PST	nna renntena	nna renntena
+tie	V;HAB+PROG;NEG;PST	nna renntie	nna renntie
+tow .. mu	V;HAB+PROG;NEG;PST	nna renntow .. mu	nna renntow dwuma
+nyim	V;HAB+PROG;NEG;PST	nna rennnyim	nna rennnytm
+suma	V;HAB+PROG;NEG;PST	nna rennsuma	nna rennsuma
+nantew	V;HAB+PROG;NEG;PST	nna rennnantew	nna rennnantew
+boa	V;HAB+PROG;NEG;PST	nna remmboa	nna remmboa
+we	V;HAB+PROG;NEG;PST	nna rennwe	nna rennwe
+kyereɛw	V;HAB+PROG;NEG;PST	nna rennkyereɛw	nna rennkyereɛw
+te ase	V;NEG;PRS;LGSPEC1	nnkɔte ase	nnkɔte ase
+ba	V;NEG;PRS;LGSPEC1	nnkɔba	nnkɔba
+tafeere	V;NEG;PRS;LGSPEC1	nnkɔtafeere	nnkɔtareene
+hata	V;NEG;PRS;LGSPEC1	nnkɔhata	nnkɔhata
+tow .. mu	V;NEG;PRS;LGSPEC1	nnkɔtow .. mu	nnkɔtow mueim
+nantew	V;NEG;PRS;LGSPEC1	nnkɔnantew	nnkɔnanwew
+wo	V;NEG;PRS;LGSPEC1	nnkɔwo	nnkɔwo
+tew	V;NEG;PRS;LGSPEC1	nnkɔtew	nnkɔtew
+nyim	V;NEG;PRS;LGSPEC1	nnkɔnyim	nnkɔnyim
+su	V;NEG;PRS;LGSPEC1	nnkɔsu	nnkɔsu
+mia	V;NEG;PRS;LGSPEC1	nnkɔmia	nnkɔmia
+kɔ tiefi	V;NEG;PRS;LGSPEC1	nnkɔkɔ tiefi	nnkɔkɔ rieni
+tu nguan	V;PROG;NEG;PST;LGSPEC1	nna rennkɔtu nguan	nna rennkɔtu nsufi
+mene	V;PROG;NEG;PST;LGSPEC1	nna rennkɔmene	nna rennkɔmere
+twa	V;PROG;NEG;PST;LGSPEC1	nna rennkɔtwa	nna rennkɔtwa
+sua	V;PROG;NEG;PST;LGSPEC1	nna rennkɔsua	nna rennkɔsua
+hia	V;PROG;NEG;PST;LGSPEC1	nna rennkɔhia	nna rennkɔhia
+da ase	V;PROG;NEG;PST;LGSPEC1	nna rennkɔda ase	nna rennkɔda ase
+hunti	V;PROG;NEG;PST;LGSPEC1	nna rennkɔhunti	nna rennkɔhunti
+	V;PROG;NEG;PST;LGSPEC1		..........kitdwefi.
+twerɛw	V;PROG;NEG;PST;LGSPEC1	nna rennkɔtwerɛw	nna rennkɔtwewnɛ
+tu nguan	V;PROG;NEG;PST;LGSPEC1	nna rennkɔtu nguan	nna rennkɔtu nsufi
+da ase	V;PROG;NEG;PST;LGSPEC1	nna rennkɔda ase	nna rennkɔda ase
+	V;PROG;NEG;PST;LGSPEC1		..........kitdwefi.
+mene	V;PROG;NEG;PST;LGSPEC1	nna rennkɔmene	nna rennkɔmere
+hua	V;PROG;NEG;PST;LGSPEC1	nna rennkɔhua	nna rennkɔhua
+nyim	V;PROG;NEG;PST;LGSPEC1	nna rennkɔnyim	nna rennkɔnyim
+boa	V;PROG;NEG;PST;LGSPEC1	nna rennkɔboa	nna rennkɔboa
+yi	V;PRF;NEG;PRS+IMMED	mmbɛyiee	mmbɛyiee
+bɔ	V;PRF;NEG;PRS+IMMED	mmbɛbɔee	mmbɛbɔee
+huane	V;PRF;NEG;PRS+IMMED	mmbɛhuanee	mmbɛhuaeeee
+nom	V;PRF;NEG;PRS+IMMED	mmbɛnomee	mmbɛnomme
+tɔ	V;PRF;NEG;PRS+IMMED	mmbɛtɔee	mmbɛtɔee
+kenkan	V;PRF;NEG;PRS+IMMED	mmbɛkenkanee	mmbɛkeneeeee
+twa	V;PRF;NEG;PRS+IMMED	mmbɛtwaee	mmbɛtwahe
+boa	V;PRF;NEG;PRS+IMMED	mmbɛboaee	mmbɛboaee
+saw	V;PRF;NEG;PRS+IMMED	mmbɛsawee	mmbɛsawee
+bɔ	V;PRF;NEG;PRS+IMMED	mmbɛbɔee	mmbɛbɔee
+fra	V;PRF;NEG;PRS+IMMED	mmbɛfraee	mmbɛfaahe
+yi	V;PRF;NEG;PRS+IMMED	mmbɛyiee	mmbɛyiee
+nom	V;PRF;NEG;PRS+IMMED	mmbɛnomee	mmbɛnomme
+mene	V;PRF;NEG;PRS+IMMED	mmbɛmenee	mmbɛmenwee
+bue	V;PRF;NEG;PRS+IMMED	mmbɛbuee	mmbɛbueed
+tow .. mu	V;PRF;NEG;PRS+IMMED	mmbɛtow .. muee	mmbɛtow esumaee
+gu nsu	V;PRF;NEG;PRS+IMMED	mmbɛgu nsuee	mmbɛgu nsuen
+twerɛw	V;PRF;NEG;PRS+IMMED	mmbɛtwerɛwee	mmbɛtweeɛeee
+gu nsu	V;PROG;PST+IMMED	nna rebɛgu nsu	nna rebɛgu nse
+hwehwɛ	V;PROG;PST+IMMED	nna rebɛhwehwɛ	nna rebɛhweowɛ
+mene	V;PROG;PST+IMMED	nna rebɛmene	nna rebɛmene
+nyam	V;PROG;PST+IMMED	nna rebɛnyam	nna rebɛnyau
+di nkonim	V;PROG;PST+IMMED	nna rebɛdi nkonim	nna rebɛdi nkofia
+hunti	V;PROG;PST+IMMED	nna rebɛhunti	nna rebɛhunti
+kyiri	V;PROG;PST+IMMED	nna rebɛkyiri	nna rebɛkyira
+nantew	V;PROG;PST+IMMED	nna rebɛnantew	nna rebɛnantew
+wie	V;PROG;PST+IMMED	nna rebɛwie	nna rebɛwie
+kɔ	V;PROG;PST+IMMED	nna rebɛkɔ	nna rebɛkɔ
+di nkonim	V;PROG;PST+IMMED	nna rebɛdi nkonim	nna rebɛdi nkofia
+tow .. mu	V;PROG;PST+IMMED	nna rebɛtow .. mu	nna rebɛtowkdwuma
+kyia	V;PROG;PST+IMMED	nna rebɛkyia	nna rebɛkyia
+yi ayɛw	V;HAB+PRF;PST	nna ayi ayɛw	nna ayi aoɛw
+suma	V;HAB+PRF;PST	nna asuma	nna asuma
+huane	V;HAB+PRF;PST	nna ahuane	nna ahuane
+kyia	V;HAB+PRF;PST	nna akyia	nna akyia
+dua	V;HAB+PRF;PST	nna adua	nna atua
+twerɛw	V;HAB+PRF;PST	nna atwerɛw	nna atwerɛw
+dum	V;HAB+PRF;PST	nna adum	nna anum
+yɛ	V;HAB+PRF;PST	nna ayɛ	nna apɛ
+kɔ tiefi	V;HAB+PRF;PST	nna akɔ tiefi	nna akɔ tieum
+tew	V;HAB+PRF;PST	nna atew	nna atew
+huane	V;HAB+PRF;PST	nna ahuane	nna ahuane
+pia	V;HAB+PRF;PST	nna apia	nna apia
+bɔ nsamu	V;HAB+PRF;PST	nna abɔ nsamu	nna abɔ nkoum
+gu nsu	V;HAB+PRF;PST	nna agu nsu	nna amu nku
+gye	V;HAB+PRF;PST	nna agye	nna atye

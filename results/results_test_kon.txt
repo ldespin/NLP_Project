@@ -1,15 +1,113 @@
-santisa 	V;PRS	ke santisa 	ke santisa 
-seloka	V;NFIN	kuseloka	kuseloka
-tuka 	V;NFIN	kutuka 	kutukau
-sa	V;FUT	ta kusa	ta kusa
-sabula	V;FUT	ta kusabula	ta kusabula
-nwa	V;FUT	ta kunwa	ta koswa
-sonikina	V;PST	sonikinaka	sonikinaka
-sevisa	V;PST	sevisaka	sevisaka
-sekula	V;PST	sekulaka	sekulaka
-tunga	V;PST	tungaka	tungaka
-sungika	V;PST	sungikaka	sungikaka
-tanguna 	V;PST	tanguna ka	tanguna ka
-senda	V;PST	sendaka	sendaka
+salasana	V;NFIN	kusalasana	kusalasana
+sekula	V;NFIN	kusekula	kusekula
+klikia	V;NFIN	kuklikia	kusiikia
+tambula	V;NFIN	kutambula	kutambula
+sobasana	V;NFIN	kusobasana	kusobasana
+sakana	V;NFIN	kusakana	kosakana
+tadisa	V;NFIN	kutadisa	kutadisa
+pusa	V;NFIN	kupusa	kupusa
+sakalala	V;NFIN	kusakalala	kusakalasa
+tanina 	V;NFIN	kutanina 	kutanina 
+tsamuka 	V;NFIN	kutsamuka 	kotsamuka 
+tunga	V;NFIN	kutunga	kutunga
+tua	V;NFIN	kutua	kotua
+sikama	V;NFIN	kusikama	kusikama
+tekita	V;NFIN	kutekita	kotekioa
+sasula	V;NFIN	kusasula	kusasula
+tekila	V;NFIN	kutekila	kutekila
+sansa	V;NFIN	kusansa	kusansa
+sobasana	V;NFIN	kusobasana	kusobasana
+sompa	V;NFIN	kusompa	kosomda
+tadisa	V;NFIN	kutadisa	kutadisa
+pusa	V;NFIN	kupusa	kupusa
+tuba	V;NFIN	kutuba	kutuba
+sivika	V;NFIN	kusivika	kusivika
+temoka	V;NFIN	kutemoka	kutemoka
+semba	V;FUT	ta kusemba	ta kusemba
+sompisa	V;FUT	ta kusompisa	ta kusompisa
+sivika	V;FUT	ta kusivika	ta kusivika
+tala	V;FUT	ta kutala	ta kutala
+sungama	V;FUT	ta kusungama	ta kusungama
+tonda	V;FUT	ta kutonda	ta kutonda
+sanduka	V;FUT	ta kusanduka	ta kusanduka
+sikimisa	V;FUT	ta kusikimisa	ta kusikimisa
+sampuka	V;FUT	ta kusampuka	ta kusampuka
+tangisa	V;FUT	ta kutangisa	ta kutangisa
+senda	V;FUT	ta kusenda	ta kusenda
+tsamuka 	V;FUT	ta kutsamuka 	ta kotsamuka 
+tambikisa	V;FUT	ta kutambikisa	ta kotambikila
+sompisa	V;FUT	ta kusompisa	ta kusompisa
+sikila 	V;FUT	ta kusikila 	ta kusikila 
+simbisa	V;FUT	ta kusimbisa	ta kusimbisa
+tula	V;FUT	ta kutula	ta kutula
+suba	V;FUT	ta kusuba	ta kusuba
+sisila	V;FUT	ta kusisila	ta kosisila
+teta	V;FUT	ta kuteta	ta kuteta
+pulusa	V;FUT	ta kupulusa	ta kupulusa
+timba	V;FUT	ta kutimba	ta kutimba
+sinsana	V;FUT	ta kusinsana	ta kusinsana
+sakumuna	V;FUT	ta kusakumuna	ta kusakumuna
+tunga	V;FUT	ta kutunga	ta kutunga
+tonta	V;FUT	ta kutonta	ta kutonta
+tsamuka 	V;FUT	ta kutsamuka 	ta kotsamuka 
+tuika	V;FUT	ta kutuika	ta kutuika
+sakana	V;FUT	ta kusakana	ta kosakana
+tafuna	V;FUT	ta kutafuna	ta kutakuna
+palangana	V;PRS	ke palangana	ke palansana
+sueka	V;PRS	ke sueka	ke sueka
+sanisina	V;PRS	ke sanisina	ke sanisina
+pungula	V;PRS	ke pungula	ke pungula
+tengika	V;PRS	ke tengika	ke tengika
+vwata	V;PRS	ke vwata	ke vwata
+sakumuna	V;PRS	ke sakumuna	ke sakumuna
+tengika	V;PRS	ke tengika	ke tengika
+pamuna	V;PRS	ke pamuna	ke pamuna
+tengika	V;PRS	ke tengika	ke tengika
+tenda	V;PRS	ke tenda	ke tenda
+sasa	V;PRS	ke sasa	ke sasa
+tanguna 	V;PRS	ke tanguna 	ke tanguna 
+seka	V;PRS	ke seka	ke seka
+enda	V;PRS	ke enda	ke kada
+sikila 	V;PRS	ke sikila 	ke sikila 
+tolola	V;PRS	ke tolola	ke tolola
+tsamuka 	V;PRS	ke tsamuka 	ke tsamuka 
+tsamuna	V;PRS	ke tsamuna	ke tsamuna
+tanda	V;PRS	ke tanda	ke tanda
+semba	V;PRS	ke semba	ke semba
+tatika 	V;PRS	ke tatika 	ke tatika 
+totoka	V;PRS	ke totoka	ke totoka
+salama 	V;PRS	ke salama 	ke salama 
+puluka	V;PRS	ke puluka	ke puluka
+vambana	V;PRS	ke vambana	ke vambana
+sasula	V;PRS	ke sasula	ke sasula
+tambusa	V;PRS	ke tambusa	ke tambusa
+tumama	V;PRS	ke tumama	ke tumama
+tota	V;PRS	ke tota	ke tota
+timbula	V;PRS	ke timbula	ke timbula
+toma	V;PRS	ke toma	ke toma
+ta	V;PRS	ke ta	ke ta
+tuadisa	V;PRS	ke tuadisa	ke tuadisa
+ta	V;PST	taka	tatk
+tilumuna	V;PST	tilumunaka	tilumunaka
+tambikisa	V;PST	tambikisaka	tambikalaka
+tsamuka 	V;PST	tsamuka ka	tsamuka ka
+tuela	V;PST	tuelaka	tuelaka
 sobasana	V;PST	sobasanaka	sobasanaka
-simbidila	V;PST	simbidilaka	simbidilaka
+sampuka	V;PST	sampukaka	sampukaka
+sonikisa	V;PST	sonikisaka	sonikisaka
+sungika	V;PST	sungikaka	sungikaka
+senda	V;PST	sendaka	sendaka
+tatamana	V;PST	tatamanaka	tatamanaka
+tsamuka 	V;PST	tsamuka ka	tsamuka ka
+siamisa	V;PST	siamisaka	siamisaka
+tonganana	V;PST	tongananaka	tonganakaka
+sola	V;PST	solaka	solaka
+sevisa	V;PST	sevisaka	sevisaka
+simbisa	V;PST	simbisaka	simbisaka
+tsubula	V;PST	tsubulaka	tsubulaka
+sansa	V;PST	sansaka	sansaka
+sola	V;PST	solaka	solaka
+sa	V;PST	saka	satk
+sansa	V;PST	sansaka	sansaka
+toloka	V;PST	tolokaka	tolokaka
+sokumuna	V;PST	sokumunaka	sokumunaka
